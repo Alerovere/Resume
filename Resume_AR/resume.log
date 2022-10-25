@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  5 OCT 2022 17:32
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  25 OCT 2022 12:24
  restricted system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -1809,50 +1809,50 @@ Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
 (scrartcl)              The command has been renamed because of a
 (scrartcl)              recommendation of The LaTeX Project Team.
 (scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
-input line 641.
+input line 643.
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 641--641
+Underfull \hbox (badness 2529) in paragraph at lines 643--643
 \TU/Carlito(0)/m/n/12 IPCC 6th As-sess-ment Re-port. I
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 641--641
+Underfull \hbox (badness 5490) in paragraph at lines 643--643
 \TU/Carlito(0)/m/n/12 convener of sev-eral ses-sions at
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 641--641
+Underfull \hbox (badness 1237) in paragraph at lines 643--643
 \TU/Carlito(0)/m/n/12 sev-eral in-ter-na-tional con-fer-ences.
  []
 
 
-Underfull \hbox (badness 3260) in paragraph at lines 641--641
+Underfull \hbox (badness 3260) in paragraph at lines 643--643
 \TU/Carlito(0)/m/n/12 I have also co-organised sev-eral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--641
+Underfull \hbox (badness 10000) in paragraph at lines 643--643
 
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 641--641
+Underfull \hbox (badness 2050) in paragraph at lines 643--643
 \TU/Carlito(0)/m/n/12 I have edited two spe-cial is-sues
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--641
+Underfull \hbox (badness 10000) in paragraph at lines 643--643
 \TU/Carlito(0)/m/n/12 in in-ter-na-tional jour-nals, one
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 641--641
+Underfull \hbox (badness 1824) in paragraph at lines 643--643
 \TU/Carlito(0)/m/n/12 ter-na-tional jour-nals. I re-viewed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--642
+Underfull \hbox (badness 10000) in paragraph at lines 643--644
 
  []
 
@@ -1864,15 +1864,15 @@ Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
 (scrartcl)              The command has been renamed because of a
 (scrartcl)              recommendation of The LaTeX Project Team.
 (scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
-input line 673.
+input line 675.
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 673--673
+Underfull \hbox (badness 5985) in paragraph at lines 675--675
 []\TU/Carlito(0)/m/n/12 My re-search ac-tiv-i-ties were re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 673--674
+Underfull \hbox (badness 10000) in paragraph at lines 675--676
 
  []
 
@@ -1882,28 +1882,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 673--674
 <img/products_per_year.png, id=60, 1445.4pt x 361.35pt>
 File: img/products_per_year.png Graphic file (type png)
 <use img/products_per_year.png>
-Package luatex.def Info: img/products_per_year.png  used on input line 689.
+Package luatex.def Info: img/products_per_year.png  used on input line 691.
 (luatex.def)             Requested size: 540.60245pt x 135.14752pt.
 <img/citations_authors.png, id=61, 1445.4pt x 361.35pt>
 File: img/citations_authors.png Graphic file (type png)
 <use img/citations_authors.png>
-Package luatex.def Info: img/citations_authors.png  used on input line 694.
+Package luatex.def Info: img/citations_authors.png  used on input line 696.
 (luatex.def)             Requested size: 540.60245pt x 135.14752pt.
 <img/field_data.png, id=62, 1927.2pt x 1084.05pt>
 File: img/field_data.png Graphic file (type png)
 <use img/field_data.png>
-Package luatex.def Info: img/field_data.png  used on input line 699.
+Package luatex.def Info: img/field_data.png  used on input line 701.
 (luatex.def)             Requested size: 513.57066pt x 288.87639pt.
  [8
 
 <./img/products_per_year.png><./img/citations_authors.png><./img/field_data.png>
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 707.
+(Font)              <12> on input line 709.
 
 
 LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 710.
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 712.
 
 [9
 
@@ -1913,7 +1913,7 @@ Missing character: There is no ́ (U+0301) in font Carlito:mode=node;script=latn
 Missing character: There is no ́ (U+0301) in font Carlito:mode=node;script=latn
 ;language=dflt;+tlig;!
 ] [11] [12] [13]
-Overfull \hbox (1.26244pt too wide) in paragraph at lines 721--721
+Overfull \hbox (1.26244pt too wide) in paragraph at lines 723--723
 [][]\TU/Carlito(0)/b/n/10 Ro-vere\TU/Carlito(0)/m/n/10 , A., Stoc-chi, P., & $[
 ]$, M. (2020). \TU/Carlito(0)/m/it/10 Mod-els, data and python tools for the ana
 l-y-sis of sea level data in the Sper-monde Archipelago
@@ -1930,10 +1930,6 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'resume.run.xml'.
 
 \openout1 = resume.run.xml
@@ -1956,7 +1952,7 @@ demicons.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/typoland/carlito
 /Carlito-Regular.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/f
 ontawesome/FontAwesome.otf></usr/local/texlive/2022/texmf-dist/fonts/truetype/ty
 poland/carlito/Carlito-Bold.ttf>
-Output written on resume.pdf (15 pages, 1591379 bytes).
+Output written on resume.pdf (15 pages, 1591626 bytes).
 
 PDF statistics: 483 PDF objects out of 1000 (max. 8388607)
  439 compressed objects within 5 object streams
