@@ -6802,13 +6802,112 @@
       \keyw{Holocene,Mediterranean Sea,Isostatic adjustment,Sea-level database,Sea-level proxy}
     \endentry
     \entry{antonioli2015acao}{dataset}{}
+      \name{author}{17}{}{%
+        {{hash=fad567653ee2f62523b423db360812d3}{%
+           family={Antonioli},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=07c1c3df319faf014c8d0c4adca0eefc}{%
+           family={Lo\bibnamedelima Presti},
+           familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6733a36984c0592bd00e6b0fe9c49f36}{%
+           family={Ferranti},
+           familyi={F\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d3c6a29d5ecdf1d28697d73e7a2cbbcb}{%
+           family={Anzidei},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f5dc4411e5cfe03e875bae60fb55e83d}{%
+           family={Furlani},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=653ecaf7cea06f10321d9377cfa9871d}{%
+           family={Mastronuzzi},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=78f88eddd0ee2537418c4bc2da69199d}{%
+           family={Orru},
+           familyi={O\bibinitperiod},
+           given={P.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=72514a4be3a93bdb89ed862466f80993}{%
+           family={Scicchitano},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=48afc08e4a1fc0200d4e073adb0191f5}{%
+           family={Sannino},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=059240a4d001f319a7e09c433a1950aa}{%
+           family={Spampinato},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4cbbac2bdc4b85d6b317fc3aba474ae3}{%
+           family={Pagliarulo},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=66ecf7347b699aa9a23100aa6f2ffddb}{%
+           family={Deiana},
+           familyi={D\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=18db6dc20fb244a87a706c3420ce95b3}{%
+           family={Sabata},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=d64475cd5afcaa5417c04d8f45053073}{%
+           family={Sansò},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=241df6cad885c4e7b3b2b5bb65a41bf2}{%
+           family={Vacchi},
+           familyi={V\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=15a98af4498c2f78e73ec690d37ad59b}{%
+           family={Vecchio},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
       \list{publisher}{1}{%
         {PANGAEA}%
       }
+      \strng{namehash}{78821dfadcfdd67d4f200212d1f080b0}
+      \strng{fullhash}{768d9b9ceb32b3e8a3dfcb213380f607}
+      \strng{bibnamehash}{768d9b9ceb32b3e8a3dfcb213380f607}
+      \strng{authorbibnamehash}{768d9b9ceb32b3e8a3dfcb213380f607}
+      \strng{authornamehash}{78821dfadcfdd67d4f200212d1f080b0}
+      \strng{authorfullhash}{768d9b9ceb32b3e8a3dfcb213380f607}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Recent works (Evelpidou et al., 2012) suggest that the modern tidal notch is disappearing worldwide due sea level rise over the last century. In order to assess this hypothesis, we measured modern tidal notches in several of sites along the Mediterranean coasts. We report observations on tidal notches cut along carbonate coasts from 73 sites from Italy, France, Croatia, Montenegro, Greece, Malta and Spain, plus additional observations carried outside the Mediterranean. At each site, we measured notch width and depth, and we described the characteristics of the biological rim at the base of the notch. We correlated these parameters with wave energy, tide gauge datasets and rock lithology.\\ \\ Our results suggest that, considering {'}the development of tidal notches the consequence of midlittoral bioerosion{'} (as done in Evelpidou et al., 2012) is a simplification that can lead to misleading results, such as stating that notches are disappearing. Important roles in notch formation can be also played by wave action, rate of karst dissolution, salt weathering and wetting and drying cycles. Of course notch formation can be augmented and favoured also by bioerosion which can, in particular cases, be the main process of notch formation and development.\\ \\ Our dataset shows that notches are carved by an ensemble rather than by a single process, both today and in the past, and that it is difficult, if not impossible, to disentangle them and establish which one is prevailing. We therefore show that tidal notches are still forming, challenging the hypothesis that sea level rise has drowned them.}
       \field{note}{Supplement to: Antonioli, F et al. (2015): Tidal notches in Mediterranean Sea: a comprehensive analysis. Quaternary Science Reviews, 119, 66-84, https://doi.org/10.1016/j.quascirev.2015.03.016}
@@ -6922,8 +7021,10 @@
       \strng{authorbibnamehash}{768d9b9ceb32b3e8a3dfcb213380f607}
       \strng{authornamehash}{78821dfadcfdd67d4f200212d1f080b0}
       \strng{authorfullhash}{768d9b9ceb32b3e8a3dfcb213380f607}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -7219,31 +7320,6 @@
       \endverb
       \keyw{SLCC}
     \endentry
-    \entry{rovere2015moca}{dataset}{}
-      \list{publisher}{1}{%
-        {PANGAEA}%
-      }
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In this paper, we present a map describing the main geomorphological features of the coastal and marine area between the towns of Albenga and Savona (Ligurian Sea, NW Mediterranean) corresponding to a coastal stretch of {\textasciitilde}40 km. To produce this map, we collated data from the literature, orthophotos, perspective photos, multibeam and side scan sonar data, and undertook direct surveys to ground truth data obtained using indirect techniques. We divided the information into nine thematic layers, including bathymetry, natural coastal types, geomorphological elements, seafloor coverage (both geological and biological), coastal and nearshore dynamics, human influence on coastal and marine environments, coastal occupation and protected areas.}
-      \field{note}{Supplement to: Rovere, A et al. (2015): Coastal and marine geomorphology between Albenga and Savona (NW Mediterranean Sea, Italy). Journal of Maps, 11(2), 278-286, https://doi.org/10.1080/17445647.2014.933134}
-      \field{title}{{Maps of coastal and marine geomorphology between Albenga and Savona (NW Mediterranean Sea, Italy)}}
-      \field{type}{data set}
-      \field{year}{2015}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.1594/PANGAEA.846545
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1594/PANGAEA.846545
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1594/PANGAEA.846545
-      \endverb
-    \endentry
     \entry{morri_through_2015}{article}{}
       \name{author}{9}{}{%
         {{hash=0a10ec07d29a34f546aa8899e4095854}{%
@@ -7386,7 +7462,7 @@
       \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
     \entry{Rovere_coastal_2015}{article}{}
-      \name{author}{8}{ul=2}{%
+      \name{author}{8}{ul=3}{%
         {{hash=502296b06c73742b98488f897037d3a6}{%
            family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
@@ -7428,14 +7504,16 @@
            given={C.\bibnamedelimi N.},
            giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
       }
-      \strng{namehash}{87917ae679f33ba4259ac8f0e3f489cd}
+      \strng{namehash}{0bef6a52efa1c0563e72812c40ae38df}
       \strng{fullhash}{e3d36706cb0c175b50f7221e1d19c218}
       \strng{bibnamehash}{e3d36706cb0c175b50f7221e1d19c218}
       \strng{authorbibnamehash}{e3d36706cb0c175b50f7221e1d19c218}
-      \strng{authornamehash}{87917ae679f33ba4259ac8f0e3f489cd}
+      \strng{authornamehash}{0bef6a52efa1c0563e72812c40ae38df}
       \strng{authorfullhash}{e3d36706cb0c175b50f7221e1d19c218}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -7455,6 +7533,82 @@
       \verb 10.1080/17445647.2014.933134
       \endverb
       \keyw{coastal geomorphology,marine environment,marine habitats,seafloor mapping}
+    \endentry
+    \entry{rovere2015moca}{dataset}{}
+      \name{author}{8}{ul=3}{%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef656d491d447602da94d47db35304ca}{%
+           family={Casella},
+           familyi={C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=241df6cad885c4e7b3b2b5bb65a41bf2}{%
+           family={Vacchi},
+           familyi={V\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=345465cfec595ea9500fb36770f64ad0}{%
+           family={Parravicini},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=9432a1aa4a7183757cb3bcf1624c1996}{%
+           family={Firpo},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b14dad05542b8dab4e9ed1a62a279d26}{%
+           family={Ferrari},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0a10ec07d29a34f546aa8899e4095854}{%
+           family={Morri},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0b569798baaffbe3007a292967f20627}{%
+           family={Bianchi},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi N.},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PANGAEA}%
+      }
+      \strng{namehash}{0bef6a52efa1c0563e72812c40ae38df}
+      \strng{fullhash}{e3d36706cb0c175b50f7221e1d19c218}
+      \strng{bibnamehash}{e3d36706cb0c175b50f7221e1d19c218}
+      \strng{authorbibnamehash}{e3d36706cb0c175b50f7221e1d19c218}
+      \strng{authornamehash}{0bef6a52efa1c0563e72812c40ae38df}
+      \strng{authorfullhash}{e3d36706cb0c175b50f7221e1d19c218}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, we present a map describing the main geomorphological features of the coastal and marine area between the towns of Albenga and Savona (Ligurian Sea, NW Mediterranean) corresponding to a coastal stretch of {\textasciitilde}40 km. To produce this map, we collated data from the literature, orthophotos, perspective photos, multibeam and side scan sonar data, and undertook direct surveys to ground truth data obtained using indirect techniques. We divided the information into nine thematic layers, including bathymetry, natural coastal types, geomorphological elements, seafloor coverage (both geological and biological), coastal and nearshore dynamics, human influence on coastal and marine environments, coastal occupation and protected areas.}
+      \field{note}{Supplement to: Rovere, A et al. (2015): Coastal and marine geomorphology between Albenga and Savona (NW Mediterranean Sea, Italy). Journal of Maps, 11(2), 278-286, https://doi.org/10.1080/17445647.2014.933134}
+      \field{title}{{Maps of coastal and marine geomorphology between Albenga and Savona (NW Mediterranean Sea, Italy)}}
+      \field{type}{data set}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1594/PANGAEA.846545
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1594/PANGAEA.846545
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1594/PANGAEA.846545
+      \endverb
     \endentry
     \entry{Rovere_mid-pliocene_2015}{article}{}
       \name{author}{8}{ul=2}{%
