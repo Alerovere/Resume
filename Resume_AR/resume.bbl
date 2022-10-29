@@ -346,6 +346,92 @@
       \verb https://doi.org/10.5281/zenodo.6623428
       \endverb
     \endentry
+    \entry{Gowan:2022vt}{article}{}
+      \name{author}{10}{}{%
+        {{hash=fb9b669147c4c10dd11620301d94eb07}{%
+           family={{\underline{Gowan}}},
+           familyi={G\bibinitperiod},
+           given={E.\bibnamedelimi J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1e623f79370754172ef56c2cf87e1cf5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=e76a6c6e321eb1ca57622bb65a4709dd}{%
+           family={Khosravi},
+           familyi={K\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4220411efa9f38b50aa9a348491f5311}{%
+           family={Stocchi},
+           familyi={S\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2c8b2fc93214161cc82a4b77fbb95994}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Anna\bibnamedelimb L.\bibnamedelimi C.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=e1fedb89a1557b99971099356f89a33e}{%
+           family={Gyllencreutz},
+           familyi={G\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3801716b2f51295e9b746f22636b42cc}{%
+           family={Mangerud},
+           familyi={M\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c673029f239b0fb8fdd179c3f61497f8}{%
+           family={Svendsen},
+           familyi={S\bibinitperiod},
+           given={John-Inge},
+           giveni={J\bibinithyphendelim I\bibinitperiod}}}%
+        {{hash=062be18491ed6eee03e019bfafd7f1d3}{%
+           family={Lohmann},
+           familyi={L\bibinitperiod},
+           given={Gerrit},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{928888d3acb8600b4025011cce4f4b28}
+      \strng{fullhash}{1bc55e7fb1adb3c81b60923e8cdf8361}
+      \strng{bibnamehash}{1bc55e7fb1adb3c81b60923e8cdf8361}
+      \strng{authorbibnamehash}{1bc55e7fb1adb3c81b60923e8cdf8361}
+      \strng{authornamehash}{928888d3acb8600b4025011cce4f4b28}
+      \strng{authorfullhash}{1bc55e7fb1adb3c81b60923e8cdf8361}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{number}{1}
+      \field{title}{Reply to: Towards solving the missing ice problem and the importance of rigorous model data comparisons}
+      \field{volume}{13}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{6264}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41467-022-33954-x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41467-022-33954-x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41467-022-33954-x
+      \endverb
+      \warn{\item Entry 'Gowan:2022vt' (sample.bib): Invalid format '2022/10/24' of date field 'date' - ignoring}
+    \endentry
     \entry{carlot_juvenile_2021}{article}{}
       \name{author}{13}{}{%
         {{hash=be847867a0dca42e264f015310b90867}{%
@@ -3719,6 +3805,7 @@
       \strng{authorbibnamehash}{4dfbae3a6a25ac14c5befe4a9e594c8f}
       \strng{authornamehash}{5f1fa0349b0956ed65440c9c66bc89d3}
       \strng{authorfullhash}{4dfbae3a6a25ac14c5befe4a9e594c8f}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}

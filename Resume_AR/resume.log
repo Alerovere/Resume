@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  25 OCT 2022 12:24
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  29 OCT 2022 10:31
  restricted system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -1369,7 +1369,14 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'resume.bbl' found.
 
-(./resume.bbl)
+(./resume.bbl
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Gowan:2022vt':
+(biblatex)                - Entry 'Gowan:2022vt' (sample.bib): Invalid format '
+2022/10/24' of date field 'date' - ignoring.
+
+)
 Package biblatex Info: Reference section=0 on input line 55.
 Package biblatex Info: Reference segment=0 on input line 55.
 <picture.jpg, id=7, 3166.83125pt x 2092.81876pt>
@@ -1936,14 +1943,14 @@ Package logreq Info: Writing requests to 'resume.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 42777 strings out of 477785
+ 42786 strings out of 477785
  195338,2373549 words of node,token memory allocated
  1013 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 51 attribute, 76 glue_spec
 , 51 attribute_list, 2 write, 46 pdf_action nodes
-   avail lists: 1:3,2:2371,3:1286,4:676,5:2035,6:361,7:16522,8:126,9:1460,10:13,
-11:947
- 61793 multiletter control sequences out of 65536+600000
+   avail lists: 1:4,2:2384,3:1305,4:676,5:2034,6:361,7:16545,8:125,9:1460,10:13,
+11:955
+ 61799 multiletter control sequences out of 65536+600000
  72 fonts using 14733279 bytes
  125i,15n,113p,10601b,5031s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Ital
@@ -1952,10 +1959,10 @@ demicons.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/typoland/carlito
 /Carlito-Regular.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/f
 ontawesome/FontAwesome.otf></usr/local/texlive/2022/texmf-dist/fonts/truetype/ty
 poland/carlito/Carlito-Bold.ttf>
-Output written on resume.pdf (15 pages, 1591626 bytes).
+Output written on resume.pdf (15 pages, 1592107 bytes).
 
-PDF statistics: 483 PDF objects out of 1000 (max. 8388607)
- 439 compressed objects within 5 object streams
- 167 named destinations out of 1000 (max. 131072)
+PDF statistics: 485 PDF objects out of 1000 (max. 8388607)
+ 441 compressed objects within 5 object streams
+ 168 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
