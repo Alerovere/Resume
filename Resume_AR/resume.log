@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  3 NOV 2022 21:49
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  5 NOV 2022 12:55
  restricted system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -1652,22 +1652,22 @@ Overfull \hbox (2.5pt too wide) in paragraph at lines 481--481
  []
 
 
-Overfull \hbox (2.5pt too wide) in paragraph at lines 491--491
+Overfull \hbox (2.5pt too wide) in paragraph at lines 492--492
 [][] [] 
  []
 
 
-Overfull \hbox (2.5pt too wide) in paragraph at lines 500--500
+Overfull \hbox (2.5pt too wide) in paragraph at lines 501--501
 [][] [] 
  []
 
 
-Overfull \hbox (2.5pt too wide) in paragraph at lines 509--509
+Overfull \hbox (2.5pt too wide) in paragraph at lines 510--510
 [][] [] 
  []
 
 
-Overfull \hbox (2.5pt too wide) in paragraph at lines 518--518
+Overfull \hbox (2.5pt too wide) in paragraph at lines 519--519
 [][] [] 
  []
 
@@ -1679,87 +1679,87 @@ Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
 (scrartcl)              The command has been renamed because of a
 (scrartcl)              recommendation of The LaTeX Project Team.
 (scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
-input line 592.
+input line 593.
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 592--592
+Underfull \hbox (badness 1895) in paragraph at lines 593--593
 \TU/Carlito(0)/m/n/12 In-ves-ti-ga-tor (PI), amount-ing to a
  []
 
 
-Underfull \hbox (badness 5696) in paragraph at lines 592--592
+Underfull \hbox (badness 5696) in paragraph at lines 593--593
 \TU/Carlito(0)/m/n/12 fund-ing (in-clud-ing in-di-rect costs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--592
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
 \TU/Carlito(0)/m/n/12 to sev-eral re-search projects as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--592
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
 
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 592--592
+Underfull \hbox (badness 2065) in paragraph at lines 593--593
 \TU/Carlito(0)/m/n/12 In projects where I acted as PI,
  []
 
 
-Underfull \hbox (badness 4242) in paragraph at lines 592--592
+Underfull \hbox (badness 4242) in paragraph at lines 593--593
 \TU/Carlito(0)/m/n/12 for the ad-vance-ment of project
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--592
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--592
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
 \TU/Carlito(0)/m/n/12 I par-tic-i-pated to the or-ga-ni-za-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--592
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
 \TU/Carlito(0)/m/n/12 from as-so-ci-a-tions and in-sti-tu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--592
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
 \TU/Carlito(0)/b/n/12 young sci-en-tists and sci-en-tists
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 592--592
+Underfull \hbox (badness 2302) in paragraph at lines 593--593
 \TU/Carlito(0)/m/n/12 these ac-tiv-i-ties, I con-tributed to
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 592--592
+Underfull \hbox (badness 2913) in paragraph at lines 593--593
 \TU/Carlito(0)/m/n/12 ob-tain and man-age (in dif-fer-ent
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 592.
+(Font)              <7> on input line 593.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 592.
+(Font)              <5> on input line 593.
 
-Underfull \hbox (badness 1655) in paragraph at lines 592--592
+Underfull \hbox (badness 1655) in paragraph at lines 593--593
 []\TU/Carlito(0)/b/n/10 2010-2015. \TU/Carlito(0)/m/n/10 Man-ag-ing of re-search
  and de-vel-op-ment and con-sult-ing
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 592.
+(Font)              <8> on input line 593.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 592.
+(Font)              <6> on input line 593.
 
-Package hyperref Warning: Ignoring empty anchor on input line 592.
+Package hyperref Warning: Ignoring empty anchor on input line 593.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--593
+Underfull \hbox (badness 10000) in paragraph at lines 593--594
 
  []
 
@@ -1771,50 +1771,50 @@ Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
 (scrartcl)              The command has been renamed because of a
 (scrartcl)              recommendation of The LaTeX Project Team.
 (scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
-input line 646.
+input line 647.
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 646--646
+Underfull \hbox (badness 2529) in paragraph at lines 647--647
 \TU/Carlito(0)/m/n/12 IPCC 6th As-sess-ment Re-port. I
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 646--646
+Underfull \hbox (badness 5490) in paragraph at lines 647--647
 \TU/Carlito(0)/m/n/12 convener of sev-eral ses-sions at
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 646--646
+Underfull \hbox (badness 1237) in paragraph at lines 647--647
 \TU/Carlito(0)/m/n/12 sev-eral in-ter-na-tional con-fer-ences.
  []
 
 
-Underfull \hbox (badness 3260) in paragraph at lines 646--646
+Underfull \hbox (badness 3260) in paragraph at lines 647--647
 \TU/Carlito(0)/m/n/12 I have also co-organised sev-eral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 646--646
+Underfull \hbox (badness 10000) in paragraph at lines 647--647
 
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 646--646
+Underfull \hbox (badness 2050) in paragraph at lines 647--647
 \TU/Carlito(0)/m/n/12 I have edited two spe-cial is-sues
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 646--646
+Underfull \hbox (badness 10000) in paragraph at lines 647--647
 \TU/Carlito(0)/m/n/12 in in-ter-na-tional jour-nals, one
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 646--646
+Underfull \hbox (badness 1824) in paragraph at lines 647--647
 \TU/Carlito(0)/m/n/12 ter-na-tional jour-nals. I re-viewed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 646--647
+Underfull \hbox (badness 10000) in paragraph at lines 647--648
 
  []
 
@@ -1826,15 +1826,15 @@ Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
 (scrartcl)              The command has been renamed because of a
 (scrartcl)              recommendation of The LaTeX Project Team.
 (scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
-input line 678.
+input line 679.
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 678--678
+Underfull \hbox (badness 5985) in paragraph at lines 679--679
 []\TU/Carlito(0)/m/n/12 My re-search ac-tiv-i-ties were re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 678--679
+Underfull \hbox (badness 10000) in paragraph at lines 679--680
 
  []
 
@@ -1844,28 +1844,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 678--679
 <img/products_per_year.png, id=60, 1445.4pt x 361.35pt>
 File: img/products_per_year.png Graphic file (type png)
 <use img/products_per_year.png>
-Package luatex.def Info: img/products_per_year.png  used on input line 694.
+Package luatex.def Info: img/products_per_year.png  used on input line 695.
 (luatex.def)             Requested size: 540.60245pt x 135.14752pt.
 <img/citations_authors.png, id=61, 1445.4pt x 361.35pt>
 File: img/citations_authors.png Graphic file (type png)
 <use img/citations_authors.png>
-Package luatex.def Info: img/citations_authors.png  used on input line 699.
+Package luatex.def Info: img/citations_authors.png  used on input line 700.
 (luatex.def)             Requested size: 540.60245pt x 135.14752pt.
 <img/field_data.png, id=62, 1927.2pt x 1084.05pt>
 File: img/field_data.png Graphic file (type png)
 <use img/field_data.png>
-Package luatex.def Info: img/field_data.png  used on input line 704.
+Package luatex.def Info: img/field_data.png  used on input line 705.
 (luatex.def)             Requested size: 513.57066pt x 288.87639pt.
  [8
 
 <./img/products_per_year.png><./img/citations_authors.png><./img/field_data.png>
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 712.
+(Font)              <12> on input line 713.
 
 
 LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 715.
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 716.
 
 [9
 
@@ -1875,7 +1875,7 @@ Missing character: There is no ́ (U+0301) in font Carlito:mode=node;script=latn
 Missing character: There is no ́ (U+0301) in font Carlito:mode=node;script=latn
 ;language=dflt;+tlig;!
 ] [11] [12]
-Overfull \hbox (1.26244pt too wide) in paragraph at lines 723--723
+Overfull \hbox (1.26244pt too wide) in paragraph at lines 724--724
 [][]\TU/Carlito(0)/b/n/10 Ro-vere\TU/Carlito(0)/m/n/10 , A., Stoc-chi, P., & $[
 ]$, M. (2020). \TU/Carlito(0)/m/it/10 Mod-els, data and python tools for the ana
 l-y-sis of sea level data in the Sper-monde Archipelago
@@ -1914,7 +1914,7 @@ demicons.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/typoland/carlito
 /Carlito-Regular.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/f
 ontawesome/FontAwesome.otf></usr/local/texlive/2022/texmf-dist/fonts/truetype/ty
 poland/carlito/Carlito-Bold.ttf>
-Output written on resume.pdf (14 pages, 1586794 bytes).
+Output written on resume.pdf (14 pages, 1586793 bytes).
 
 PDF statistics: 425 PDF objects out of 1000 (max. 8388607)
  383 compressed objects within 4 object streams
