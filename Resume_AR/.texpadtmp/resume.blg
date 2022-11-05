@@ -1,65 +1,18 @@
-This is BibTeX, Version 0.99d (TeX Live 2022)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: /Users/alessiorovere/Downloads/my-resume/.texpadtmp/resume.aux
-The style file: biblatex.bst
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=200001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: ../resume-blx.bib
-Database file #2: ../sample.bib
-Biblatex version: 3.17
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 6 entries,
-            6399 wiz_defined-function locations,
-            1238 strings with 9999 characters,
-and the built_in function-call counts, 43123 in all, are:
-= -- 3470
-> -- 666
-< -- 224
-+ -- 1268
-- -- 217
-* -- 2894
-:= -- 4880
-add.period$ -- 0
-call.type$ -- 6
-change.case$ -- 148
-chr.to.int$ -- 42
-cite$ -- 10
-duplicate$ -- 4554
-empty$ -- 3677
-format.name$ -- 345
-if$ -- 8812
-int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 0
-newline$ -- 198
-num.names$ -- 309
-pop$ -- 1887
-preamble$ -- 1
-purify$ -- 176
-quote$ -- 0
-skip$ -- 1189
-stack$ -- 0
-substring$ -- 6063
-swap$ -- 899
-text.length$ -- 159
-text.prefix$ -- 5
-top$ -- 1
-type$ -- 192
-warning$ -- 0
-while$ -- 624
-width$ -- 0
-write$ -- 193
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/resume.blg'
+[63] biber-darwin:340> INFO - === Sat Nov  5, 2022, 13:40:26
+[77] Biber.pm:418> INFO - Reading '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/resume.bcf'
+[169] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[181] Biber.pm:4383> INFO - Processing section 0
+[190] Biber.pm:4574> INFO - Looking for bibtex file '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib' for section 0
+[205] bibtex.pm:1713> INFO - LaTeX decoding ...
+[429] bibtex.pm:1518> INFO - Found BibTeX data source '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib'
+[1653] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1653] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1653] Biber.pm:4203> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1653] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[1855] bbl.pm:654> INFO - Writing '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/resume.bbl' with encoding 'UTF-8'
+[2041] bbl.pm:757> INFO - Output to /Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/resume.bbl
+[2041] Biber.pm:130> WARN - Entry 'Gowan:2022vt' (/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib): Invalid format '2022/10/24' of date field 'date' - ignoring
+[2041] Biber.pm:130> WARN - ISBN '2041-1723' in entry 'Gowan:2022vt' is invalid - run biber with '--validate_datamodel' for details.
+[2041] Biber.pm:132> INFO - WARNINGS: 2
