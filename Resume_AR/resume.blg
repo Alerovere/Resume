@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'resume.blg'
+[58] biber-darwin:340> INFO - === Wed Dec 28, 2022, 18:18:50
+[71] Biber.pm:418> INFO - Reading 'resume.bcf'
+[162] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[174] Biber.pm:4383> INFO - Processing section 0
+[182] Biber.pm:4574> INFO - Looking for bibtex file 'sample.bib' for section 0
+[197] bibtex.pm:1713> INFO - LaTeX decoding ...
+[424] bibtex.pm:1518> INFO - Found BibTeX data source 'sample.bib'
+[1651] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1651] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1651] Biber.pm:4203> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1651] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[1907] bbl.pm:654> INFO - Writing 'resume.bbl' with encoding 'UTF-8'
+[2126] bbl.pm:757> INFO - Output to resume.bbl
+[2126] Biber.pm:130> WARN - Entry 'Gowan:2022vt' (sample.bib): Invalid format '2022/10/24' of date field 'date' - ignoring
+[2126] Biber.pm:130> WARN - ISBN '2041-1723' in entry 'Gowan:2022vt' is invalid - run biber with '--validate_datamodel' for details.
+[2127] Biber.pm:132> INFO - WARNINGS: 2

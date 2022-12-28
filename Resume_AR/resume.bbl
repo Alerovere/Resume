@@ -346,6 +346,97 @@
       \verb https://doi.org/10.5281/zenodo.6623428
       \endverb
     \endentry
+    \entry{boyden_revisiting_2022}{article}{}
+      \name{author}{10}{}{%
+        {{hash=fd41497a6bd776748ed4836c3693af84}{%
+           family={{\underline{Boyden}}},
+           familyi={B\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3450a6a22fa81f105159b105cf401bfb}{%
+           family={Weil-Accardo},
+           familyi={W\bibinithyphendelim A\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=97656fa54882c4d116ee861751c592ac}{%
+           family={Deschamps},
+           familyi={D\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ebc68afa950329dc5e5e2224b6f25667}{%
+           family={Godeau},
+           familyi={G\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a97493b9b58b3b6a30be1ba3e96b13b9}{%
+           family={Jaosedy},
+           familyi={J\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=426e57a2bd25836643b9824f9eee4187}{%
+           family={Guihou},
+           familyi={G\bibinitperiod},
+           given={Abel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ce85f577429a2d06611762f8a190b60b}{%
+           family={Rajaonarivelo},
+           familyi={R\bibinitperiod},
+           given={Mamy\bibnamedelima Nirina},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=b0f732aa3f783aa6f85bb01f0e8f8269}{%
+           family={O'Leary},
+           familyi={O\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1fcedcf512cae8a4bb5dcc59bb07f474}{%
+           family={Humblet},
+           familyi={H\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1161692c37f3720ee40d91041b416011}{%
+           family={Rovere},
+           familyi={R\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4e8f0acdb4aa7417c4cad1dda4e1a557}
+      \strng{fullhash}{8df633783f7944ee7902cceec24d6b39}
+      \strng{bibnamehash}{8df633783f7944ee7902cceec24d6b39}
+      \strng{authorbibnamehash}{8df633783f7944ee7902cceec24d6b39}
+      \strng{authornamehash}{4e8f0acdb4aa7417c4cad1dda4e1a557}
+      \strng{authorfullhash}{8df633783f7944ee7902cceec24d6b39}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2055-298X}
+      \field{journaltitle}{Open Quaternary}
+      \field{month}{12}
+      \field{title}{Revisiting {Battistini}: {Pleistocene} {Coastal} {Evolution} of {Southwestern} {Madagascar}}
+      \field{urlday}{28}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{14}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.5334/oq.112
+      \endverb
+      \verb{urlraw}
+      \verb http://www.openquaternary.com/articles/10.5334/oq.112/
+      \endverb
+      \verb{url}
+      \verb http://www.openquaternary.com/articles/10.5334/oq.112/
+      \endverb
+    \endentry
     \entry{Gowan:2022vt}{article}{}
       \name{author}{10}{}{%
         {{hash=fb9b669147c4c10dd11620301d94eb07}{%
@@ -1367,7 +1458,7 @@
       \annotation{item}{author}{default}{4}{}{0}{highlight}
     \endentry
     \entry{Boyden_last_2021}{article}{}
-      \name{author}{5}{ul=2}{%
+      \name{author}{5}{ul=3}{%
         {{hash=658256c565d10d8acf49cb166f6b4b6f}{%
            family={{\underline{Boyden}}},
            familyi={B\bibinitperiod},
@@ -1394,11 +1485,11 @@
            given={A.},
            giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{2e327e46241755fd7f382aa334c0ea88}
+      \strng{namehash}{a40346c1be8fea54ee49d905bc2c0d10}
       \strng{fullhash}{104b4ad3dcf5763622e948ab11f7543a}
       \strng{bibnamehash}{104b4ad3dcf5763622e948ab11f7543a}
       \strng{authorbibnamehash}{104b4ad3dcf5763622e948ab11f7543a}
-      \strng{authornamehash}{2e327e46241755fd7f382aa334c0ea88}
+      \strng{authornamehash}{a40346c1be8fea54ee49d905bc2c0d10}
       \strng{authorfullhash}{104b4ad3dcf5763622e948ab11f7543a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1451,7 +1542,7 @@
       \field{labeltitlesource}{title}
       \field{month}{11}
       \field{note}{{This research was funded by the DFG (Deutsche Forschungsgemeinschaft) Excellence Cluster "EXC 2077:~ The Ocean Floor- Earth's Uncharted Interface" (Project number: 390741603)}}
-      \field{title}{{Electornic Supplementary Material for "Revisiting Batistini: Pleistocene coastal evolution of Southwestern Madagascar"}}
+      \field{title}{{Electronic Supplementary Material for "Revisiting Batistini: Pleistocene coastal evolution of Southwestern Madagascar"}}
       \field{version}{1.0}
       \field{year}{2021}
       \true{nocite}
