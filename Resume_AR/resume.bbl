@@ -393,8 +393,8 @@
            familyi={H\bibinitperiod},
            given={Marc},
            giveni={M\bibinitperiod}}}%
-        {{hash=1161692c37f3720ee40d91041b416011}{%
-           family={Rovere},
+        {{hash=983d1c67347a333b664da0ac64046540}{%
+           family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
            given={Alessio},
            giveni={A\bibinitperiod}}}%
@@ -403,11 +403,11 @@
         {en}%
       }
       \strng{namehash}{4e8f0acdb4aa7417c4cad1dda4e1a557}
-      \strng{fullhash}{8df633783f7944ee7902cceec24d6b39}
-      \strng{bibnamehash}{8df633783f7944ee7902cceec24d6b39}
-      \strng{authorbibnamehash}{8df633783f7944ee7902cceec24d6b39}
+      \strng{fullhash}{4eda763f021a7bdab77e879cb7f6183b}
+      \strng{bibnamehash}{4eda763f021a7bdab77e879cb7f6183b}
+      \strng{authorbibnamehash}{4eda763f021a7bdab77e879cb7f6183b}
       \strng{authornamehash}{4e8f0acdb4aa7417c4cad1dda4e1a557}
-      \strng{authorfullhash}{8df633783f7944ee7902cceec24d6b39}
+      \strng{authorfullhash}{4eda763f021a7bdab77e879cb7f6183b}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
