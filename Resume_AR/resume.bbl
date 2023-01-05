@@ -19,6 +19,70 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{essd-15-1-2023}{article}{}
+      \name{author}{6}{}{%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fcd2a8b0cc8875fe87d5b4df188d4ea2}{%
+           family={{\underline{Ryan}}},
+           familyi={R\bibinitperiod},
+           given={D.\bibnamedelimi D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=241df6cad885c4e7b3b2b5bb65a41bf2}{%
+           family={Vacchi},
+           familyi={V\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a4a7343b560ff5a50dedeb6cff206c06}{%
+           family={Dutton},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7388cad49c7651f6113226f09c50c212}{%
+           family={Simms},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4b8b9b210142651ed9b605e768115d01}{%
+           family={Murray-Wallace},
+           familyi={M\bibinithyphendelim W\bibinitperiod},
+           given={C.\bibnamedelimi V.},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{fullhash}{691ad42e3464a4405d580bb882e104ab}
+      \strng{bibnamehash}{691ad42e3464a4405d580bb882e104ab}
+      \strng{authorbibnamehash}{691ad42e3464a4405d580bb882e104ab}
+      \strng{authornamehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{authorfullhash}{691ad42e3464a4405d580bb882e104ab}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth System Science Data}
+      \field{number}{1}
+      \field{title}{The World Atlas of Last Interglacial Shorelines (version 1.0)}
+      \field{volume}{15}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 23}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.5194/essd-15-1-2023
+      \endverb
+      \verb{urlraw}
+      \verb https://essd.copernicus.org/articles/15/1/2023/
+      \endverb
+      \verb{url}
+      \verb https://essd.copernicus.org/articles/15/1/2023/
+      \endverb
+    \endentry
     \entry{casella_assessing_2022}{article}{}
       \name{author}{5}{}{%
         {{hash=ef656d491d447602da94d47db35304ca}{%
@@ -282,8 +346,81 @@
       \verb https://figshare.com/articles/presentation/Introducing_Version_1_0_of_WALIS/19850662
       \endverb
     \endentry
+    \entry{rovere_alessio_2022_6957644}{dataset}{}
+      \name{author}{8}{ul=2}{%
+        {{hash=983d1c67347a333b664da0ac64046540}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a10b3223d4424e05ed944b3285b83e02}{%
+           family={Pico},
+           familyi={P\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod}}}%
+        {{hash=355e989c7030d2726944b6be6a55f744}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2a340027f763401ecddc750aec520ae0}{%
+           family={O'Leary},
+           familyi={O\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=95e128813efbea73ccdd0aff0714fd1a}{%
+           family={Mitrovica},
+           familyi={M\bibinitperiod},
+           given={Jerry\bibnamedelima X.},
+           giveni={J\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=d96a12f786bca3f7d3a3f2851b8144d7}{%
+           family={Goodwin},
+           familyi={G\bibinitperiod},
+           given={Ian\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ef5529dd63148d5eebced08d3d64089f}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+        {{hash=999419e7a0cb40b4bd7d8e5f79fa9d36}{%
+           family={Latychev},
+           familyi={L\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{892608eb75832581cda20dc8b1ec3869}
+      \strng{fullhash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
+      \strng{bibnamehash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
+      \strng{authorbibnamehash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
+      \strng{authornamehash}{892608eb75832581cda20dc8b1ec3869}
+      \strng{authorfullhash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{{Supplementary data for: "The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea- level record of Northeastern Australia"}}
+      \field{version}{1.0}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.6957644
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.6957644
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.6957644
+      \endverb
+    \endentry
     \entry{alessio_rovere_2022_6623428}{dataset}{}
-      \name{author}{6}{}{%
+      \name{author}{6}{ul=3}{%
         {{hash=983d1c67347a333b664da0ac64046540}{%
            family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
@@ -318,13 +455,12 @@
       \list{publisher}{1}{%
         {Zenodo}%
       }
-      \strng{namehash}{cf149ac9b371eece91499a87f3dba424}
+      \strng{namehash}{4e49233eac41c874d8955e8104773612}
       \strng{fullhash}{4ee3134a4a58493410b58176047748fb}
       \strng{bibnamehash}{4ee3134a4a58493410b58176047748fb}
       \strng{authorbibnamehash}{4ee3134a4a58493410b58176047748fb}
-      \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
+      \strng{authornamehash}{4e49233eac41c874d8955e8104773612}
       \strng{authorfullhash}{4ee3134a4a58493410b58176047748fb}
-      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -435,6 +571,51 @@
       \endverb
       \verb{url}
       \verb http://www.openquaternary.com/articles/10.5334/oq.112/
+      \endverb
+    \endentry
+    \entry{garzon_sebastian_2022_7252121}{dataset}{}
+      \name{author}{2}{}{%
+        {{hash=fdcf6a91f89c9f45b86eec1cd83393bc}{%
+           family={{\underline{Garzón}}},
+           familyi={G\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=983d1c67347a333b664da0ac64046540}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{c08e1c96c5ea345bc810125560a3bc65}
+      \strng{fullhash}{c08e1c96c5ea345bc810125560a3bc65}
+      \strng{bibnamehash}{c08e1c96c5ea345bc810125560a3bc65}
+      \strng{authorbibnamehash}{c08e1c96c5ea345bc810125560a3bc65}
+      \strng{authornamehash}{c08e1c96c5ea345bc810125560a3bc65}
+      \strng{authorfullhash}{c08e1c96c5ea345bc810125560a3bc65}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{WALIS visualization interface}
+      \field{version}{v2.0}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.7252121
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.7252121
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.7252121
       \endverb
     \endentry
     \entry{Gowan:2022vt}{article}{}
@@ -1681,6 +1862,7 @@
       \strng{authorbibnamehash}{c08e1c96c5ea345bc810125560a3bc65}
       \strng{authornamehash}{c08e1c96c5ea345bc810125560a3bc65}
       \strng{authorfullhash}{c08e1c96c5ea345bc810125560a3bc65}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
