@@ -19,6 +19,76 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{https://doi.org/10.1029/2022GC010648}{article}{}
+      \name{author}{6}{}{%
+        {{hash=fcf8f3b9da04787f14572b4ecfcc0316}{%
+           family={Hollyday},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef5529dd63148d5eebced08d3d64089f}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+        {{hash=829ad7698cffe75b5a185292d3b88b06}{%
+           family={Lloyd},
+           familyi={L\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=63d5ea5a7ee54acaf486271fca452a0a}{%
+           family={Hoggard},
+           familyi={H\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7ac2f94736b33731b51730043cd71857}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Fred},
+           giveni={F\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{256b11d3a12f678b0041a2c9062bbd67}
+      \strng{fullhash}{c6b287f2131b7a3d99bea2197f26b0d3}
+      \strng{bibnamehash}{c6b287f2131b7a3d99bea2197f26b0d3}
+      \strng{authorbibnamehash}{c6b287f2131b7a3d99bea2197f26b0d3}
+      \strng{authornamehash}{256b11d3a12f678b0041a2c9062bbd67}
+      \strng{authorfullhash}{c6b287f2131b7a3d99bea2197f26b0d3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Paleoshorelines serve as measures of ancient sea level and ice volume but are affected by solid Earth deformation including processes such as glacial isostatic adjustment (GIA) and mantle dynamic topography (DT). The early Pliocene Epoch is an important target for sea-level reconstructions as it contains information about the stability of ice sheets during a climate warmer than today. Along the southeastern passive margin of Argentina, three paleoshorelines date to early Pliocene times (4.8–5.5 Ma), and their variable present-day elevations (36–180 m) reflect a unique topographic deformation signature. We use a mantle convection model to back-advect present-day buoyancy variations, including those that correspond to the Patagonian slab window. Varying the viscosity and initial tomography-derived mantle buoyancy structures allows us to compute a suite of predictions of DT change that, when compared to GIA-corrected shoreline elevations, makes it possible to identify both the most likely convection parameters and the most likely DT change. Our simulations illuminate an interplay of upwelling asthenosphere through the Patagonian slab window and coincident downwelling of the subducted Nazca slab in the mantle transition zone. This flow leads to differential upwarping of the southern Patagonian foreland since early Pliocene times, in line with the observations. Using our most likely DT change leads to an estimate of global mean sea level of 17.5 ± 6.4 m (1σ) in the early Pliocene Epoch. This confirms that sea level was significantly higher than present and can be used to calibrate ice sheet models.}
+      \field{journaltitle}{Geochemistry, Geophysics, Geosystems}
+      \field{note}{e2022GC010648 2022GC010648}
+      \field{number}{2}
+      \field{title}{A Revised Estimate of Early Pliocene Global Mean Sea Level Using Geodynamic Models of the Patagonian Slab Window}
+      \field{volume}{24}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{e2022GC010648}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb https://doi.org/10.1029/2022GC010648
+      \endverb
+      \verb{eprint}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022GC010648
+      \endverb
+      \verb{urlraw}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GC010648
+      \endverb
+      \verb{url}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GC010648
+      \endverb
+      \keyw{geodynamics,sea-level change,Pliocene,glacial isostatic adjustment,mantle convection,Patagonia}
+    \endentry
     \entry{essd-15-1-2023}{article}{}
       \name{author}{6}{}{%
         {{hash=502296b06c73742b98488f897037d3a6}{%
@@ -273,6 +343,84 @@
       \field{title}{{UAVs} for the environmental sciences - methods and {Application}}
       \field{year}{2022}
       \true{nocite}
+    \endentry
+    \entry{egusphere-2022-101}{article}{}
+      \name{author}{9}{}{%
+        {{hash=c706ce07f290cad7c0f7e25fc8349db5}{%
+           family={Scussolini},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6e2a69f545cd8b066d448f20c1212a1e}{%
+           family={Dullaart},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d2b557c896572aa29c2ce7e57a5fd6c0}{%
+           family={Muis},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fa584e4ec4605061a35639213d77ba77}{%
+           family={Bakker},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1d81f8d96ab6ea35948e22e821f73e0b}{%
+           family={Coumou},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7c948edb1cbf40f86ef93922be09243a}{%
+           family={Renssen},
+           familyi={R\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=82553ccf3a971bf9260411ef68a093bb}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=96c5bcac30db7b715758d434c59c0e94}{%
+           family={Aerts},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi C.\bibnamedelimi J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5ef99d774fc265f6974f1ac2a249feb}
+      \strng{fullhash}{016113573b19fe1a61b2ecbeadf5206f}
+      \strng{bibnamehash}{016113573b19fe1a61b2ecbeadf5206f}
+      \strng{authorbibnamehash}{016113573b19fe1a61b2ecbeadf5206f}
+      \strng{authornamehash}{f5ef99d774fc265f6974f1ac2a249feb}
+      \strng{authorfullhash}{016113573b19fe1a61b2ecbeadf5206f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{EGUsphere}
+      \field{title}{Modelled storm surge changes in a warmer world: the Last Interglacial}
+      \field{volume}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 20}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.5194/egusphere-2022-101
+      \endverb
+      \verb{urlraw}
+      \verb https://egusphere.copernicus.org/preprints/egusphere-2022-101/
+      \endverb
+      \verb{url}
+      \verb https://egusphere.copernicus.org/preprints/egusphere-2022-101/
+      \endverb
     \endentry
     \entry{Rovere2022a}{misc}{}
       \name{author}{1}{}{%
