@@ -19,6 +19,231 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{https://doi.org/10.1029/2022GC010648}{article}{}
+      \name{author}{6}{}{%
+        {{hash=fcf8f3b9da04787f14572b4ecfcc0316}{%
+           family={Hollyday},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef5529dd63148d5eebced08d3d64089f}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+        {{hash=829ad7698cffe75b5a185292d3b88b06}{%
+           family={Lloyd},
+           familyi={L\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=63d5ea5a7ee54acaf486271fca452a0a}{%
+           family={Hoggard},
+           familyi={H\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7ac2f94736b33731b51730043cd71857}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Fred},
+           giveni={F\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{256b11d3a12f678b0041a2c9062bbd67}
+      \strng{fullhash}{c6b287f2131b7a3d99bea2197f26b0d3}
+      \strng{bibnamehash}{c6b287f2131b7a3d99bea2197f26b0d3}
+      \strng{authorbibnamehash}{c6b287f2131b7a3d99bea2197f26b0d3}
+      \strng{authornamehash}{256b11d3a12f678b0041a2c9062bbd67}
+      \strng{authorfullhash}{c6b287f2131b7a3d99bea2197f26b0d3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Paleoshorelines serve as measures of ancient sea level and ice volume but are affected by solid Earth deformation including processes such as glacial isostatic adjustment (GIA) and mantle dynamic topography (DT). The early Pliocene Epoch is an important target for sea-level reconstructions as it contains information about the stability of ice sheets during a climate warmer than today. Along the southeastern passive margin of Argentina, three paleoshorelines date to early Pliocene times (4.8–5.5 Ma), and their variable present-day elevations (36–180 m) reflect a unique topographic deformation signature. We use a mantle convection model to back-advect present-day buoyancy variations, including those that correspond to the Patagonian slab window. Varying the viscosity and initial tomography-derived mantle buoyancy structures allows us to compute a suite of predictions of DT change that, when compared to GIA-corrected shoreline elevations, makes it possible to identify both the most likely convection parameters and the most likely DT change. Our simulations illuminate an interplay of upwelling asthenosphere through the Patagonian slab window and coincident downwelling of the subducted Nazca slab in the mantle transition zone. This flow leads to differential upwarping of the southern Patagonian foreland since early Pliocene times, in line with the observations. Using our most likely DT change leads to an estimate of global mean sea level of 17.5 ± 6.4 m (1σ) in the early Pliocene Epoch. This confirms that sea level was significantly higher than present and can be used to calibrate ice sheet models.}
+      \field{journaltitle}{Geochemistry, Geophysics, Geosystems}
+      \field{note}{e2022GC010648 2022GC010648}
+      \field{number}{2}
+      \field{title}{A Revised Estimate of Early Pliocene Global Mean Sea Level Using Geodynamic Models of the Patagonian Slab Window}
+      \field{volume}{24}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{e2022GC010648}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb https://doi.org/10.1029/2022GC010648
+      \endverb
+      \verb{eprint}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022GC010648
+      \endverb
+      \verb{urlraw}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GC010648
+      \endverb
+      \verb{url}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GC010648
+      \endverb
+      \keyw{geodynamics,sea-level change,Pliocene,glacial isostatic adjustment,mantle convection,Patagonia}
+    \endentry
+    \entry{Mann_2023}{article}{}
+      \name{author}{11}{}{%
+        {{hash=e5a813dc05e2954f7bd98207946627cb}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1b7756cf059c910b4c480f65507b4c5b}{%
+           family={Schöne},
+           familyi={S\bibinitperiod},
+           given={Tilo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=62b5cd90189cc970c5e2e9c25897a44b}{%
+           family={Kench},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6bdf6a4fc2215d3814e9ac1428f07e29}{%
+           family={Lambeck},
+           familyi={L\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3f49855119489fabf8cb3aec6b9cf772}{%
+           family={Ashe},
+           familyi={A\bibinitperiod},
+           given={Erica},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7234c917f99341d04cd963db629cb0bf}{%
+           family={Kneer},
+           familyi={K\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5e8bb63fd464f4d7534816ac4691b8f1}{%
+           family={Beetham},
+           familyi={B\bibinitperiod},
+           given={Eddie},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d7139549d2a11aa2173d73ef9d301696}{%
+           family={Illigner},
+           familyi={I\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3919ffb0126b166648d68d40b55d7fbc}{%
+           family={Marfai},
+           familyi={M\bibinitperiod},
+           given={Muh\bibnamedelima Aris},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6e3e046c28b1fa2a8fabd2011d9595e4}{%
+           family={Westphal},
+           familyi={W\bibinitperiod},
+           given={Hildegard},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7875d4d6208becdb8a0bfe86769958b}
+      \strng{fullhash}{52af695583eccde472f495c64d5f48db}
+      \strng{bibnamehash}{52af695583eccde472f495c64d5f48db}
+      \strng{authorbibnamehash}{52af695583eccde472f495c64d5f48db}
+      \strng{authornamehash}{f7875d4d6208becdb8a0bfe86769958b}
+      \strng{authorfullhash}{52af695583eccde472f495c64d5f48db}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{The Laurentide ice sheet was the largest late Pleistocene ice mass and the largest contributor to Holocene pre-industrial sea-level rise. While glaciological dates suggest final ice sheet melting between 8 and 6 ka, inversion of sea-level data indicates deglaciation at ca. 7 ka. Here, we present new chronostratigraphic constraints on Laurentide ice sheet disappearance based on Holocene relative sea-level observations from the tectonically stable north coast of Java, Indonesia. Age-elevation data from the flat upper surfaces of 13 fossil intertidal corals (i.e., microatolls) indicate that the Java Sea experienced a relative sea level of 1.3 ± 0.7 m above present between 6.9 and 5.3 ka. To determine uncaptured relative sea-level trends within the observational uncertainties of this apparently constant highstand, we analyzed the internal structure of three sliced microatolls from the same site to produce a high-resolution data set. These data were used to statistically model relative sea-level rates and trends. Employing the data with the model provided evidence for a short-lived rise of relative sea level from 1.0 ± 0.3 m above present at 6.7 ± 0.1 ka to 1.9 ± 0.3 m above present at 6.4 ± 0.1 ka. The end of this rise likely represents the last input of meltwater from the vast Laurentide ice sheet, which, consequently, collapsed at least 400 yr later than assumed by some widely used models of glacial isostatic adjustment. Incorporating these new results into such predictive models will help to better understand the geographical variability of future sea-level rise as a result of global warming.}}
+      \field{issn}{0091-7613}
+      \field{journaltitle}{Geology}
+      \field{month}{05}
+      \field{title}{{Fossil Java Sea corals record Laurentide ice sheet disappearance}}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1130/G51038.1
+      \endverb
+      \verb{eprint}
+      \verb https://pubs.geoscienceworld.org/gsa/geology/article-pdf/doi/10.1130/G51038.1/5841245/g51038.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1130/G51038.1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1130/G51038.1
+      \endverb
+    \endentry
+    \entry{essd-15-1-2023}{article}{}
+      \name{author}{6}{}{%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fcd2a8b0cc8875fe87d5b4df188d4ea2}{%
+           family={{\underline{Ryan}}},
+           familyi={R\bibinitperiod},
+           given={D.\bibnamedelimi D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=241df6cad885c4e7b3b2b5bb65a41bf2}{%
+           family={Vacchi},
+           familyi={V\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a4a7343b560ff5a50dedeb6cff206c06}{%
+           family={Dutton},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7388cad49c7651f6113226f09c50c212}{%
+           family={Simms},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4b8b9b210142651ed9b605e768115d01}{%
+           family={Murray-Wallace},
+           familyi={M\bibinithyphendelim W\bibinitperiod},
+           given={C.\bibnamedelimi V.},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{fullhash}{691ad42e3464a4405d580bb882e104ab}
+      \strng{bibnamehash}{691ad42e3464a4405d580bb882e104ab}
+      \strng{authorbibnamehash}{691ad42e3464a4405d580bb882e104ab}
+      \strng{authornamehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{authorfullhash}{691ad42e3464a4405d580bb882e104ab}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth System Science Data}
+      \field{number}{1}
+      \field{title}{The World Atlas of Last Interglacial Shorelines (version 1.0)}
+      \field{volume}{15}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 23}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.5194/essd-15-1-2023
+      \endverb
+      \verb{urlraw}
+      \verb https://essd.copernicus.org/articles/15/1/2023/
+      \endverb
+      \verb{url}
+      \verb https://essd.copernicus.org/articles/15/1/2023/
+      \endverb
+    \endentry
     \entry{casella_assessing_2022}{article}{}
       \name{author}{5}{}{%
         {{hash=ef656d491d447602da94d47db35304ca}{%
@@ -210,6 +435,84 @@
       \field{year}{2022}
       \true{nocite}
     \endentry
+    \entry{egusphere-2022-101}{article}{}
+      \name{author}{9}{}{%
+        {{hash=c706ce07f290cad7c0f7e25fc8349db5}{%
+           family={Scussolini},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6e2a69f545cd8b066d448f20c1212a1e}{%
+           family={Dullaart},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d2b557c896572aa29c2ce7e57a5fd6c0}{%
+           family={Muis},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fa584e4ec4605061a35639213d77ba77}{%
+           family={Bakker},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1d81f8d96ab6ea35948e22e821f73e0b}{%
+           family={Coumou},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7c948edb1cbf40f86ef93922be09243a}{%
+           family={Renssen},
+           familyi={R\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=82553ccf3a971bf9260411ef68a093bb}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=96c5bcac30db7b715758d434c59c0e94}{%
+           family={Aerts},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi C.\bibnamedelimi J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5ef99d774fc265f6974f1ac2a249feb}
+      \strng{fullhash}{016113573b19fe1a61b2ecbeadf5206f}
+      \strng{bibnamehash}{016113573b19fe1a61b2ecbeadf5206f}
+      \strng{authorbibnamehash}{016113573b19fe1a61b2ecbeadf5206f}
+      \strng{authornamehash}{f5ef99d774fc265f6974f1ac2a249feb}
+      \strng{authorfullhash}{016113573b19fe1a61b2ecbeadf5206f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{EGUsphere}
+      \field{title}{Modelled storm surge changes in a warmer world: the Last Interglacial}
+      \field{volume}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 20}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.5194/egusphere-2022-101
+      \endverb
+      \verb{urlraw}
+      \verb https://egusphere.copernicus.org/preprints/egusphere-2022-101/
+      \endverb
+      \verb{url}
+      \verb https://egusphere.copernicus.org/preprints/egusphere-2022-101/
+      \endverb
+    \endentry
     \entry{Rovere2022a}{misc}{}
       \name{author}{1}{}{%
         {{hash=983d1c67347a333b664da0ac64046540}{%
@@ -282,8 +585,81 @@
       \verb https://figshare.com/articles/presentation/Introducing_Version_1_0_of_WALIS/19850662
       \endverb
     \endentry
+    \entry{rovere_alessio_2022_6957644}{dataset}{}
+      \name{author}{8}{ul=2}{%
+        {{hash=983d1c67347a333b664da0ac64046540}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a10b3223d4424e05ed944b3285b83e02}{%
+           family={Pico},
+           familyi={P\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod}}}%
+        {{hash=355e989c7030d2726944b6be6a55f744}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2a340027f763401ecddc750aec520ae0}{%
+           family={O'Leary},
+           familyi={O\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=95e128813efbea73ccdd0aff0714fd1a}{%
+           family={Mitrovica},
+           familyi={M\bibinitperiod},
+           given={Jerry\bibnamedelima X.},
+           giveni={J\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=d96a12f786bca3f7d3a3f2851b8144d7}{%
+           family={Goodwin},
+           familyi={G\bibinitperiod},
+           given={Ian\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ef5529dd63148d5eebced08d3d64089f}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+        {{hash=999419e7a0cb40b4bd7d8e5f79fa9d36}{%
+           family={Latychev},
+           familyi={L\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{892608eb75832581cda20dc8b1ec3869}
+      \strng{fullhash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
+      \strng{bibnamehash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
+      \strng{authorbibnamehash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
+      \strng{authornamehash}{892608eb75832581cda20dc8b1ec3869}
+      \strng{authorfullhash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{{Supplementary data for: "The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea- level record of Northeastern Australia"}}
+      \field{version}{1.0}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.6957644
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.6957644
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.6957644
+      \endverb
+    \endentry
     \entry{alessio_rovere_2022_6623428}{dataset}{}
-      \name{author}{6}{}{%
+      \name{author}{6}{ul=3}{%
         {{hash=983d1c67347a333b664da0ac64046540}{%
            family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
@@ -318,13 +694,12 @@
       \list{publisher}{1}{%
         {Zenodo}%
       }
-      \strng{namehash}{cf149ac9b371eece91499a87f3dba424}
+      \strng{namehash}{4e49233eac41c874d8955e8104773612}
       \strng{fullhash}{4ee3134a4a58493410b58176047748fb}
       \strng{bibnamehash}{4ee3134a4a58493410b58176047748fb}
       \strng{authorbibnamehash}{4ee3134a4a58493410b58176047748fb}
-      \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
+      \strng{authornamehash}{4e49233eac41c874d8955e8104773612}
       \strng{authorfullhash}{4ee3134a4a58493410b58176047748fb}
-      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -344,6 +719,142 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.5281/zenodo.6623428
+      \endverb
+    \endentry
+    \entry{boyden_revisiting_2022}{article}{}
+      \name{author}{10}{}{%
+        {{hash=fd41497a6bd776748ed4836c3693af84}{%
+           family={{\underline{Boyden}}},
+           familyi={B\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3450a6a22fa81f105159b105cf401bfb}{%
+           family={Weil-Accardo},
+           familyi={W\bibinithyphendelim A\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=97656fa54882c4d116ee861751c592ac}{%
+           family={Deschamps},
+           familyi={D\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ebc68afa950329dc5e5e2224b6f25667}{%
+           family={Godeau},
+           familyi={G\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a97493b9b58b3b6a30be1ba3e96b13b9}{%
+           family={Jaosedy},
+           familyi={J\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=426e57a2bd25836643b9824f9eee4187}{%
+           family={Guihou},
+           familyi={G\bibinitperiod},
+           given={Abel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ce85f577429a2d06611762f8a190b60b}{%
+           family={Rajaonarivelo},
+           familyi={R\bibinitperiod},
+           given={Mamy\bibnamedelima Nirina},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=b0f732aa3f783aa6f85bb01f0e8f8269}{%
+           family={O'Leary},
+           familyi={O\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1fcedcf512cae8a4bb5dcc59bb07f474}{%
+           family={Humblet},
+           familyi={H\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=983d1c67347a333b664da0ac64046540}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4e8f0acdb4aa7417c4cad1dda4e1a557}
+      \strng{fullhash}{4eda763f021a7bdab77e879cb7f6183b}
+      \strng{bibnamehash}{4eda763f021a7bdab77e879cb7f6183b}
+      \strng{authorbibnamehash}{4eda763f021a7bdab77e879cb7f6183b}
+      \strng{authornamehash}{4e8f0acdb4aa7417c4cad1dda4e1a557}
+      \strng{authorfullhash}{4eda763f021a7bdab77e879cb7f6183b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2055-298X}
+      \field{journaltitle}{Open Quaternary}
+      \field{month}{12}
+      \field{title}{Revisiting {Battistini}: {Pleistocene} {Coastal} {Evolution} of {Southwestern} {Madagascar}}
+      \field{urlday}{28}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{14}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.5334/oq.112
+      \endverb
+      \verb{urlraw}
+      \verb http://www.openquaternary.com/articles/10.5334/oq.112/
+      \endverb
+      \verb{url}
+      \verb http://www.openquaternary.com/articles/10.5334/oq.112/
+      \endverb
+    \endentry
+    \entry{garzon_sebastian_2022_7252121}{dataset}{}
+      \name{author}{2}{}{%
+        {{hash=fdcf6a91f89c9f45b86eec1cd83393bc}{%
+           family={{\underline{Garzón}}},
+           familyi={G\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=983d1c67347a333b664da0ac64046540}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{c08e1c96c5ea345bc810125560a3bc65}
+      \strng{fullhash}{c08e1c96c5ea345bc810125560a3bc65}
+      \strng{bibnamehash}{c08e1c96c5ea345bc810125560a3bc65}
+      \strng{authorbibnamehash}{c08e1c96c5ea345bc810125560a3bc65}
+      \strng{authornamehash}{c08e1c96c5ea345bc810125560a3bc65}
+      \strng{authorfullhash}{c08e1c96c5ea345bc810125560a3bc65}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{WALIS visualization interface}
+      \field{version}{v2.0}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.7252121
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.7252121
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.7252121
       \endverb
     \endentry
     \entry{Gowan:2022vt}{article}{}
@@ -1367,7 +1878,7 @@
       \annotation{item}{author}{default}{4}{}{0}{highlight}
     \endentry
     \entry{Boyden_last_2021}{article}{}
-      \name{author}{5}{ul=2}{%
+      \name{author}{5}{ul=3}{%
         {{hash=658256c565d10d8acf49cb166f6b4b6f}{%
            family={{\underline{Boyden}}},
            familyi={B\bibinitperiod},
@@ -1394,11 +1905,11 @@
            given={A.},
            giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{2e327e46241755fd7f382aa334c0ea88}
+      \strng{namehash}{a40346c1be8fea54ee49d905bc2c0d10}
       \strng{fullhash}{104b4ad3dcf5763622e948ab11f7543a}
       \strng{bibnamehash}{104b4ad3dcf5763622e948ab11f7543a}
       \strng{authorbibnamehash}{104b4ad3dcf5763622e948ab11f7543a}
-      \strng{authornamehash}{2e327e46241755fd7f382aa334c0ea88}
+      \strng{authornamehash}{a40346c1be8fea54ee49d905bc2c0d10}
       \strng{authorfullhash}{104b4ad3dcf5763622e948ab11f7543a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1451,7 +1962,7 @@
       \field{labeltitlesource}{title}
       \field{month}{11}
       \field{note}{{This research was funded by the DFG (Deutsche Forschungsgemeinschaft) Excellence Cluster "EXC 2077:~ The Ocean Floor- Earth's Uncharted Interface" (Project number: 390741603)}}
-      \field{title}{{Electornic Supplementary Material for "Revisiting Batistini: Pleistocene coastal evolution of Southwestern Madagascar"}}
+      \field{title}{{Electronic Supplementary Material for "Revisiting Batistini: Pleistocene coastal evolution of Southwestern Madagascar"}}
       \field{version}{1.0}
       \field{year}{2021}
       \true{nocite}
@@ -1590,6 +2101,7 @@
       \strng{authorbibnamehash}{c08e1c96c5ea345bc810125560a3bc65}
       \strng{authornamehash}{c08e1c96c5ea345bc810125560a3bc65}
       \strng{authorfullhash}{c08e1c96c5ea345bc810125560a3bc65}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4451,13 +4963,12 @@
       \strng{authorbibnamehash}{30902713b97ddc4b1ea2f32bd44edb72}
       \strng{authornamehash}{55763cf2ee9474e3a94dfe1de0ea088f}
       \strng{authorfullhash}{30902713b97ddc4b1ea2f32bd44edb72}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The SEAMIS database (Mendeley data repository; https://doi.org/10.17632/wp4ctb4667.1) contains 546 relative sea-level indicators from 31 different studies within the broader Southeast Asian region including the Maldives, India and Sri Lanka. Here we compare quality-controlled and site-specific relative sea-level data from 23 studies from the SEAMIS database to a suite of ICE-5G glacial isostatic adjustment models. The relation between robust and, if applicable, tectonically corrected relative sea-level data with the broad predictions of glacial isostatic adjustment models is interpreted and discussed in the article ``Holocene sea levels in Southeast Asia, Maldives, India and Sri Lanka: The SEAMIS database'' [1] in Quaternary Science Reviews.}
@@ -4519,13 +5030,12 @@
       \strng{authorbibnamehash}{dd619742cb261f3ba5319885811224d4}
       \strng{authornamehash}{55763cf2ee9474e3a94dfe1de0ea088f}
       \strng{authorfullhash}{dd619742cb261f3ba5319885811224d4}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We assembled a database of Holocene relative sea-level index points (n = 213) and marine (n = 211) and terrestrial (n = 122) limiting points for the broader South and Southeast Asian region including the Maldives, India and Sri Lanka. The standardized review of published age-elevation information from corals, deltaic, estuarine and mangrove deposits, beachrocks and tidal notches, yielded a new suite of relative sea-level index and limiting points produced according to a standardized protocol. Expected spatial variability in Holocene relative sea-level change due to glacial isostatic adjustment was accounted for, by first subdividing the study area into ten geographic sub-regions from the Central Indian Ocean to the Western Tropical Pacific, and second by comparing sub-regional relative sea-level data to model predictions of glacial isostatic adjustment. Results show that some of the regionally constrained relative sea-level data are characterized by significant inconsistencies that cannot be explained by glacial isostatic adjustment. Such inconsistencies of standardized relative sea-level data become particularly obvious in areas around the Red River Delta in Vietnam, the Gulf of Thailand, the northwest coast of Malaysia and the Spermonde Archipelago in Indonesia. Based on a critical evaluation of the reviewed relative sea-level indicators, we discuss possible sources of local divergence and identify regions where data are currently insufficient to constrain glacial isostatic adjustment predictions. The remaining quality-controlled and consistent relative sea-level data show that glacial isostatic adjustment and syn-/post-formational influences such as tectonic uplift, subsidence and compaction were the dominant local drivers of Holocene relative sea-level change. Collectively, the results of this review suggest that Holocene sea levels in South and Southeast Asia and surrounding regions have been controlled by a variety of global and local drivers and imply that additional index points from the Java Sea in Indonesia would be valuable to better assess the spatial variability, and to calibrate geophysical models of glacial isostatic adjustment.}
@@ -6677,12 +7187,11 @@
       \strng{authorbibnamehash}{cf6dbcd6cb2005f1eb47821987af6e82}
       \strng{authornamehash}{55763cf2ee9474e3a94dfe1de0ea088f}
       \strng{authorfullhash}{cf6dbcd6cb2005f1eb47821987af6e82}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Knowledge on the timing and magnitude of past sea-level changes is essential to understand modern and future sea-level variability. Holocene sea-level data from literature on the west coast of Sulawesi, central Indonesia, suggest that this region experienced two relative sea-level highstands over the last 6000years, with magnitudes exceeding two meters. However, recent datasets from the Indo-Pacific region do not support high-magnitude sea-level oscillations during the Holocene in tectonically stable far-field locations. Here we present a new, high-precision, mid-Holocene sea-level dataset from the Spermonde Shelf off southwest Sulawesi. We surveyed 21 fossil microatolls on the reef flats of two coral islands (Pulau Panambungan and Pulau Barrang Lompo) and referred their elevations to local mean sea level and to the height of living coral. Radiometrically calibrated ages from emergent fossil microatolls on Pulau Panambungan indicate a relative sea-level highstand not exceeding 0.5m above present at ca. 5600cal.yrBP. The highstand is followed by a relatively rapid sea-level fall towards present sea level that was reached at around 4000cal.yrBP. Fossil microatolls from nearby Pulau Barrang Lompo show the same trend, however with a coherent negative vertical offset of about 0.8m compared to their equivalents on Pulau Panambungan. The largely consistent gradients of both trends (∼−0.14mmyr−1), the consistent elevation of living microatolls in the Spermonde, and a number of instructive geomorphic features indicate a localized, post-formational and probably recent drop of the fossil microatolls on the densely populated island Pulau Barrang Lompo. The relative sea-level trend inferred from Pulau Panambungan is well within the range of geophysical predictions based on ANICE-SELEN ice sheet model, which predict a highstand that is significantly lower than those predicted by other GIA models for this area. Although a complete interpretation of the Holocene sea-level history will require additional high-resolution datasets from this and surrounding territories in SE Asia, our results suggest that there was merely a single Holocene highstand in central Indonesia, the magnitude of which was substantially lower than hitherto assumed.}

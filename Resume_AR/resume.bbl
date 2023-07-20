@@ -65,7 +65,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Abstract Paleoshorelines serve as measures of ancient sea level and ice volume but are affected by solid Earth deformation including processes such as glacial isostatic adjustment (GIA) and mantle dynamic topography (DT). The early Pliocene Epoch is an important target for sea-level reconstructions as it contains information about the stability of ice sheets during a climate warmer than today. Along the southeastern passive margin of Argentina, three paleoshorelines date to early Pliocene times (4.8–5.5 Ma), and their variable present-day elevations (36–180 m) reflect a unique topographic deformation signature. We use a mantle convection model to back-advect present-day buoyancy variations, including those that correspond to the Patagonian slab window. Varying the viscosity and initial tomography-derived mantle buoyancy structures allows us to compute a suite of predictions of DT change that, when compared to GIA-corrected shoreline elevations, makes it possible to identify both the most likely convection parameters and the most likely DT change. Our simulations illuminate an interplay of upwelling asthenosphere through the Patagonian slab window and coincident downwelling of the subducted Nazca slab in the mantle transition zone. This flow leads to differential upwarping of the southern Patagonian foreland since early Pliocene times, in line with the observations. Using our most likely DT change leads to an estimate of global mean sea level of 17.5 ± 6.4 m (1σ) in the early Pliocene Epoch. This confirms that sea level was significantly higher than present and can be used to calibrate ice sheet models.}
+      \field{abstract}{Abstract Paleoshorelines serve as measures of ancient sea level and ice volume but are affected by solid Earth deformation including processes such as glacial isostatic adjustment (GIA) and mantle dynamic topography (DT). The early Pliocene Epoch is an important target for sea-level reconstructions as it contains information about the stability of ice sheets during a climate warmer than today. Along the southeastern passive margin of Argentina, three paleoshorelines date to early Pliocene times (4.8--5.5 Ma), and their variable present-day elevations (36--180 m) reflect a unique topographic deformation signature. We use a mantle convection model to back-advect present-day buoyancy variations, including those that correspond to the Patagonian slab window. Varying the viscosity and initial tomography-derived mantle buoyancy structures allows us to compute a suite of predictions of DT change that, when compared to GIA-corrected shoreline elevations, makes it possible to identify both the most likely convection parameters and the most likely DT change. Our simulations illuminate an interplay of upwelling asthenosphere through the Patagonian slab window and coincident downwelling of the subducted Nazca slab in the mantle transition zone. This flow leads to differential upwarping of the southern Patagonian foreland since early Pliocene times, in line with the observations. Using our most likely DT change leads to an estimate of global mean sea level of 17.5 $\pm$ 6.4 m (1σ) in the early Pliocene Epoch. This confirms that sea level was significantly higher than present and can be used to calibrate ice sheet models.}
       \field{journaltitle}{Geochemistry, Geophysics, Geosystems}
       \field{note}{e2022GC010648 2022GC010648}
       \field{number}{2}
@@ -88,6 +88,96 @@
       \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GC010648
       \endverb
       \keyw{geodynamics,sea-level change,Pliocene,glacial isostatic adjustment,mantle convection,Patagonia}
+    \endentry
+    \entry{Mann_2023}{article}{}
+      \name{author}{11}{}{%
+        {{hash=e5a813dc05e2954f7bd98207946627cb}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1b7756cf059c910b4c480f65507b4c5b}{%
+           family={Schöne},
+           familyi={S\bibinitperiod},
+           given={Tilo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=62b5cd90189cc970c5e2e9c25897a44b}{%
+           family={Kench},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6bdf6a4fc2215d3814e9ac1428f07e29}{%
+           family={Lambeck},
+           familyi={L\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3f49855119489fabf8cb3aec6b9cf772}{%
+           family={Ashe},
+           familyi={A\bibinitperiod},
+           given={Erica},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7234c917f99341d04cd963db629cb0bf}{%
+           family={Kneer},
+           familyi={K\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5e8bb63fd464f4d7534816ac4691b8f1}{%
+           family={Beetham},
+           familyi={B\bibinitperiod},
+           given={Eddie},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d7139549d2a11aa2173d73ef9d301696}{%
+           family={Illigner},
+           familyi={I\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3919ffb0126b166648d68d40b55d7fbc}{%
+           family={Marfai},
+           familyi={M\bibinitperiod},
+           given={Muh\bibnamedelima Aris},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6e3e046c28b1fa2a8fabd2011d9595e4}{%
+           family={Westphal},
+           familyi={W\bibinitperiod},
+           given={Hildegard},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7875d4d6208becdb8a0bfe86769958b}
+      \strng{fullhash}{52af695583eccde472f495c64d5f48db}
+      \strng{bibnamehash}{52af695583eccde472f495c64d5f48db}
+      \strng{authorbibnamehash}{52af695583eccde472f495c64d5f48db}
+      \strng{authornamehash}{f7875d4d6208becdb8a0bfe86769958b}
+      \strng{authorfullhash}{52af695583eccde472f495c64d5f48db}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0091-7613}
+      \field{journaltitle}{Geology}
+      \field{month}{05}
+      \field{title}{{Fossil Java Sea corals record Laurentide ice sheet disappearance}}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1130/G51038.1
+      \endverb
+      \verb{eprint}
+      \verb https://pubs.geoscienceworld.org/gsa/geology/article-pdf/doi/10.1130/G51038.1/5841245/g51038.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1130/G51038.1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1130/G51038.1
+      \endverb
     \endentry
     \entry{essd-15-1-2023}{article}{}
       \name{author}{6}{}{%
@@ -152,6 +242,92 @@
       \verb{url}
       \verb https://essd.copernicus.org/articles/15/1/2023/
       \endverb
+    \endentry
+    \entry{WEILACCARDO2023108197}{article}{}
+      \name{author}{10}{}{%
+        {{hash=8a53ab364deb271ba60101f056766ac0}{%
+           family={Weil-Accardo},
+           familyi={W\bibinithyphendelim A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=76f4fa21be6cbbe9f0652292c3666196}{%
+           family={Boyden},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8fc606f8c16d72af2905218409bcde2a}{%
+           family={Godeau},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f0b0101eeadf3ab4b4f3b203b4dbc906}{%
+           family={Jaosedy},
+           familyi={J\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3c7a00338ed17fbed2f556e3f93fd6b0}{%
+           family={Guihou},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=df87a28fbe0335a3292cb6560e10c92d}{%
+           family={Humblet},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9032dab88f6e4c55f94eb170efa0684f}{%
+           family={Rajaonarivelo},
+           familyi={R\bibinitperiod},
+           given={M.N.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=79c35f59ef64734086cf94fa12786d36}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=912697edf76b42030fc8fec1cdbba450}{%
+           family={Deschamps},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{89863a7b6711cb4b2f123b5abff34dde}
+      \strng{fullhash}{0a91ccd79a016414e77f26d0c8270a2c}
+      \strng{bibnamehash}{0a91ccd79a016414e77f26d0c8270a2c}
+      \strng{authorbibnamehash}{0a91ccd79a016414e77f26d0c8270a2c}
+      \strng{authornamehash}{89863a7b6711cb4b2f123b5abff34dde}
+      \strng{authorfullhash}{0a91ccd79a016414e77f26d0c8270a2c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The study of geological sea-level proxies formed during previous interglacials is a common approach to assess how global sea level will evolve under warmer climate conditions. Over the last decades, technical advancements in both survey and geochronology have allowed improving our knowledge of past sea-level highstands. This is of prime importance to refine our understanding of processes contributing to sea-level changes, and ultimately to improve both local and global sea-level projections. Last Interglacial sea-level proxies in the Western Indian Ocean (and more specifically the island nation of Madagascar), have been less investigated than in other intertropical oceans over the last decades. As a result, paleo sea-level data in this region are less abundant and less precise than elsewhere. Here, we report the results of two field campaigns aimed at studying the site of Lembetabe, southwest Madagascar, where a fossil reef was first described by the researcher René Battistini more than 50 years ago. We estimate paleo relative sea level history in space and time from 15 new U-series ages from a fossil reef platform mapped with differential GNSS and drone photogrammetry. Our data suggest that, between 129 ka and 115 ka, paleo relative sea level at this location was about 3.4 $\pm$ 1.4 m above modern. Once corrected for glacial isostatic adjustment, we find that paleo global mean sea level did not exceed 3 m above modern. Only slight crustal subsidence would reconcile the peak Last Interglacial sea level measured at Lembetabe with the 5--10 m range reported in the literature.}
+      \field{issn}{0277-3791}
+      \field{journaltitle}{Quaternary Science Reviews}
+      \field{title}{New datings and elevations of a fossil reef in Lembetabe, southwest Madagascar: eustatic and tectonic implications}
+      \field{volume}{313}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{108197}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.quascirev.2023.108197
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0277379123002457
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0277379123002457
+      \endverb
+      \keyw{Last interglacial,Sea-level changes,West Indian ocean,Geochronology,Glacial isostatic adjustment modeling}
     \endentry
     \entry{casella_assessing_2022}{article}{}
       \name{author}{5}{}{%
@@ -4872,13 +5048,12 @@
       \strng{authorbibnamehash}{30902713b97ddc4b1ea2f32bd44edb72}
       \strng{authornamehash}{55763cf2ee9474e3a94dfe1de0ea088f}
       \strng{authorfullhash}{30902713b97ddc4b1ea2f32bd44edb72}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The SEAMIS database (Mendeley data repository; https://doi.org/10.17632/wp4ctb4667.1) contains 546 relative sea-level indicators from 31 different studies within the broader Southeast Asian region including the Maldives, India and Sri Lanka. Here we compare quality-controlled and site-specific relative sea-level data from 23 studies from the SEAMIS database to a suite of ICE-5G glacial isostatic adjustment models. The relation between robust and, if applicable, tectonically corrected relative sea-level data with the broad predictions of glacial isostatic adjustment models is interpreted and discussed in the article ``Holocene sea levels in Southeast Asia, Maldives, India and Sri Lanka: The SEAMIS database'' [1] in Quaternary Science Reviews.}
@@ -4940,13 +5115,12 @@
       \strng{authorbibnamehash}{dd619742cb261f3ba5319885811224d4}
       \strng{authornamehash}{55763cf2ee9474e3a94dfe1de0ea088f}
       \strng{authorfullhash}{dd619742cb261f3ba5319885811224d4}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We assembled a database of Holocene relative sea-level index points (n = 213) and marine (n = 211) and terrestrial (n = 122) limiting points for the broader South and Southeast Asian region including the Maldives, India and Sri Lanka. The standardized review of published age-elevation information from corals, deltaic, estuarine and mangrove deposits, beachrocks and tidal notches, yielded a new suite of relative sea-level index and limiting points produced according to a standardized protocol. Expected spatial variability in Holocene relative sea-level change due to glacial isostatic adjustment was accounted for, by first subdividing the study area into ten geographic sub-regions from the Central Indian Ocean to the Western Tropical Pacific, and second by comparing sub-regional relative sea-level data to model predictions of glacial isostatic adjustment. Results show that some of the regionally constrained relative sea-level data are characterized by significant inconsistencies that cannot be explained by glacial isostatic adjustment. Such inconsistencies of standardized relative sea-level data become particularly obvious in areas around the Red River Delta in Vietnam, the Gulf of Thailand, the northwest coast of Malaysia and the Spermonde Archipelago in Indonesia. Based on a critical evaluation of the reviewed relative sea-level indicators, we discuss possible sources of local divergence and identify regions where data are currently insufficient to constrain glacial isostatic adjustment predictions. The remaining quality-controlled and consistent relative sea-level data show that glacial isostatic adjustment and syn-/post-formational influences such as tectonic uplift, subsidence and compaction were the dominant local drivers of Holocene relative sea-level change. Collectively, the results of this review suggest that Holocene sea levels in South and Southeast Asia and surrounding regions have been controlled by a variety of global and local drivers and imply that additional index points from the Java Sea in Indonesia would be valuable to better assess the spatial variability, and to calibrate geophysical models of glacial isostatic adjustment.}
@@ -7098,12 +7272,11 @@
       \strng{authorbibnamehash}{cf6dbcd6cb2005f1eb47821987af6e82}
       \strng{authornamehash}{55763cf2ee9474e3a94dfe1de0ea088f}
       \strng{authorfullhash}{cf6dbcd6cb2005f1eb47821987af6e82}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Knowledge on the timing and magnitude of past sea-level changes is essential to understand modern and future sea-level variability. Holocene sea-level data from literature on the west coast of Sulawesi, central Indonesia, suggest that this region experienced two relative sea-level highstands over the last 6000years, with magnitudes exceeding two meters. However, recent datasets from the Indo-Pacific region do not support high-magnitude sea-level oscillations during the Holocene in tectonically stable far-field locations. Here we present a new, high-precision, mid-Holocene sea-level dataset from the Spermonde Shelf off southwest Sulawesi. We surveyed 21 fossil microatolls on the reef flats of two coral islands (Pulau Panambungan and Pulau Barrang Lompo) and referred their elevations to local mean sea level and to the height of living coral. Radiometrically calibrated ages from emergent fossil microatolls on Pulau Panambungan indicate a relative sea-level highstand not exceeding 0.5m above present at ca. 5600cal.yrBP. The highstand is followed by a relatively rapid sea-level fall towards present sea level that was reached at around 4000cal.yrBP. Fossil microatolls from nearby Pulau Barrang Lompo show the same trend, however with a coherent negative vertical offset of about 0.8m compared to their equivalents on Pulau Panambungan. The largely consistent gradients of both trends (∼−0.14mmyr−1), the consistent elevation of living microatolls in the Spermonde, and a number of instructive geomorphic features indicate a localized, post-formational and probably recent drop of the fossil microatolls on the densely populated island Pulau Barrang Lompo. The relative sea-level trend inferred from Pulau Panambungan is well within the range of geophysical predictions based on ANICE-SELEN ice sheet model, which predict a highstand that is significantly lower than those predicted by other GIA models for this area. Although a complete interpretation of the Holocene sea-level history will require additional high-resolution datasets from this and surrounding territories in SE Asia, our results suggest that there was merely a single Holocene highstand in central Indonesia, the magnitude of which was substantially lower than hitherto assumed.}
