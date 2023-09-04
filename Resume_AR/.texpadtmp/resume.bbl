@@ -65,7 +65,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Abstract Paleoshorelines serve as measures of ancient sea level and ice volume but are affected by solid Earth deformation including processes such as glacial isostatic adjustment (GIA) and mantle dynamic topography (DT). The early Pliocene Epoch is an important target for sea-level reconstructions as it contains information about the stability of ice sheets during a climate warmer than today. Along the southeastern passive margin of Argentina, three paleoshorelines date to early Pliocene times (4.8–5.5 Ma), and their variable present-day elevations (36–180 m) reflect a unique topographic deformation signature. We use a mantle convection model to back-advect present-day buoyancy variations, including those that correspond to the Patagonian slab window. Varying the viscosity and initial tomography-derived mantle buoyancy structures allows us to compute a suite of predictions of DT change that, when compared to GIA-corrected shoreline elevations, makes it possible to identify both the most likely convection parameters and the most likely DT change. Our simulations illuminate an interplay of upwelling asthenosphere through the Patagonian slab window and coincident downwelling of the subducted Nazca slab in the mantle transition zone. This flow leads to differential upwarping of the southern Patagonian foreland since early Pliocene times, in line with the observations. Using our most likely DT change leads to an estimate of global mean sea level of 17.5 ± 6.4 m (1σ) in the early Pliocene Epoch. This confirms that sea level was significantly higher than present and can be used to calibrate ice sheet models.}
+      \field{abstract}{Abstract Paleoshorelines serve as measures of ancient sea level and ice volume but are affected by solid Earth deformation including processes such as glacial isostatic adjustment (GIA) and mantle dynamic topography (DT). The early Pliocene Epoch is an important target for sea-level reconstructions as it contains information about the stability of ice sheets during a climate warmer than today. Along the southeastern passive margin of Argentina, three paleoshorelines date to early Pliocene times (4.8--5.5 Ma), and their variable present-day elevations (36--180 m) reflect a unique topographic deformation signature. We use a mantle convection model to back-advect present-day buoyancy variations, including those that correspond to the Patagonian slab window. Varying the viscosity and initial tomography-derived mantle buoyancy structures allows us to compute a suite of predictions of DT change that, when compared to GIA-corrected shoreline elevations, makes it possible to identify both the most likely convection parameters and the most likely DT change. Our simulations illuminate an interplay of upwelling asthenosphere through the Patagonian slab window and coincident downwelling of the subducted Nazca slab in the mantle transition zone. This flow leads to differential upwarping of the southern Patagonian foreland since early Pliocene times, in line with the observations. Using our most likely DT change leads to an estimate of global mean sea level of 17.5 $\pm$ 6.4 m (1σ) in the early Pliocene Epoch. This confirms that sea level was significantly higher than present and can be used to calibrate ice sheet models.}
       \field{journaltitle}{Geochemistry, Geophysics, Geosystems}
       \field{note}{e2022GC010648 2022GC010648}
       \field{number}{2}
@@ -160,7 +160,6 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{{The Laurentide ice sheet was the largest late Pleistocene ice mass and the largest contributor to Holocene pre-industrial sea-level rise. While glaciological dates suggest final ice sheet melting between 8 and 6 ka, inversion of sea-level data indicates deglaciation at ca. 7 ka. Here, we present new chronostratigraphic constraints on Laurentide ice sheet disappearance based on Holocene relative sea-level observations from the tectonically stable north coast of Java, Indonesia. Age-elevation data from the flat upper surfaces of 13 fossil intertidal corals (i.e., microatolls) indicate that the Java Sea experienced a relative sea level of 1.3 ± 0.7 m above present between 6.9 and 5.3 ka. To determine uncaptured relative sea-level trends within the observational uncertainties of this apparently constant highstand, we analyzed the internal structure of three sliced microatolls from the same site to produce a high-resolution data set. These data were used to statistically model relative sea-level rates and trends. Employing the data with the model provided evidence for a short-lived rise of relative sea level from 1.0 ± 0.3 m above present at 6.7 ± 0.1 ka to 1.9 ± 0.3 m above present at 6.4 ± 0.1 ka. The end of this rise likely represents the last input of meltwater from the vast Laurentide ice sheet, which, consequently, collapsed at least 400 yr later than assumed by some widely used models of glacial isostatic adjustment. Incorporating these new results into such predictive models will help to better understand the geographical variability of future sea-level rise as a result of global warming.}}
       \field{issn}{0091-7613}
       \field{journaltitle}{Geology}
       \field{month}{05}
@@ -243,6 +242,92 @@
       \verb{url}
       \verb https://essd.copernicus.org/articles/15/1/2023/
       \endverb
+    \endentry
+    \entry{WEILACCARDO2023108197}{article}{}
+      \name{author}{10}{}{%
+        {{hash=8a53ab364deb271ba60101f056766ac0}{%
+           family={Weil-Accardo},
+           familyi={W\bibinithyphendelim A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=76f4fa21be6cbbe9f0652292c3666196}{%
+           family={Boyden},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8fc606f8c16d72af2905218409bcde2a}{%
+           family={Godeau},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f0b0101eeadf3ab4b4f3b203b4dbc906}{%
+           family={Jaosedy},
+           familyi={J\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3c7a00338ed17fbed2f556e3f93fd6b0}{%
+           family={Guihou},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=df87a28fbe0335a3292cb6560e10c92d}{%
+           family={Humblet},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9032dab88f6e4c55f94eb170efa0684f}{%
+           family={Rajaonarivelo},
+           familyi={R\bibinitperiod},
+           given={M.N.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=79c35f59ef64734086cf94fa12786d36}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=912697edf76b42030fc8fec1cdbba450}{%
+           family={Deschamps},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{89863a7b6711cb4b2f123b5abff34dde}
+      \strng{fullhash}{0a91ccd79a016414e77f26d0c8270a2c}
+      \strng{bibnamehash}{0a91ccd79a016414e77f26d0c8270a2c}
+      \strng{authorbibnamehash}{0a91ccd79a016414e77f26d0c8270a2c}
+      \strng{authornamehash}{89863a7b6711cb4b2f123b5abff34dde}
+      \strng{authorfullhash}{0a91ccd79a016414e77f26d0c8270a2c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The study of geological sea-level proxies formed during previous interglacials is a common approach to assess how global sea level will evolve under warmer climate conditions. Over the last decades, technical advancements in both survey and geochronology have allowed improving our knowledge of past sea-level highstands. This is of prime importance to refine our understanding of processes contributing to sea-level changes, and ultimately to improve both local and global sea-level projections. Last Interglacial sea-level proxies in the Western Indian Ocean (and more specifically the island nation of Madagascar), have been less investigated than in other intertropical oceans over the last decades. As a result, paleo sea-level data in this region are less abundant and less precise than elsewhere. Here, we report the results of two field campaigns aimed at studying the site of Lembetabe, southwest Madagascar, where a fossil reef was first described by the researcher René Battistini more than 50 years ago. We estimate paleo relative sea level history in space and time from 15 new U-series ages from a fossil reef platform mapped with differential GNSS and drone photogrammetry. Our data suggest that, between 129 ka and 115 ka, paleo relative sea level at this location was about 3.4 $\pm$ 1.4 m above modern. Once corrected for glacial isostatic adjustment, we find that paleo global mean sea level did not exceed 3 m above modern. Only slight crustal subsidence would reconcile the peak Last Interglacial sea level measured at Lembetabe with the 5--10 m range reported in the literature.}
+      \field{issn}{0277-3791}
+      \field{journaltitle}{Quaternary Science Reviews}
+      \field{title}{New datings and elevations of a fossil reef in Lembetabe, southwest Madagascar: eustatic and tectonic implications}
+      \field{volume}{313}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{108197}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.quascirev.2023.108197
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0277379123002457
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0277379123002457
+      \endverb
+      \keyw{Last interglacial,Sea-level changes,West Indian ocean,Geochronology,Glacial isostatic adjustment modeling}
     \endentry
     \entry{casella_assessing_2022}{article}{}
       \name{author}{5}{}{%

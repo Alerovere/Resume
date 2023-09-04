@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  20 JUL 2023 11:49
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  4 SEP 2023 09:10
  restricted system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -1816,50 +1816,50 @@ Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
 (scrartcl)              The command has been renamed because of a
 (scrartcl)              recommendation of The LaTeX Project Team.
 (scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
-input line 670.
+input line 671.
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 670--670
+Underfull \hbox (badness 3271) in paragraph at lines 671--671
 \TU/Carlito(0)/m/n/12 the In-ter-na-tional Union of Qua-
  []
 
 
-Underfull \hbox (badness 4846) in paragraph at lines 670--670
+Underfull \hbox (badness 4846) in paragraph at lines 671--671
 \TU/Carlito(0)/m/n/12 in-ter-na-tional work-ing groups on
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 670--670
+Underfull \hbox (badness 2165) in paragraph at lines 671--671
 \TU/Carlito(0)/m/n/12 sev-eral ses-sions at sev-eral in-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 670--670
+Underfull \hbox (badness 10000) in paragraph at lines 671--671
 \TU/Carlito(0)/m/n/12 co-organised sev-eral work-shops
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 670--670
+Underfull \hbox (badness 10000) in paragraph at lines 671--671
 
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 670--670
+Underfull \hbox (badness 2050) in paragraph at lines 671--671
 \TU/Carlito(0)/m/n/12 I have edited two spe-cial is-sues
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 670--670
+Underfull \hbox (badness 10000) in paragraph at lines 671--671
 \TU/Carlito(0)/m/n/12 in in-ter-na-tional jour-nals, one
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 670--670
+Underfull \hbox (badness 1824) in paragraph at lines 671--671
 \TU/Carlito(0)/m/n/12 ter-na-tional jour-nals. I re-viewed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 670--671
+Underfull \hbox (badness 10000) in paragraph at lines 671--672
 
  []
 
@@ -1871,15 +1871,15 @@ Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
 (scrartcl)              The command has been renamed because of a
 (scrartcl)              recommendation of The LaTeX Project Team.
 (scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
-input line 702.
+input line 703.
 
 
-Underfull \hbox (badness 4805) in paragraph at lines 702--702
+Underfull \hbox (badness 4805) in paragraph at lines 703--703
 []\TU/Carlito(0)/m/n/12 I or-ag-nised sev-eral in-ter-na-tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--703
+Underfull \hbox (badness 10000) in paragraph at lines 703--704
 
  []
 
@@ -1892,15 +1892,26 @@ Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
 (scrartcl)              The command has been renamed because of a
 (scrartcl)              recommendation of The LaTeX Project Team.
 (scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
-input line 737.
+input line 739.
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 737--737
+Underfull \hbox (badness 5985) in paragraph at lines 739--739
 []\TU/Carlito(0)/m/n/12 My re-search ac-tiv-i-ties were re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 737--738
+Underfull \hbox (badness 1540) in paragraph at lines 739--739
+\TU/Carlito(0)/m/n/12 ported by sev-eral me-dia out-lets,
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 739--739
+\TU/Carlito(0)/m/n/12 in-clud-ing news-pa-pers \TU/FontAwesome(0)/m/n/12 \TU
+/Carlito(0)/m/n/12 , ra-dios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--740
 
  []
 
@@ -1910,28 +1921,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 737--738
 <img/products_per_year.png, id=68, 1445.4pt x 361.35pt>
 File: img/products_per_year.png Graphic file (type png)
 <use img/products_per_year.png>
-Package luatex.def Info: img/products_per_year.png  used on input line 753.
+Package luatex.def Info: img/products_per_year.png  used on input line 755.
 (luatex.def)             Requested size: 540.60245pt x 135.14752pt.
 <img/citations_authors.png, id=69, 1445.4pt x 361.35pt>
 File: img/citations_authors.png Graphic file (type png)
 <use img/citations_authors.png>
-Package luatex.def Info: img/citations_authors.png  used on input line 758.
+Package luatex.def Info: img/citations_authors.png  used on input line 760.
 (luatex.def)             Requested size: 540.60245pt x 135.14752pt.
 <Research_map/field_data.pdf, id=70, 1927.2pt x 1084.05pt>
 File: Research_map/field_data.pdf Graphic file (type pdf)
 <use Research_map/field_data.pdf>
-Package luatex.def Info: Research_map/field_data.pdf  used on input line 763.
+Package luatex.def Info: Research_map/field_data.pdf  used on input line 765.
 (luatex.def)             Requested size: 513.57066pt x 288.87639pt.
  [10
 
 <./img/products_per_year.png><./img/citations_authors.png><./Research_map/field_
 data.pdf>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 771.
+(Font)              <12> on input line 773.
 
 
 LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 774.
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 776.
 
 [11
 
@@ -1946,7 +1957,7 @@ Missing character: There is no ́ (U+0301) in font Carlito:mode=node;script=latn
 Missing character: There is no ́ (U+0301) in font Carlito:mode=node;script=latn
 ;language=dflt;+tlig;!
 ]
-Overfull \hbox (1.26244pt too wide) in paragraph at lines 782--782
+Overfull \hbox (1.26244pt too wide) in paragraph at lines 784--784
 [][]\TU/Carlito(0)/b/n/10 Ro-vere\TU/Carlito(0)/m/n/10 , A., Stoc-chi, P., & $[
 ]$, M. (2020). \TU/Carlito(0)/m/it/10 Mod-els, data and python tools for the ana
 l-y-sis of sea level data in the Sper-monde Archipelago
@@ -1969,7 +1980,7 @@ Here is how much of LuaTeX's memory you used:
  923 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 42 attribute, 76 glue_spec
 , 42 attribute_list, 2 write, 37 pdf_action nodes
-   avail lists: 1:2,2:2437,3:1316,4:675,5:2093,6:371,7:17245,8:112,9:1463,10:13,
+   avail lists: 1:2,2:2437,3:1316,4:676,5:2093,6:370,7:17245,8:112,9:1463,10:13,
 11:966
  61752 multiletter control sequences out of 65536+600000
  76 fonts using 16175551 bytes
@@ -1980,7 +1991,7 @@ demicons.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/typoland/carlito
 /Carlito-Regular.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/f
 ontawesome/FontAwesome.otf></usr/local/texlive/2022/texmf-dist/fonts/truetype/ty
 poland/carlito/Carlito-Bold.ttf>
-Output written on resume.pdf (16 pages, 1494337 bytes).
+Output written on resume.pdf (16 pages, 1494767 bytes).
 
 PDF statistics: 463 PDF objects out of 1000 (max. 8388607)
  414 compressed objects within 5 object streams
