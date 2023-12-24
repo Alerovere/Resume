@@ -179,8 +179,51 @@
       \verb https://doi.org/10.1130/G51038.1
       \endverb
     \endentry
+    \entry{ROVERE2023_geoindicators}{book}{}
+      \name{author}{3}{ul=3}{%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8a169f7df6ca7b68b9fcba2978e81b3b}{%
+           family={Pappalardo},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bb6be62168cd311ef60da6c276669986}{%
+           family={O’Leary},
+           familyi={O\bibinitperiod},
+           given={M.J.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5d327c9a912ce654d96f3e7c30b6229b}
+      \strng{fullhash}{5d327c9a912ce654d96f3e7c30b6229b}
+      \strng{bibnamehash}{5d327c9a912ce654d96f3e7c30b6229b}
+      \strng{authorbibnamehash}{5d327c9a912ce654d96f3e7c30b6229b}
+      \strng{authornamehash}{5d327c9a912ce654d96f3e7c30b6229b}
+      \strng{authorfullhash}{5d327c9a912ce654d96f3e7c30b6229b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Several physical, chemical, and biological processes shape coastal environments close to sea level. Acting through time, these processes create a variety of coastal landforms. When found outside their environment of formation, these landforms can be used by geoscientists as geomorphological indicators of former relative sea levels. In this chapter, we outline the main processes acting on coastal areas, and link them to distinct types of sea-level indicators, defining general elevation/depth formation ranges for each, which are essential to calculate the paleo relative sea-level position starting from the measured elevation or depth of the landform.}
+      \field{booktitle}{Reference Module in Earth Systems and Environmental Sciences}
+      \field{isbn}{978-0-12-409548-9}
+      \field{title}{Geomorphological indicators}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-323-99931-1.00050-7
+      \endverb
+    \endentry
     \entry{essd-15-1-2023}{article}{}
-      \name{author}{6}{}{%
+      \name{author}{6}{ul=3}{%
         {{hash=502296b06c73742b98488f897037d3a6}{%
            family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
@@ -212,11 +255,11 @@
            given={C.\bibnamedelimi V.},
            giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
       }
-      \strng{namehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{namehash}{64d6c58da18d0d5b6bc5c9b57974778f}
       \strng{fullhash}{691ad42e3464a4405d580bb882e104ab}
       \strng{bibnamehash}{691ad42e3464a4405d580bb882e104ab}
       \strng{authorbibnamehash}{691ad42e3464a4405d580bb882e104ab}
-      \strng{authornamehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{authornamehash}{64d6c58da18d0d5b6bc5c9b57974778f}
       \strng{authorfullhash}{691ad42e3464a4405d580bb882e104ab}
       \field{extraname}{1}
       \field{sortinit}{2}
@@ -785,6 +828,7 @@
       \strng{authorbibnamehash}{4ee3134a4a58493410b58176047748fb}
       \strng{authornamehash}{4e49233eac41c874d8955e8104773612}
       \strng{authorfullhash}{4ee3134a4a58493410b58176047748fb}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3041,7 +3085,7 @@
       \endverb
     \endentry
     \entry{Rovere_higher_2020}{article}{}
-      \name{author}{9}{ul=2}{%
+      \name{author}{9}{ul=3}{%
         {{hash=502296b06c73742b98488f897037d3a6}{%
            family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
@@ -3088,11 +3132,11 @@
            given={M.\bibnamedelimi E.},
            giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
-      \strng{namehash}{ddecc146a307def45e7cd7e5e574abab}
+      \strng{namehash}{9e687c03352e1508e133cfec2c49617b}
       \strng{fullhash}{00607f836cf4f48e0b18d68cc28518c2}
       \strng{bibnamehash}{00607f836cf4f48e0b18d68cc28518c2}
       \strng{authorbibnamehash}{00607f836cf4f48e0b18d68cc28518c2}
-      \strng{authornamehash}{ddecc146a307def45e7cd7e5e574abab}
+      \strng{authornamehash}{9e687c03352e1508e133cfec2c49617b}
       \strng{authorfullhash}{00607f836cf4f48e0b18d68cc28518c2}
       \field{extraname}{1}
       \field{sortinit}{2}
@@ -3611,7 +3655,7 @@
       \endverb
     \endentry
     \entry{rovere_alessio_2020_4091366}{dataset}{}
-      \name{author}{9}{ul=2}{%
+      \name{author}{9}{ul=3}{%
         {{hash=983d1c67347a333b664da0ac64046540}{%
            family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
@@ -3661,11 +3705,11 @@
       \list{publisher}{1}{%
         {Zenodo}%
       }
-      \strng{namehash}{0f51ef045e0b841156d10b25a25e4485}
+      \strng{namehash}{614d15df131994b39cc45eab7041fc15}
       \strng{fullhash}{c3cba2e0839c888dcd394664375d5559}
       \strng{bibnamehash}{c3cba2e0839c888dcd394664375d5559}
       \strng{authorbibnamehash}{c3cba2e0839c888dcd394664375d5559}
-      \strng{authornamehash}{0f51ef045e0b841156d10b25a25e4485}
+      \strng{authornamehash}{614d15df131994b39cc45eab7041fc15}
       \strng{authorfullhash}{c3cba2e0839c888dcd394664375d5559}
       \field{extraname}{2}
       \field{sortinit}{2}
@@ -8689,7 +8733,7 @@
       \strng{authorbibnamehash}{ef159bdca3ea7d33c47694ccecd3724f}
       \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
       \strng{authorfullhash}{ef159bdca3ea7d33c47694ccecd3724f}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -9265,7 +9309,7 @@
       \strng{authorbibnamehash}{592ac1e6088ecde784d50e47e7f42839}
       \strng{authornamehash}{5f4fe288bda07344b9bdada8fe13512e}
       \strng{authorfullhash}{592ac1e6088ecde784d50e47e7f42839}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -10137,7 +10181,7 @@
       \strng{authorbibnamehash}{6c09036b7edf1f03cedb808e5b9e6d67}
       \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
       \strng{authorfullhash}{6c09036b7edf1f03cedb808e5b9e6d67}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -10249,7 +10293,7 @@
       \strng{authorbibnamehash}{d64f95e26eabbf96f3f56d92273b3827}
       \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
       \strng{authorfullhash}{d64f95e26eabbf96f3f56d92273b3827}
-      \field{extraname}{5}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -10371,7 +10415,7 @@
       \strng{authorbibnamehash}{d0401b7d83fc199e3809fe8be545beeb}
       \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
       \strng{authorfullhash}{d0401b7d83fc199e3809fe8be545beeb}
-      \field{extraname}{6}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
