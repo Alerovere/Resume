@@ -89,8 +89,106 @@
       \endverb
       \keyw{geodynamics,sea-level change,Pliocene,glacial isostatic adjustment,mantle convection,Patagonia}
     \endentry
+    \entry{mann_multi-decadal_2023}{article}{}
+      \name{author}{11}{ul=2}{%
+        {{hash=7aab1bf4761be4f08c933c611528f3f6}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=755eeec805c0edffbb98f57cef29379b}{%
+           family={Serwa},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef656d491d447602da94d47db35304ca}{%
+           family={Casella},
+           familyi={C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=69d42804da5b9657b8c775ad3a495f25}{%
+           family={Appeaning-Addo},
+           familyi={A\bibinithyphendelim A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=dcb48ba3698471b0e68b588a5d756ce4}{%
+           family={Jayson-Quashigah},
+           familyi={J\bibinithyphendelim Q\bibinitperiod},
+           given={P.-N.},
+           giveni={P\bibinithyphendelim N\bibinitperiod}}}%
+        {{hash=84ec6662986d851cb37908f886dae802}{%
+           family={Mensah-Senoo},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=73fc1ef30557fd674c6024d366dc7f21}{%
+           family={{\underline{Trstenjak}}},
+           familyi={T\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6a41b3bd276d30ff9255cf8e1ee38e88}{%
+           family={Lassalle},
+           familyi={L\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1705b2f990d733eb98ea4d3ce9de713e}{%
+           family={Flitner},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d6577b272cabfd20ffe3d8170488d78f}{%
+           family={Westphal},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{49fd3ec26640edba82d4944eb63d25e7}
+      \strng{fullhash}{7f191f86ed5e60bb996ed3400c38bcc6}
+      \strng{bibnamehash}{7f191f86ed5e60bb996ed3400c38bcc6}
+      \strng{authorbibnamehash}{7f191f86ed5e60bb996ed3400c38bcc6}
+      \strng{authornamehash}{49fd3ec26640edba82d4944eb63d25e7}
+      \strng{authorfullhash}{7f191f86ed5e60bb996ed3400c38bcc6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Human infrastructures, such as dams, seawalls, and ports, can affect both the sedimentary budget and nearshore hydrodynamics, enhancing and accelerating the loss or gain of coastal sediments. Understanding the processes and factors controlling beach morphodynamics is essential for implementing adequate adaptation strategies in coastal areas, particularly in those regions where coastal protection measures are scarce. This study analyzes shoreline changes in the Keta Municipal District, located in southeastern Ghana (West Africa). This area is characterized by the sedimentary input of the Volta River, forming a river delta situated to the west, i.e., updrift, of our study site. Following the construction of two dams (Akosombo and Kpong) on the Volta River in 1965 and 1982, groins and revetments have been built along the coast between 2005 and 2015 to reduce the high rates of coastal erosion in this area. Here, we explore the influence of these dams and the hard protection constructions on beach morphodynamics using historical maps and satellite images complemented by a shoreline survey undertaken with a differential GNSS in 2015. The multi-decadal evolution between 1913 and 2015 reconstructed for 90 km of shoreline suggests that local erosion rates in the region predate the construction of the two dams on the Volta River, indicating that these structures might not be the primary driver of coastal erosion in this area, as previously suggested. We emphasize that delta dynamics under conditions of high-energy longshore drift, modified by anthropogenic drivers such as sand mining, play a key role in the long-term evolution of this coast. Our results also show that the infrastructures built to halt coastal erosion result in localized erosion and accretion down-current along the coastline towards the border with Togo, highlighting the need for a transnational perspective in addressing the problems caused by coastal erosion.}
+      \field{issn}{0276-0460, 1432-1157}
+      \field{journaltitle}{Geo-Marine Letters}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Multi-decadal shoreline changes in {Eastern} {Ghana}---natural dynamics versus human interventions}
+      \field{urlday}{17}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{volume}{43}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{17}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s00367-023-00758-x
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s00367-023-00758-x
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s00367-023-00758-x
+      \endverb
+    \endentry
     \entry{Mann_2023}{article}{}
-      \name{author}{11}{}{%
+      \name{author}{11}{ul=2}{%
         {{hash=e5a813dc05e2954f7bd98207946627cb}{%
            family={Mann},
            familyi={M\bibinitperiod},
@@ -147,13 +245,12 @@
            given={Hildegard},
            giveni={H\bibinitperiod}}}%
       }
-      \strng{namehash}{f7875d4d6208becdb8a0bfe86769958b}
+      \strng{namehash}{1690e96b35d722048c68cb01941602e0}
       \strng{fullhash}{52af695583eccde472f495c64d5f48db}
       \strng{bibnamehash}{52af695583eccde472f495c64d5f48db}
       \strng{authorbibnamehash}{52af695583eccde472f495c64d5f48db}
-      \strng{authornamehash}{f7875d4d6208becdb8a0bfe86769958b}
+      \strng{authornamehash}{1690e96b35d722048c68cb01941602e0}
       \strng{authorfullhash}{52af695583eccde472f495c64d5f48db}
-      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -179,8 +276,51 @@
       \verb https://doi.org/10.1130/G51038.1
       \endverb
     \endentry
+    \entry{ROVERE2023_geoindicators}{book}{}
+      \name{author}{3}{ul=3}{%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8a169f7df6ca7b68b9fcba2978e81b3b}{%
+           family={Pappalardo},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9d650ebae32a97411a2c54305166865f}{%
+           family={O'Leary},
+           familyi={O\bibinitperiod},
+           given={M.J.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4ce3b1b7ba095c3b9d76d01e1b79796f}
+      \strng{fullhash}{4ce3b1b7ba095c3b9d76d01e1b79796f}
+      \strng{bibnamehash}{4ce3b1b7ba095c3b9d76d01e1b79796f}
+      \strng{authorbibnamehash}{4ce3b1b7ba095c3b9d76d01e1b79796f}
+      \strng{authornamehash}{4ce3b1b7ba095c3b9d76d01e1b79796f}
+      \strng{authorfullhash}{4ce3b1b7ba095c3b9d76d01e1b79796f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Several physical, chemical, and biological processes shape coastal environments close to sea level. Acting through time, these processes create a variety of coastal landforms. When found outside their environment of formation, these landforms can be used by geoscientists as geomorphological indicators of former relative sea levels. In this chapter, we outline the main processes acting on coastal areas, and link them to distinct types of sea-level indicators, defining general elevation/depth formation ranges for each, which are essential to calculate the paleo relative sea-level position starting from the measured elevation or depth of the landform.}
+      \field{booktitle}{Reference Module in Earth Systems and Environmental Sciences}
+      \field{isbn}{978-0-12-409548-9}
+      \field{title}{Geomorphological indicators}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-323-99931-1.00050-7
+      \endverb
+    \endentry
     \entry{essd-15-1-2023}{article}{}
-      \name{author}{6}{}{%
+      \name{author}{6}{ul=3}{%
         {{hash=502296b06c73742b98488f897037d3a6}{%
            family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
@@ -212,11 +352,11 @@
            given={C.\bibnamedelimi V.},
            giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
       }
-      \strng{namehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{namehash}{64d6c58da18d0d5b6bc5c9b57974778f}
       \strng{fullhash}{691ad42e3464a4405d580bb882e104ab}
       \strng{bibnamehash}{691ad42e3464a4405d580bb882e104ab}
       \strng{authorbibnamehash}{691ad42e3464a4405d580bb882e104ab}
-      \strng{authornamehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{authornamehash}{64d6c58da18d0d5b6bc5c9b57974778f}
       \strng{authorfullhash}{691ad42e3464a4405d580bb882e104ab}
       \field{extraname}{1}
       \field{sortinit}{2}
@@ -243,6 +383,90 @@
       \verb https://essd.copernicus.org/articles/15/1/2023/
       \endverb
     \endentry
+    \entry{rovere_influence_2023}{article}{}
+      \name{author}{8}{ul=3}{%
+        {{hash=983d1c67347a333b664da0ac64046540}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a10b3223d4424e05ed944b3285b83e02}{%
+           family={Pico},
+           familyi={P\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7ac2f94736b33731b51730043cd71857}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Fred},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ef7f01052db064ba72ce0fe4bde56e17}{%
+           family={O’Leary},
+           familyi={O\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=95e128813efbea73ccdd0aff0714fd1a}{%
+           family={Mitrovica},
+           familyi={M\bibinitperiod},
+           given={Jerry\bibnamedelima X.},
+           giveni={J\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=d96a12f786bca3f7d3a3f2851b8144d7}{%
+           family={Goodwin},
+           familyi={G\bibinitperiod},
+           given={Ian\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ef5529dd63148d5eebced08d3d64089f}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+        {{hash=999419e7a0cb40b4bd7d8e5f79fa9d36}{%
+           family={Latychev},
+           familyi={L\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e60fa55d0b68d6bdf37728c7007fde3d}
+      \strng{fullhash}{419d4ed9e3e0db8b3bd2707cd9350306}
+      \strng{bibnamehash}{419d4ed9e3e0db8b3bd2707cd9350306}
+      \strng{authorbibnamehash}{419d4ed9e3e0db8b3bd2707cd9350306}
+      \strng{authornamehash}{e60fa55d0b68d6bdf37728c7007fde3d}
+      \strng{authorfullhash}{419d4ed9e3e0db8b3bd2707cd9350306}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Understanding sea level during the peak of the Last Interglacial (125,000 yrs ago) is important for assessing future ice-sheet dynamics in response to climate change. The coasts and continental shelves of northeastern Australia (Queensland) preserve an extensive Last Interglacial record in the facies of coastal strandplains onland and fossil reefs offshore. However, there is a discrepancy, amounting to tens of meters, in the elevation of sea-level indicators between offshore and onshore sites. Here, we assess the influence of geophysical processes that may have changed the elevation of these sea-level indicators. We modeled sea-level change due to dynamic topography, glacial isostatic adjustment, and isostatic adjustment due to coral reef loading. We find that these processes caused relative sea-level changes on the order of, respectively, 10 m, 5 m, and 0.3 m. Of these geophysical processes, the dynamic topography predictions most closely match the tilting observed between onshore and offshore sea-level markers.}
+      \field{issn}{2662-4435}
+      \field{journaltitle}{Communications Earth \& Environment}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{Influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on sea-level records in {Northeastern} {Australia}}
+      \field{urlday}{17}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{volume}{4}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{328}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s43247-023-00967-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s43247-023-00967-3
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s43247-023-00967-3
+      \endverb
+    \endentry
     \entry{WEILACCARDO2023108197}{article}{}
       \name{author}{10}{}{%
         {{hash=8a53ab364deb271ba60101f056766ac0}{%
@@ -250,8 +474,8 @@
            familyi={W\bibinithyphendelim A\bibinitperiod},
            given={J.},
            giveni={J\bibinitperiod}}}%
-        {{hash=76f4fa21be6cbbe9f0652292c3666196}{%
-           family={Boyden},
+        {{hash=658256c565d10d8acf49cb166f6b4b6f}{%
+           family={{\underline{Boyden}}},
            familyi={B\bibinitperiod},
            given={P.},
            giveni={P\bibinitperiod}}}%
@@ -297,11 +521,11 @@
            giveni={P\bibinitperiod}}}%
       }
       \strng{namehash}{89863a7b6711cb4b2f123b5abff34dde}
-      \strng{fullhash}{0a91ccd79a016414e77f26d0c8270a2c}
-      \strng{bibnamehash}{0a91ccd79a016414e77f26d0c8270a2c}
-      \strng{authorbibnamehash}{0a91ccd79a016414e77f26d0c8270a2c}
+      \strng{fullhash}{ecfcb2bd95362815c79f06483997b99c}
+      \strng{bibnamehash}{ecfcb2bd95362815c79f06483997b99c}
+      \strng{authorbibnamehash}{ecfcb2bd95362815c79f06483997b99c}
       \strng{authornamehash}{89863a7b6711cb4b2f123b5abff34dde}
-      \strng{authorfullhash}{0a91ccd79a016414e77f26d0c8270a2c}
+      \strng{authorfullhash}{ecfcb2bd95362815c79f06483997b99c}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -671,7 +895,7 @@
       \endverb
     \endentry
     \entry{rovere_alessio_2022_6957644}{dataset}{}
-      \name{author}{8}{ul=2}{%
+      \name{author}{8}{ul=3}{%
         {{hash=983d1c67347a333b664da0ac64046540}{%
            family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
@@ -716,12 +940,13 @@
       \list{publisher}{1}{%
         {Zenodo}%
       }
-      \strng{namehash}{892608eb75832581cda20dc8b1ec3869}
+      \strng{namehash}{e2c174a63fdecb7235460258ce5ff3f0}
       \strng{fullhash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
       \strng{bibnamehash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
       \strng{authorbibnamehash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
-      \strng{authornamehash}{892608eb75832581cda20dc8b1ec3869}
+      \strng{authornamehash}{e2c174a63fdecb7235460258ce5ff3f0}
       \strng{authorfullhash}{3e1728f7f186a220ac6e0a8f0ccec7a2}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -785,6 +1010,7 @@
       \strng{authorbibnamehash}{4ee3134a4a58493410b58176047748fb}
       \strng{authornamehash}{4e49233eac41c874d8955e8104773612}
       \strng{authorfullhash}{4ee3134a4a58493410b58176047748fb}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3041,7 +3267,7 @@
       \endverb
     \endentry
     \entry{Rovere_higher_2020}{article}{}
-      \name{author}{9}{ul=2}{%
+      \name{author}{9}{ul=3}{%
         {{hash=502296b06c73742b98488f897037d3a6}{%
            family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
@@ -3088,11 +3314,11 @@
            given={M.\bibnamedelimi E.},
            giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
-      \strng{namehash}{ddecc146a307def45e7cd7e5e574abab}
+      \strng{namehash}{9e687c03352e1508e133cfec2c49617b}
       \strng{fullhash}{00607f836cf4f48e0b18d68cc28518c2}
       \strng{bibnamehash}{00607f836cf4f48e0b18d68cc28518c2}
       \strng{authorbibnamehash}{00607f836cf4f48e0b18d68cc28518c2}
-      \strng{authornamehash}{ddecc146a307def45e7cd7e5e574abab}
+      \strng{authornamehash}{9e687c03352e1508e133cfec2c49617b}
       \strng{authorfullhash}{00607f836cf4f48e0b18d68cc28518c2}
       \field{extraname}{1}
       \field{sortinit}{2}
@@ -3611,7 +3837,7 @@
       \endverb
     \endentry
     \entry{rovere_alessio_2020_4091366}{dataset}{}
-      \name{author}{9}{ul=2}{%
+      \name{author}{9}{ul=3}{%
         {{hash=983d1c67347a333b664da0ac64046540}{%
            family={{\textbf{Rovere}}},
            familyi={R\bibinitperiod},
@@ -3661,11 +3887,11 @@
       \list{publisher}{1}{%
         {Zenodo}%
       }
-      \strng{namehash}{0f51ef045e0b841156d10b25a25e4485}
+      \strng{namehash}{614d15df131994b39cc45eab7041fc15}
       \strng{fullhash}{c3cba2e0839c888dcd394664375d5559}
       \strng{bibnamehash}{c3cba2e0839c888dcd394664375d5559}
       \strng{authorbibnamehash}{c3cba2e0839c888dcd394664375d5559}
-      \strng{authornamehash}{0f51ef045e0b841156d10b25a25e4485}
+      \strng{authornamehash}{614d15df131994b39cc45eab7041fc15}
       \strng{authorfullhash}{c3cba2e0839c888dcd394664375d5559}
       \field{extraname}{2}
       \field{sortinit}{2}
@@ -5048,7 +5274,7 @@
       \strng{authorbibnamehash}{30902713b97ddc4b1ea2f32bd44edb72}
       \strng{authornamehash}{55763cf2ee9474e3a94dfe1de0ea088f}
       \strng{authorfullhash}{30902713b97ddc4b1ea2f32bd44edb72}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -5115,7 +5341,7 @@
       \strng{authorbibnamehash}{dd619742cb261f3ba5319885811224d4}
       \strng{authornamehash}{55763cf2ee9474e3a94dfe1de0ea088f}
       \strng{authorfullhash}{dd619742cb261f3ba5319885811224d4}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -5138,7 +5364,7 @@
       \endverb
       \keyw{glacial isostatic adjustment}
     \endentry
-    \entry{rovere2019}{misc}{}
+    \entry{rovere2019}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=983d1c67347a333b664da0ac64046540}{%
            family={{\textbf{Rovere}}},
@@ -7272,7 +7498,7 @@
       \strng{authorbibnamehash}{cf6dbcd6cb2005f1eb47821987af6e82}
       \strng{authornamehash}{55763cf2ee9474e3a94dfe1de0ea088f}
       \strng{authorfullhash}{cf6dbcd6cb2005f1eb47821987af6e82}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -8689,7 +8915,7 @@
       \strng{authorbibnamehash}{ef159bdca3ea7d33c47694ccecd3724f}
       \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
       \strng{authorfullhash}{ef159bdca3ea7d33c47694ccecd3724f}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -9265,7 +9491,7 @@
       \strng{authorbibnamehash}{592ac1e6088ecde784d50e47e7f42839}
       \strng{authornamehash}{5f4fe288bda07344b9bdada8fe13512e}
       \strng{authorfullhash}{592ac1e6088ecde784d50e47e7f42839}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -10137,7 +10363,7 @@
       \strng{authorbibnamehash}{6c09036b7edf1f03cedb808e5b9e6d67}
       \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
       \strng{authorfullhash}{6c09036b7edf1f03cedb808e5b9e6d67}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -10249,7 +10475,7 @@
       \strng{authorbibnamehash}{d64f95e26eabbf96f3f56d92273b3827}
       \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
       \strng{authorfullhash}{d64f95e26eabbf96f3f56d92273b3827}
-      \field{extraname}{5}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -10371,7 +10597,7 @@
       \strng{authorbibnamehash}{d0401b7d83fc199e3809fe8be545beeb}
       \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
       \strng{authorfullhash}{d0401b7d83fc199e3809fe8be545beeb}
-      \field{extraname}{6}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
