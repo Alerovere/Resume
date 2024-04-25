@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>{\bf Year}
+{\bf Citations}
+Google Scholar
+Scopus
+{\bf Google Scholar}
+Citations: 5903
+h-index: 40
+{\bf Scopus}
+Citations: 4253
+h-index: 38
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>

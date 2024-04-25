@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>{\bf Position in authors list}
+{\bf Number of manuscripts}
+Histogram of Position
+{\bf Manuscript statistics}
+As first author: {\bf 40}
+As last (senior) author: {\bf 45}
+Student/postdoc as first author: {\bf 29}
+Student/postdoc as co-author: {\bf 34}
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>
