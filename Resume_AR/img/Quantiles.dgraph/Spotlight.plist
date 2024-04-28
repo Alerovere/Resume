@@ -4,9 +4,12 @@
 <dict>
 	<key>Labels</key>
 	<string>{\bf Journal Impact factor}
-{\bf Number of manuscripts}
+{\bf Number of publications}
 {\bf Journal quantiles}
 Histogram of Impact factor
+
+{\bf Journal category}
+{\bf Number of publications}
 </string>
 	<key>Text</key>
 	<string></string>
