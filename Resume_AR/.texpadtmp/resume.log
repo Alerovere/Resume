@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  28 APR 2024 22:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  6 MAY 2024 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -257,7 +257,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip55
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 70.
+Package hyperref Info: Option `colorlinks' set `true' on input line 69.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/totalcount/totalcount.sty
 Package: totalcount 2018/01/21 v1.0a Total values of counters (AR)
 \c@totalcount@page=\count279
@@ -530,33 +530,33 @@ Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 ))
 \@quotelevel=\count416
 \@quotereset=\count417
-LaTeX Font Info:    Trying to load font information for T1+Inter-LF on input line 85.
+LaTeX Font Info:    Trying to load font information for T1+Inter-LF on input line 84.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/inter/T1Inter-LF.fd
 File: T1Inter-LF.fd 2020/12/22 (autoinst) Font definitions for T1/Inter-LF.
 )
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 85.
+(Font)              scaled to size 10.95pt on input line 84.
  (/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
 \c@mv@tabular=\count418
 \c@mv@boldtabular=\count419
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -612,7 +612,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 85.
+Package hyperref Info: Link coloring ON on input line 84.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -622,9 +622,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count426
 )
-LaTeX Info: Redefining \ref on input line 85.
-LaTeX Info: Redefining \pageref on input line 85.
-LaTeX Info: Redefining \nameref on input line 85.
+LaTeX Info: Redefining \ref on input line 84.
+LaTeX Info: Redefining \pageref on input line 84.
+LaTeX Info: Redefining \nameref on input line 84.
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
@@ -666,196 +666,196 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                - Entry 'Gowan:2022vt' (/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib): Invalid format '2022/10/24' of date field 'date' - ignoring.
 
 )
-Package biblatex Info: Reference section=0 on input line 85.
-Package biblatex Info: Reference segment=0 on input line 85.
+Package biblatex Info: Reference section=0 on input line 84.
+Package biblatex Info: Reference segment=0 on input line 84.
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/n' will be
-(Font)              scaled to size 36.0pt on input line 88.
+(Font)              scaled to size 36.0pt on input line 87.
+LaTeX Font Info:    Font shape `T1/Inter-LF/thin/n' aliased to
+(Font)              `T1/Inter-LF/ul/n' on input line 87.
+LaTeX Font Info:    Font shape `T1/Inter-LF/ul/n' will be
+(Font)              scaled to size 36.0pt on input line 87.
+LaTeX Font Info:    Font shape `T1/Inter-LF/ub/n' will be
+(Font)              scaled to size 36.0pt on input line 87.
+LaTeX Font Info:    Font shape `T1/Inter-LF/m/n' will be
+(Font)              scaled to size 14.0pt on input line 88.
 LaTeX Font Info:    Font shape `T1/Inter-LF/thin/n' aliased to
 (Font)              `T1/Inter-LF/ul/n' on input line 88.
 LaTeX Font Info:    Font shape `T1/Inter-LF/ul/n' will be
-(Font)              scaled to size 36.0pt on input line 88.
-LaTeX Font Info:    Font shape `T1/Inter-LF/ub/n' will be
-(Font)              scaled to size 36.0pt on input line 88.
-LaTeX Font Info:    Font shape `T1/Inter-LF/m/n' will be
-(Font)              scaled to size 14.0pt on input line 89.
-LaTeX Font Info:    Font shape `T1/Inter-LF/thin/n' aliased to
-(Font)              `T1/Inter-LF/ul/n' on input line 89.
-LaTeX Font Info:    Font shape `T1/Inter-LF/ul/n' will be
-(Font)              scaled to size 14.0pt on input line 89.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 90.
+(Font)              scaled to size 14.0pt on input line 88.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 89.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 93.
+(Font)              scaled to size 12.0pt on input line 92.
 LaTeX Font Info:    Font shape `T1/Inter-LF/black/n' aliased to
-(Font)              `T1/Inter-LF/ub/n' on input line 93.
+(Font)              `T1/Inter-LF/ub/n' on input line 92.
 LaTeX Font Info:    Font shape `T1/Inter-LF/ub/n' will be
-(Font)              scaled to size 12.0pt on input line 93.
+(Font)              scaled to size 12.0pt on input line 92.
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 94.
+(Font)              scaled to size 10.95pt on input line 93.
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 LaTeX Font Info:    Font shape `T1/Inter-LF/semibold/n' aliased to
-(Font)              `T1/Inter-LF/sb/n' on input line 97.
+(Font)              `T1/Inter-LF/sb/n' on input line 96.
 LaTeX Font Info:    Font shape `T1/Inter-LF/sb/n' will be
-(Font)              scaled to size 12.0pt on input line 97.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 97.
+(Font)              <12> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 97.
+(Font)              <8> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 97.
+(Font)              <6> on input line 96.
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 97.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 98.
+(Font)              scaled to size 9.0pt on input line 97.
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 98.
+(Font)              scaled to size 9.0pt on input line 97.
 LaTeX Font Info:    Font shape `T1/Inter-LF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 99.
+(Font)              scaled to size 9.0pt on input line 98.
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for TS1+Inter-LF on input line 117.
+LaTeX Font Info:    Trying to load font information for TS1+Inter-LF on input line 116.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/inter/TS1Inter-LF.fd
 File: TS1Inter-LF.fd 2020/12/22 (autoinst) Font definitions for TS1/Inter-LF.
 )
 LaTeX Font Info:    Font shape `TS1/Inter-LF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 117.
+(Font)              scaled to size 10.95pt on input line 116.
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
 [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 334.
+(Font)              <9> on input line 333.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 334.
+(Font)              <5> on input line 333.
 LaTeX Font Info:    Font shape `TS1/Inter-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 352.
+(Font)              scaled to size 9.0pt on input line 351.
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 
  []
 
 LaTeX Font Info:    Font shape `T1/Inter-LF/medium/n' will be
-(Font)              scaled to size 12.0pt on input line 386.
+(Font)              scaled to size 12.0pt on input line 385.
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 
  []
 
 
-Overfull \hbox (1.72404pt too wide) in paragraph at lines 466--467
+Overfull \hbox (1.72404pt too wide) in paragraph at lines 465--466
 []\T1/Inter-LF/m/n/9 In at-tesa di in-iziare post-doc presso la Uni-ver-si-dad Na-cional Aut�noma de M�x-ico (UNAM). 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--500
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 511--512
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
 
  []
 
 [9] [10]
 LaTeX Font Info:    Font shape `T1/Inter-LF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 639.
+(Font)              scaled to size 10.95pt on input line 637.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 639.
+(Font)              in TS1 encoding on input line 637.
 LaTeX Font Info:    Font shape `T1/Inter-LF/b/n' will be
-(Font)              scaled to size 7.66496pt on input line 639.
+(Font)              scaled to size 7.66496pt on input line 637.
 
-Underfull \hbox (badness 10000) in paragraph at lines 639--640
+Underfull \hbox (badness 10000) in paragraph at lines 637--638
 
  []
 
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 644.
+(Font)              in TS1 encoding on input line 642.
 LaTeX Font Info:    Font shape `T1/Inter-LF/b/n' will be
-(Font)              scaled to size 6.29997pt on input line 644.
+(Font)              scaled to size 6.29997pt on input line 642.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 648.
+(Font)              in TS1 encoding on input line 646.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 652.
+(Font)              in TS1 encoding on input line 650.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 656.
+(Font)              in TS1 encoding on input line 654.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 660.
+(Font)              in TS1 encoding on input line 658.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 664.
+(Font)              in TS1 encoding on input line 662.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 668.
+(Font)              in TS1 encoding on input line 666.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 672.
+(Font)              in TS1 encoding on input line 670.
 [11]
-Overfull \hbox (14.06557pt too wide) in paragraph at lines 676--677
+Overfull \hbox (14.06557pt too wide) in paragraph at lines 674--675
 \T1/Inter-LF/m/n/10.95 ner es-terno. In questo ruolo, con-tribuisco tipi-ca-mente con la mia com-pe-tenza nella redazione
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 676--677
+Underfull \hbox (badness 10000) in paragraph at lines 674--675
 
  []
 
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 681.
+(Font)              in TS1 encoding on input line 679.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 685.
+(Font)              in TS1 encoding on input line 683.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 689.
+(Font)              in TS1 encoding on input line 687.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 693.
+(Font)              in TS1 encoding on input line 691.
 
-Underfull \hbox (badness 10000) in paragraph at lines 700--701
+Underfull \hbox (badness 10000) in paragraph at lines 698--699
 
  []
 
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 705.
+(Font)              in TS1 encoding on input line 703.
 
-Overfull \hbox (34.92287pt too wide) in paragraph at lines 705--707
+Overfull \hbox (34.92287pt too wide) in paragraph at lines 703--705
 []\T1/Inter-LF/b/n/9 Totale: ~45 Mila [][]. \T1/Inter-LF/m/n/9 Fi-nanzi-a-menti dalla In-ter-na-tional Union of Qua-ter-nary Sci-ences (IN-QUA) e dall'Organizzazione
  []
 
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 709.
+(Font)              in TS1 encoding on input line 707.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 713.
+(Font)              in TS1 encoding on input line 711.
 [12]
 <img/products_per_year.png, id=182, 867.24pt x 289.08pt>
 File: img/products_per_year.png Graphic file (type png)
 <use img/products_per_year.png>
-Package pdftex.def Info: img/products_per_year.png  used on input line 723.
+Package pdftex.def Info: img/products_per_year.png  used on input line 721.
 (pdftex.def)             Requested size: 455.24411pt x 151.74721pt.
 <img/Manuscripts.pdf, id=184, 685.56125pt x 248.93pt>
 File: img/Manuscripts.pdf Graphic file (type pdf)
 <use img/Manuscripts.pdf>
-Package pdftex.def Info: img/Manuscripts.pdf  used on input line 730.
+Package pdftex.def Info: img/Manuscripts.pdf  used on input line 728.
 (pdftex.def)             Requested size: 455.24411pt x 165.30466pt.
 <img/CITATIONS.pdf, id=185, 685.56125pt x 248.93pt>
 File: img/CITATIONS.pdf Graphic file (type pdf)
 <use img/CITATIONS.pdf>
-Package pdftex.def Info: img/CITATIONS.pdf  used on input line 737.
+Package pdftex.def Info: img/CITATIONS.pdf  used on input line 735.
 (pdftex.def)             Requested size: 455.24411pt x 165.30466pt.
 
 
@@ -865,149 +865,149 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <img/Quantiles.pdf, id=204, 689.07437pt x 248.93pt>
 File: img/Quantiles.pdf Graphic file (type pdf)
 <use img/Quantiles.pdf>
-Package pdftex.def Info: img/Quantiles.pdf  used on input line 746.
+Package pdftex.def Info: img/Quantiles.pdf  used on input line 744.
 (pdftex.def)             Requested size: 455.24411pt x 164.45763pt.
 <img/topics.pdf, id=205, 689.07437pt x 248.93pt>
 File: img/topics.pdf Graphic file (type pdf)
 <use img/topics.pdf>
-Package pdftex.def Info: img/topics.pdf  used on input line 753.
+Package pdftex.def Info: img/topics.pdf  used on input line 751.
 (pdftex.def)             Requested size: 455.24411pt x 164.45763pt.
  [14 <./img/CITATIONS.pdf> <./img/Quantiles.pdf> <./img/topics.pdf>]
 <Research_map/field_data.pdf, id=244, 1927.2pt x 1084.05pt>
 File: Research_map/field_data.pdf Graphic file (type pdf)
 <use Research_map/field_data.pdf>
-Package pdftex.def Info: Research_map/field_data.pdf  used on input line 772.
+Package pdftex.def Info: Research_map/field_data.pdf  used on input line 770.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
  [15 <./Research_map/field_data.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 777--780
+Underfull \hbox (badness 10000) in paragraph at lines 775--778
 
  []
 
 
-Overfull \hbox (16.25452pt too wide) in paragraph at lines 806--807
+Overfull \hbox (16.25452pt too wide) in paragraph at lines 804--805
 \T1/Inter-LF/m/n/10.95 Sono at-ti-va-mente im-peg-nato nella dif-fu-sione del mio la-voro sci-en-tifico at-traverso la creazione
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 806--807
+Underfull \hbox (badness 10000) in paragraph at lines 804--805
 
  []
 
 [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 834--835
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
 
  []
 
 [18] [19] [20]
-Overfull \hbox (0.1053pt too wide) in paragraph at lines 945--947
+Overfull \hbox (0.1053pt too wide) in paragraph at lines 943--945
 \T1/Inter-LF/m/n/9 project, funded by the In-ter-na-tional Union of Qua-ter-nary Sci-ences (IN-QUA) and Past Global Changes (PAGES).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 956--957
+Underfull \hbox (badness 10000) in paragraph at lines 954--955
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 991--994
+Underfull \hbox (badness 10000) in paragraph at lines 989--992
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1015
+Underfull \hbox (badness 10000) in paragraph at lines 1012--1013
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1046--1047
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1045
 
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 1060--1061
+Underfull \hbox (badness 10000) in paragraph at lines 1058--1059
 
  []
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 1119--1120
+Underfull \hbox (badness 10000) in paragraph at lines 1117--1118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1193--1194
+Underfull \hbox (badness 10000) in paragraph at lines 1191--1192
 
  []
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 1232--1233
+Underfull \hbox (badness 10000) in paragraph at lines 1229--1230
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1244--1245
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
 
  []
 
 [26] [27]
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1372.
+(Font)              in TS1 encoding on input line 1369.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1372--1373
+Underfull \hbox (badness 10000) in paragraph at lines 1369--1370
 
  []
 
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1377.
+(Font)              in TS1 encoding on input line 1374.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1381.
+(Font)              in TS1 encoding on input line 1378.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1385.
+(Font)              in TS1 encoding on input line 1382.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1389.
+(Font)              in TS1 encoding on input line 1386.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1393.
+(Font)              in TS1 encoding on input line 1390.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1397.
+(Font)              in TS1 encoding on input line 1394.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1401.
+(Font)              in TS1 encoding on input line 1398.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1405.
+(Font)              in TS1 encoding on input line 1402.
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1408
 
  []
 
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1413.
+(Font)              in TS1 encoding on input line 1410.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1417.
+(Font)              in TS1 encoding on input line 1414.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1421.
+(Font)              in TS1 encoding on input line 1418.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1425.
+(Font)              in TS1 encoding on input line 1422.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1433--1434
+Underfull \hbox (badness 10000) in paragraph at lines 1430--1431
 
  []
 
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1438.
+(Font)              in TS1 encoding on input line 1435.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1442.
+(Font)              in TS1 encoding on input line 1439.
 LaTeX Font Info:    Faking \texteuro for font family Inter-LF
-(Font)              in TS1 encoding on input line 1446.
+(Font)              in TS1 encoding on input line 1443.
 [29]
 File: img/products_per_year.png Graphic file (type png)
 <use img/products_per_year.png>
-Package pdftex.def Info: img/products_per_year.png  used on input line 1458.
+Package pdftex.def Info: img/products_per_year.png  used on input line 1455.
 (pdftex.def)             Requested size: 455.24411pt x 151.74721pt.
 File: img/Manuscripts.pdf Graphic file (type pdf)
 <use img/Manuscripts.pdf>
-Package pdftex.def Info: img/Manuscripts.pdf  used on input line 1465.
+Package pdftex.def Info: img/Manuscripts.pdf  used on input line 1462.
 (pdftex.def)             Requested size: 455.24411pt x 165.30466pt.
 File: img/CITATIONS.pdf Graphic file (type pdf)
 <use img/CITATIONS.pdf>
-Package pdftex.def Info: img/CITATIONS.pdf  used on input line 1472.
+Package pdftex.def Info: img/CITATIONS.pdf  used on input line 1469.
 (pdftex.def)             Requested size: 455.24411pt x 165.30466pt.
 
 
@@ -1016,134 +1016,134 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [30]
 File: img/Quantiles.pdf Graphic file (type pdf)
 <use img/Quantiles.pdf>
-Package pdftex.def Info: img/Quantiles.pdf  used on input line 1481.
+Package pdftex.def Info: img/Quantiles.pdf  used on input line 1478.
 (pdftex.def)             Requested size: 455.24411pt x 164.45763pt.
 File: img/topics.pdf Graphic file (type pdf)
 <use img/topics.pdf>
-Package pdftex.def Info: img/topics.pdf  used on input line 1488.
+Package pdftex.def Info: img/topics.pdf  used on input line 1485.
 (pdftex.def)             Requested size: 455.24411pt x 164.45763pt.
  [31]
 File: Research_map/field_data.pdf Graphic file (type pdf)
 <use Research_map/field_data.pdf>
-Package pdftex.def Info: Research_map/field_data.pdf  used on input line 1508.
+Package pdftex.def Info: Research_map/field_data.pdf  used on input line 1505.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
  [32]
-Underfull \hbox (badness 10000) in paragraph at lines 1513--1516
+Underfull \hbox (badness 10000) in paragraph at lines 1510--1513
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
+Underfull \hbox (badness 10000) in paragraph at lines 1539--1540
 
  []
 
 [33] [34]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 1565.
+(Font)              <10.95> on input line 1562.
 
-Overfull \hbox (7.87602pt too wide) in paragraph at lines 1579--1579
+Overfull \hbox (7.87602pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 iso-tope stage 5e) high stand. \T1/Inter-LF/m/it/10.95 Geo-phys-i-cal Re-search Let-ters\T1/Inter-LF/m/n/10.95 , \T1/Inter-LF/m/it/10.95 51\T1/Inter-LF/m/n/10.95 (6), e2023GL106829.
  []
 
 [35]
-Overfull \hbox (0.94656pt too wide) in paragraph at lines 1579--1579
+Overfull \hbox (0.94656pt too wide) in paragraph at lines 1576--1576
 [][]\T1/Inter-LF/m/n/10.95 Mann, T., Serwa, A., \T1/Inter-LF/b/n/10.95 Ro-vere\T1/Inter-LF/m/n/10.95 , A., Casella, E., Appeaning-Addo, K., Jayson-Quashigah, P.[]N.,
  []
 
 [36]
-Overfull \hbox (24.90034pt too wide) in paragraph at lines 1579--1579
+Overfull \hbox (24.90034pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 He-do-uin, L., & Par-ravicini, V. (2020). Com-mu-nity com-po-si-tion pre-dicts photogrammetry-
  []
 
 [37]
-Overfull \hbox (5.5832pt too wide) in paragraph at lines 1579--1579
+Overfull \hbox (5.5832pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 (2020). Pliocene pleis-tocene stratig-ra-phy and sea level es-ti-mates, Re-pub-lic of South
  []
 
 
-Overfull \hbox (4.17128pt too wide) in paragraph at lines 1579--1579
+Overfull \hbox (4.17128pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 mean sea level recorded by an Early Pliocene in-ter-tidal unit in Patag-o-nia (Ar-gentina).
  []
 
 
-./resume.tex:1579: LaTeX Error: Unicode character ́ (U+0301)
+./resume.tex:1576: LaTeX Error: Unicode character ́ (U+0301)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1579 ...tbibliography[type=article,heading=none]
+l.1576 ...tbibliography[type=article,heading=none]
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./resume.tex:1579: LaTeX Error: Unicode character ́ (U+0301)
+./resume.tex:1576: LaTeX Error: Unicode character ́ (U+0301)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1579 ...tbibliography[type=article,heading=none]
+l.1576 ...tbibliography[type=article,heading=none]
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Overfull \hbox (32.94499pt too wide) in paragraph at lines 1579--1579
+Overfull \hbox (32.94499pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 aerial ve-hi-cles for con-ser-va-tion and mon-i-tor-ing. \T1/Inter-LF/m/it/10.95 Bi-o-log-i-cal Con-ser-va-tion\T1/Inter-LF/m/n/10.95 , \T1/Inter-LF/m/it/10.95 239\T1/Inter-LF/m/n/10.95 (November),
  []
 
 [38] [39]
-Overfull \hbox (0.28867pt too wide) in paragraph at lines 1579--1579
+Overfull \hbox (0.28867pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 Mal-lorca (West-ern Mediter-ranean). \T1/Inter-LF/m/it/10.95 Palaeo-geog-ra-phy, Palaeo-cli-ma-tol-ogy, Palaeoe-
  []
 
 
-Overfull \hbox (7.56873pt too wide) in paragraph at lines 1579--1579
+Overfull \hbox (7.56873pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 (2016). The mag-ni-tude of a mid-Holocene sea-level high-stand in the Strait of Makas-
  []
 
 
-Overfull \hbox (6.18297pt too wide) in paragraph at lines 1579--1579
+Overfull \hbox (6.18297pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 Mediter-ranean Sea: A com-pre-hen-sive anal-y-sis. \T1/Inter-LF/m/it/10.95 Qua-ter-nary Sci-ence Re-views\T1/Inter-LF/m/n/10.95 , \T1/Inter-LF/m/it/10.95 119\T1/Inter-LF/m/n/10.95 (5),
  []
 
 [40]
-Overfull \hbox (7.25107pt too wide) in paragraph at lines 1579--1579
+Overfull \hbox (7.25107pt too wide) in paragraph at lines 1576--1576
 [][]\T1/Inter-LF/m/n/10.95 Vacchi, M., \T1/Inter-LF/b/n/10.95 Ro-vere\T1/Inter-LF/m/n/10.95 , A., Chatzipet-ros, A., Zouros, N., & Firpo, M. (2014). An up-dated database
  []
 
 [41] [42]
-Overfull \hbox (5.59042pt too wide) in paragraph at lines 1585--1585
+Overfull \hbox (5.59042pt too wide) in paragraph at lines 1582--1582
 \T1/Inter-LF/m/it/10.95 WALIS - The World At-las of Last In-ter-glacial Shore-lines (Ver 1.0 re-view) \T1/Inter-LF/m/n/10.95 (Ver-sion v1.0-
  []
 
 [43]
 
-./resume.tex:1585: LaTeX Error: Unicode character ́ (U+0301)
+./resume.tex:1582: LaTeX Error: Unicode character ́ (U+0301)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1585 ...tbibliography[type=dataset,heading=none]
+l.1582 ...tbibliography[type=dataset,heading=none]
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./resume.tex:1585: LaTeX Error: Unicode character ́ (U+0301)
+./resume.tex:1582: LaTeX Error: Unicode character ́ (U+0301)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1585 ...tbibliography[type=dataset,heading=none]
+l.1582 ...tbibliography[type=dataset,heading=none]
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1154,18 +1154,18 @@ Package logreq Info: Writing requests to 'resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24333 strings out of 478268
- 474928 string characters out of 5846347
- 1348432 words of memory out of 5000000
- 41634 multiletter control sequences out of 15000+600000
+ 24332 strings out of 478268
+ 474919 string characters out of 5846347
+ 1346403 words of memory out of 5000000
+ 41633 multiletter control sequences out of 15000+600000
  598203 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,11n,102p,4135b,5159s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inter/a_zasxrl.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inter/a_bal5qf.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Black.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Medium.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-SemiBold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Thin.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on /Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/resume.pdf (47 pages, 586254 bytes).
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inter/a_zasxrl.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inter/a_bal5qf.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Black.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Medium.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-SemiBold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Thin.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on /Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/resume.pdf (47 pages, 574440 bytes).
 PDF statistics:
- 1084 PDF objects out of 1200 (max. 8388607)
- 974 compressed objects within 10 object streams
+ 1078 PDF objects out of 1200 (max. 8388607)
+ 970 compressed objects within 10 object streams
  466 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

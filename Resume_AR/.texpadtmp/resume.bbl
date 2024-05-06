@@ -2107,6 +2107,51 @@
       \keyw{Coasts,Adriatic,Coastal submersions,Croatia,Holocene,Mediterranean,Paleoclimate,Relative Sea-level rise,Saltwater intrusions}
       \annotation{item}{author}{default}{6}{}{0}{highlight}
     \endentry
+    \entry{Maxwell_standardized_2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5803f038114a66f864406c3ddf2eef37}{%
+           family={Maxwell},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d6577b272cabfd20ffe3d8170488d78f}{%
+           family={Westphal},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f794570fae82d16e16f8ac4d5e42d44}
+      \strng{fullhash}{ec9234cefc5581a736c37cc2c63aba39}
+      \strng{bibnamehash}{ec9234cefc5581a736c37cc2c63aba39}
+      \strng{authorbibnamehash}{ec9234cefc5581a736c37cc2c63aba39}
+      \strng{authornamehash}{3f794570fae82d16e16f8ac4d5e42d44}
+      \strng{authorfullhash}{ec9234cefc5581a736c37cc2c63aba39}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract. Marine Isotope Stage 5e (MIS 5e; the Last Interglacial, 125 ka) represents a process analog for a warmer world. Analysis of sea-level proxies formed in this period helps in constraining both regional and global drivers of sea-level change. In Southeast Asia, several studies have reported elevation and age information on MIS 5e sea-level proxies, such as fossil coral reef terraces or tidal notches, but a standardized database of such data was hitherto missing. In this paper, we produced such a sea-level database using the framework of the World Atlas of Last Interglacial Shorelines (WALIS; https://warmcoasts.eu/world-atlas.html). Overall, we screened and reviewed 14 studies on Last Interglacial sea-level indicators in Southeast Asia, from which we report 43 proxies (42 coral reef terraces and 1 tidal notch) that were correlated to 134 dated samples. Five data points date to MIS 5a (80 ka), six data points are MIS 5c (100 ka), and the rest are dated to MIS 5e. The database compiled in this study is available at https://doi.org/10.5281/zenodo.5040784 ({\underline{Maxwell}} et al., 2021).}
+      \field{journaltitle}{Earth System Science Data}
+      \field{number}{9}
+      \field{title}{A standardized database of {Last} {Interglacial} ({MIS} 5e) sea-level indicators in {Southeast} {Asia}}
+      \field{volume}{13}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{4313\bibrangedash 4329}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.5194/essd-13-4313-2021
+      \endverb
+      \annotation{item}{author}{default}{3}{}{0}{highlight}
+    \endentry
     \entry{muhs_daniel_2021_5903285}{dataset}{}
       \name{author}{4}{}{%
         {{hash=01aa2f25c39c18584ebc00cb1f31417c}{%
@@ -3003,52 +3048,6 @@
       \verb 10.1038/s41467-021-21469-w
       \endverb
     \endentry
-    \entry{Maxwell_standardized_2021}{article}{}
-      \name{author}{3}{}{%
-        {{hash=ff5e1fcd5c3c05f2c9e33cd103a20442}{%
-           family={{\underline{Maxwell}}},
-           familyi={M\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=d6577b272cabfd20ffe3d8170488d78f}{%
-           family={Westphal},
-           familyi={W\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod}}}%
-        {{hash=502296b06c73742b98488f897037d3a6}{%
-           family={{\textbf{Rovere}}},
-           familyi={R\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{9d6678c84ba59fc0fb2b2937026b050d}
-      \strng{fullhash}{13307af7beb1663acb06dbbb2acc21d9}
-      \strng{bibnamehash}{13307af7beb1663acb06dbbb2acc21d9}
-      \strng{authorbibnamehash}{13307af7beb1663acb06dbbb2acc21d9}
-      \strng{authornamehash}{9d6678c84ba59fc0fb2b2937026b050d}
-      \strng{authorfullhash}{13307af7beb1663acb06dbbb2acc21d9}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Abstract. Marine Isotope Stage 5e (MIS 5e; the Last Interglacial, 125 ka) represents a process analog for a warmer world. Analysis of sea-level proxies formed in this period helps in constraining both regional and global drivers of sea-level change. In Southeast Asia, several studies have reported elevation and age information on MIS 5e sea-level proxies, such as fossil coral reef terraces or tidal notches, but a standardized database of such data was hitherto missing. In this paper, we produced such a sea-level database using the framework of the World Atlas of Last Interglacial Shorelines (WALIS; https://warmcoasts.eu/world-atlas.html). Overall, we screened and reviewed 14 studies on Last Interglacial sea-level indicators in Southeast Asia, from which we report 43 proxies (42 coral reef terraces and 1 tidal notch) that were correlated to 134 dated samples. Five data points date to MIS 5a (80 ka), six data points are MIS 5c (100 ka), and the rest are dated to MIS 5e. The database compiled in this study is available at https://doi.org/10.5281/zenodo.5040784 ({\underline{Maxwell}} et al., 2021).}
-      \field{journaltitle}{Earth System Science Data}
-      \field{number}{9}
-      \field{title}{A standardized database of {Last} {Interglacial} ({MIS} 5e) sea-level indicators in {Southeast} {Asia}}
-      \field{volume}{13}
-      \field{year}{2021}
-      \true{nocite}
-      \field{pages}{4313\bibrangedash 4329}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.5194/essd-13-4313-2021
-      \endverb
-      \annotation{item}{author}{default}{3}{}{0}{highlight}
-    \endentry
     \entry{maxwell_kathrine_2021_5040784}{dataset}{}
       \name{author}{3}{}{%
         {{hash=3a6473a5554653531f17cb927e339465}{%
@@ -3076,12 +3075,11 @@
       \strng{authorbibnamehash}{57c673c893bb79fd503dab8da71d6d61}
       \strng{authornamehash}{021101088c75c78189f3b111064b7c27}
       \strng{authorfullhash}{57c673c893bb79fd503dab8da71d6d61}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{4}
@@ -6402,12 +6400,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Over the past 3.5 million years, there have been several intervals when climate conditions were warmer than during the pre-industrial Holocene. Although past intervals of warming were forced differently than future anthropogenic change, such periods can provide insights into potential future climate impacts and ecosystem feedbacks, especially over centennial-to-millennial timescales that are often not covered by climate model simulations. Our observation-based synthesis of the understanding of past intervals with temperatures within the range of projected future warming suggests that there is a low risk of runaway greenhouse gas feedbacks for global warming of no more than 2 $^{\textrm{{\textbackslash}circ\$}}$C. However, substantial regional environmental impacts can occur. A global average warming of 1--2 $^{\textrm{{\textbackslash}circ\$}}$C with strong polar amplification has, in the past, been accompanied by significant shifts in climate zones and the spatial distribution of land and ocean ecosystems. Sustained warming at this level has also led to substantial reductions of the Greenland and Antarctic ice sheets, with sea-level increases of at least several metres on millennial timescales. Comparison of palaeo observations with climate model results suggests that, due to the lack of certain feedback processes, model-based climate projections may underestimate long-term warming in response to future radiative forcing by as much as a factor of two, and thus may also underestimate centennial-to-millennial-scale sea-level rise.}
       \field{issn}{17520908}
       \field{journaltitle}{Nature Geoscience}
       \field{note}{ISBN: 4156101460 Publisher: Springer US}
       \field{number}{7}
-      \field{title}{Palaeoclimate constraints on the impact of 2 $^{\textrm{{\textbackslash}circ\$}}$c anthropogenic warming and beyond}
+      \field{title}{Palaeoclimate constraints on the impact of 2 C anthropogenic warming and beyond}
       \field{volume}{11}
       \field{year}{2018}
       \true{nocite}
