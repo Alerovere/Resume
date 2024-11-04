@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  4 NOV 2024 09:17
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  4 NOV 2024 10:42
  restricted system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -1470,46 +1470,46 @@ Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
 (scrartcl)              The command has been renamed because of a
 (scrartcl)              recommendation of The LaTeX Project Team.
 (scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
-input line 206.
+input line 207.
 
 <Research_map/research_areas.png, id=28, 528.2937pt x 314.3745pt>
 File: Research_map/research_areas.png Graphic file (type png)
 <use Research_map/research_areas.png>
 Package luatex.def Info: Research_map/research_areas.png  used on input line 20
-6.
+7.
 (luatex.def)             Requested size: 170.71655pt x 101.59006pt.
 
-Underfull \hbox (badness 3138) in paragraph at lines 206--206
+Underfull \hbox (badness 3138) in paragraph at lines 207--207
 []\TU/Carlito(0)/m/n/9 My re-search spans a broad range of ge-o-
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 206--206
+Underfull \hbox (badness 2401) in paragraph at lines 207--207
 \TU/Carlito(0)/m/n/9 trop-i-cal ar-eas like Moorea, Tahiti, and Fiji,
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 206--206
+Underfull \hbox (badness 7221) in paragraph at lines 207--207
 \TU/Carlito(0)/b/n/9 mod-ern coastal pro-cesses and coral reef
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 206--206
+Underfull \hbox (badness 1014) in paragraph at lines 207--207
 \TU/Carlito(0)/m/n/9 method-olo-gies to tackle the com-plex-i-ties of
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 206--206
+Underfull \hbox (badness 1776) in paragraph at lines 207--207
 \TU/Carlito(0)/m/n/9 ex-pe-di-tions to all the afore-men-tioned lo-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--206
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
@@ -1517,21 +1517,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
 <./Research_map/research_areas.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 214.
+(Font)              <12> on input line 215.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 214.
+(Font)              <8> on input line 215.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 214.
+(Font)              <6> on input line 215.
 
-Overfull \hbox (11.9456pt too wide) in paragraph at lines 214--215
+Overfull \hbox (11.9456pt too wide) in paragraph at lines 215--216
 []\TU/Carlito(0)/m/n/12 The names of post-docs, Ph.D. or mas-ter stu-dents au-th
 ored while un-der my men-tor-ing or su-per-vi-sion are $[]$.
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 216.
+(Font)              <7> on input line 217.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 216.
+(Font)              <5> on input line 217.
 [3
 
 ] (./resume.aux)
@@ -1551,8 +1551,8 @@ Here is how much of LuaTeX's memory you used:
  583 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 8 attribute, 76 glue_spec,
  8 attribute_list, 2 write, 3 pdf_action nodes
-   avail lists: 1:3,2:1699,3:740,4:231,5:1457,6:379,7:10938,8:66,9:1458,10:21,11
-:813
+   avail lists: 1:3,2:1699,3:740,4:231,5:1513,6:379,7:10988,8:66,9:1458,10:21,11
+:839
  60723 multiletter control sequences out of 65536+600000
  70 fonts using 14181519 bytes
  125i,15n,113p,10601b,5031s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1562,7 +1562,7 @@ demicons.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/typoland/carlito
 /Carlito-Regular.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/f
 ontawesome/FontAwesome.otf></usr/local/texlive/2022/texmf-dist/fonts/truetype/ty
 poland/carlito/Carlito-Bold.ttf>
-Output written on resume.pdf (3 pages, 1230686 bytes).
+Output written on resume.pdf (3 pages, 1230828 bytes).
 
 PDF statistics: 102 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
