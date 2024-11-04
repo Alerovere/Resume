@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  6 MAY 2024 11:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.15)  1 JUL 2024 15:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1050,12 +1050,12 @@ Overfull \hbox (0.94656pt too wide) in paragraph at lines 1576--1576
 [][]\T1/Inter-LF/m/n/10.95 Mann, T., Serwa, A., \T1/Inter-LF/b/n/10.95 Ro-vere\T1/Inter-LF/m/n/10.95 , A., Casella, E., Appeaning-Addo, K., Jayson-Quashigah, P.[]N.,
  []
 
-[36]
+[36] [37]
 Overfull \hbox (24.90034pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 He-do-uin, L., & Par-ravicini, V. (2020). Com-mu-nity com-po-si-tion pre-dicts photogrammetry-
  []
 
-[37]
+
 Overfull \hbox (5.5832pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 (2020). Pliocene pleis-tocene stratig-ra-phy and sea level es-ti-mates, Re-pub-lic of South
  []
@@ -1106,22 +1106,21 @@ Overfull \hbox (7.56873pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 (2016). The mag-ni-tude of a mid-Holocene sea-level high-stand in the Strait of Makas-
  []
 
-
+[40]
 Overfull \hbox (6.18297pt too wide) in paragraph at lines 1576--1576
 \T1/Inter-LF/m/n/10.95 Mediter-ranean Sea: A com-pre-hen-sive anal-y-sis. \T1/Inter-LF/m/it/10.95 Qua-ter-nary Sci-ence Re-views\T1/Inter-LF/m/n/10.95 , \T1/Inter-LF/m/it/10.95 119\T1/Inter-LF/m/n/10.95 (5),
  []
 
-[40]
+
 Overfull \hbox (7.25107pt too wide) in paragraph at lines 1576--1576
 [][]\T1/Inter-LF/m/n/10.95 Vacchi, M., \T1/Inter-LF/b/n/10.95 Ro-vere\T1/Inter-LF/m/n/10.95 , A., Chatzipet-ros, A., Zouros, N., & Firpo, M. (2014). An up-dated database
  []
 
-[41] [42]
+[41] [42] [43]
 Overfull \hbox (5.59042pt too wide) in paragraph at lines 1582--1582
 \T1/Inter-LF/m/it/10.95 WALIS - The World At-las of Last In-ter-glacial Shore-lines (Ver 1.0 re-view) \T1/Inter-LF/m/n/10.95 (Ver-sion v1.0-
  []
 
-[43]
 
 ./resume.tex:1582: LaTeX Error: Unicode character ́ (U+0301)
                not set up for use with LaTeX.
@@ -1154,18 +1153,18 @@ Package logreq Info: Writing requests to 'resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24332 strings out of 478268
- 474919 string characters out of 5846347
- 1346403 words of memory out of 5000000
- 41633 multiletter control sequences out of 15000+600000
+ 24343 strings out of 478268
+ 475328 string characters out of 5846347
+ 1350230 words of memory out of 5000000
+ 41642 multiletter control sequences out of 15000+600000
  598203 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,11n,102p,4135b,5159s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inter/a_zasxrl.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inter/a_bal5qf.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Black.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Medium.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-SemiBold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inter/Inter-Thin.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on /Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/resume.pdf (47 pages, 574440 bytes).
+Output written on /Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/resume.pdf (47 pages, 574911 bytes).
 PDF statistics:
- 1078 PDF objects out of 1200 (max. 8388607)
- 970 compressed objects within 10 object streams
- 466 named destinations out of 1000 (max. 500000)
+ 1081 PDF objects out of 1200 (max. 8388607)
+ 973 compressed objects within 10 object streams
+ 467 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

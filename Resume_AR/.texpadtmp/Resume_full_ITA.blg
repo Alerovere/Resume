@@ -1,0 +1,20 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ITA.blg'
+[50] biber-darwin:340> INFO - === Mon Nov  4, 2024, 07:37:20
+[62] Biber.pm:418> INFO - Reading '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ITA.bcf'
+[141] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[154] Biber.pm:4383> INFO - Processing section 0
+[161] Biber.pm:4574> INFO - Looking for bibtex file '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib' for section 0
+[179] bibtex.pm:1713> INFO - LaTeX decoding ...
+[422] bibtex.pm:1518> INFO - Found BibTeX data source '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib'
+[1812] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1812] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1812] Biber.pm:4203> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1812] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[2034] bbl.pm:654> INFO - Writing '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ITA.bbl' with encoding 'UTF-8'
+[2234] bbl.pm:757> INFO - Output to /Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ITA.bbl
+[2235] Biber.pm:130> WARN - Entry 'Gowan:2022vt' (/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib): Invalid format '2022/10/24' of date field 'date' - ignoring
+[2235] Biber.pm:130> WARN - ISBN '2041-1723' in entry 'Gowan:2022vt' is invalid - run biber with '--validate_datamodel' for details.
+[2235] Biber.pm:130> WARN - Entry 'Scardino:2024aa' (/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib): Invalid format '2024/04/05' of date field 'date' - ignoring
+[2235] Biber.pm:130> WARN - ISBN '2045-2322' in entry 'Scardino:2024aa' is invalid - run biber with '--validate_datamodel' for details.
+[2235] Biber.pm:132> INFO - WARNINGS: 4

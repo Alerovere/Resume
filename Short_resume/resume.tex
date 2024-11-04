@@ -1,0 +1,216 @@
+\documentclass[%singlesided,
+               doublesided,
+               paper=a4,
+               fontsize=10pt
+              ]{my-resume}
+
+%% PUBLICATION LIST
+
+\usepackage[backend=biber,style=apa,sorting=ydnt,uniquename=false,isbn=false,maxbibnames=99,url=false,giveninits=true,eprint=false]{biblatex}
+\AtEveryBibitem{\clearfield{note}}
+\addbibresource{sample.bib}
+
+\usepackage{url}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set geometry
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setlength\highlightwidth{8cm}
+\setlength\headerheight{4cm}            % note that margintop gets added to this value, i.e. the header bar is 5cm
+\setlength\marginleft{1cm}
+\setlength\marginright{\marginleft}      % needs to be 1.5 times to be actually equal. why?
+\setlength\margintop{1cm}
+\setlength\marginbottom{1cm}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FONTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\RequirePackage{fontspec}
+\setmainfont{Carlito}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% COLORS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\colorlet{highlightbarcolor}{lightgray}
+\colorlet{headerbarcolor}{black}
+
+\colorlet{headerfontcolor}{white}
+\colorlet{accent}{awesome-skyblue}
+\colorlet{heading}{black}
+\colorlet{emphasis}{black}
+\colorlet{body}{black}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+\name{Alessio Rovere}
+\tagline{Ph.D. in Marine Environmental Sciences.\\ Full Professor in physical geography and geomorphology.\\
+\small{Last update: \today}}
+\photo[round]{picture.jpg}{\dimexpr \headerheight-\marginbottom}   % make photo exactly match the header with margintop/marginright/marginbottom as margin
+
+\makeheader
+
+\highlightbar{
+    \section[\faEnvelopeO]{Contact}
+    \email{alessio.rovere@unive.it}
+    \location{DAIS. Via Torino 155, Mestre (VE)}
+    \homepage{https://avacard.app/Alerovere}{https://avacard.app/Alerovere}
+    \github{@Alerovere}{https://github.com/Alerovere}
+    \orcid{0000-0001-5575-1168}{https://orcid.org/0000-0001-5575-1168}
+
+
+    \section[\faShareAlt]{Social}
+    \faTwitterSquare \hspace{0.5em} \href{https://twitter.com/alessio_r_}{@alessio\_r\_}\\
+    \faInstagram \hspace{0.5em} \href{https://www.instagram.com/alessio_rovere/}{@Alessio\_Rovere}\\
+    \faSpotify \hspace{0.5em} \href{https://open.spotify.com/show/1mksP88jgLHqKnndVkEoUq}{Spotify}\\
+    \faYoutubePlay \hspace{0.5em} \href{https://www.youtube.com/c/AlessioRovereMarineScience/}{@CoastalScience}\\
+
+    \section[\faBriefcase]{Honorary positions}
+     \achievement{\textbf{Since 2024} Honorary Professor, University of Bremen} 
+     \achievement{\textbf{Since 2022} External member, MARUM, University of Bremen}
+     \achievement{\textbf{04/2014 - 08/2021} Adjunct Associate Research Scientist, LDEO, Columbia University}
+
+    \section[\faPlane]{Visiting periods}
+    \achievement{\textbf{2010.} University of Western Australia}
+    \achievement{\textbf{2010.} Brunel University, UK}
+    \achievement{\textbf{2009-2010.} University of the Aegean, GR}
+    \achievement{\textbf{2004.} Universidad de Las Palmas de Gran Canaria (ERASMUS), ES}
+
+     \section[\faBook]{Publications}
+     {\small I published \textbf{98 articles} in international scientific journals, \textbf{11 on other peer-reviewed media} and \textbf{6 book chapters and books}.} 
+     \smallskip
+
+    \section[\faUnlock]{Open data}
+    {\small I share open-access datasets and presentations on the following platforms:}\\
+    \faExternalLink \hspace{0.5em} \href{https://zenodo.org/search?page=1&size=20&q=creators.orcid:(0000-0001-5575-1168)&sort=mostrecent}{Zenodo}\\
+    \faExternalLink \hspace{0.5em} \href{https://www.pangaea.de/?q=Rovere\%2C+Alessio&f.author\%5B\%5D=Rovere\%2C+Alessio}{PANGAEA}\\
+    \faExternalLink \hspace{0.5em} \href{https://figshare.com/authors/Alessio_Rovere/1379355}{Figshare}}
+
+\mainbar{
+    \section[\faGears]{Work history}
+    \job{Since 1/2024}
+        {Universitá Ca' Foscari - Venezia (IT)}
+        {Full Professor}
+        {}
+    \job{11/2021 - 11/2024}
+        {Universitá Ca' Foscari - Venezia (IT)}
+        {Associate Professor}
+        {}
+    \job{03/2019 - 10/2021}
+        {MARUM and University of Bremen \\- Bremen (DE)}
+        {Independent research scientist}
+        {}
+    \job{03/2014 - 02/2019}
+        {MARUM, University of Bremen \\ and Leibniz ZMT - Bremen (DE)}
+        {Young Investigator Group Leader}
+        {}
+    \job{02/2012 - 02/2014}
+        {Lamont Doherty Earth Observatory, \\ Columbia University - New York (USA)}
+        {Postdoctoral research scientist}
+        {}
+    \job{10/2010 - 12/2016}
+        {SEAMap SRL, a Spin-off company \\ of the University of Genoa (IT)}
+        {Director (Amministratore Unico)}
+        {}
+        
+    \section[\faMortarBoard]{Education}
+    \job{01/2008 - 12/2010}
+        {University of Genoa (IT)}
+        {Ph.D. in Marine Sciences}
+        {European Ph.D. Label}
+    \job{01/2008 - 12/2010}
+        {University of Genoa (IT)}
+        {Master of science }
+        {Marine Environmental Sciences}
+    \job{01/2008 - 12/2010}
+        {University of Genoa (IT)}
+        {Bachelor of science}
+        {Environmental Sciences}
+        
+\section[\faSlideshare]{Teaching}
+I have been teaching several courses at the University of Bremen and Ca' Foscari University of Venice. I currently teach the courses \textbf{"Coastal hazards (MSc)"} and \textbf{"Physical geography and geomorphology (BSc)"} at Ca' Foscari and the course \textbf{"Sea Level Changes (MSc)"} at the University of Bremen.
+
+\bigskip
+
+\section[\faCompass]{Mentoring and supervision}
+I have mentored \textbf{nine postdoctoral researchers}. Upon leaving my team, several researchers have successfully transitioned to other academic positions or into industry roles. I supervised \textbf{four doctoral students} until the completion of their thesis. I supervised as main or co-supervisor \textbf{twenty one BSc or MSc students} from different European Universities.
+}
+\makebody                  
+\clearpage
+\pagestyle{empty}
+\section[\faEuro]{Funding}
+\textbf{Research projects} -  As \textbf{Principal Investigator}, I have successfully led several research projects, securing a total of \textbf{~4.2 million \texteuro} in funding. In particular, I hold a Starting Grant from the European Research Council (ending in 2025), and I led my own research group at the University of Bremen and at the Leibniz Center for Tropical Marine Research thanks to funding of the German Science Foundation. I have participated in several research projects as \textbf{Co-Principal Investigator}, for a total amount of \textbf{960 thousand \texteuro}.
+\bigskip
+\textbf{Conferences and workshops} - I have played a significant role in organizing conferences and workshops, directly manag- ing funds provided by various associations and institutions to cover expenses and support the participation of \textbf{young scientists and scientists from low-income or developing countries}. I have contributed to grant writing and the management of funds. Overall, since 2012 I secured \textbf{\textasciitilde55 thousand \texteuro} from scientific associations such as PAGES, INQUA and the EGU.
+
+\section[\faInstitution]{Academic and research management service}
+\subsection{Academic service}
+\achievement{\textbf{Since 2024.} Coordinator of the degree course (MSc and BSc) in Environmental Sciences at Ca' Foscari University of Venice}
+\achievement{\textbf{Since 2023.} President of the "Coastal and Marine Processes" commission of the International Union for Quaternary Sciences} 
+\achievement{\textbf{Since 2022.} Member of the "Erasmus commission for the Environmental Sciences"}
+\achievement{\textbf{Since 2022.} Member of the Steering Committee of the "Instabilities and Thresholds in Antarctica (INSTANT) of SCAR}  
+\achievement{\textbf{Since 2022.} Member of the "Ca' Foscari ERC Board"} 
+\achievement{\textbf{Since 2022.} Member of the "ESAlab" Scientific Committee (Ca' Foscari and European Space Agency)} 
+\achievement{\textbf{Since 2022.} Member of the "Technical and Scientific Commitee" of the Cinque Terre Marine Protected Area (IT)} 
+\achievement{\textbf{2020.} Contributing author for the 6th Assessment Report of the Intergovernmental Panel on Climate Change} 
+\achievement{\textbf{2018-2023.} Co-leader of the International working group ‘PALSEA’ PALeo constraints on SEA level rise, funded by PAGES and INQUA} 
+\achievement{\textbf{2012-2016.} Co-leader of the International working group ‘MEDFLOOD’, sponsored by INQUA} 
+
+\subsection{Editor / reviewer roles}
+\achievement{\textbf{Since 2022.} Journal editor - Earth System Science Data, Copernicus (EGU)}
+\achievement{\textbf{Since 2018.} Journal editor - Climate of the Past, Copernicus (EGU)}
+\achievement{\textbf{2019-2022.} Book editor - Book: UAVs in Environmental Sciences}
+\achievement{\textbf{2019-2022.} Special Issue Editor - Earth System Science Data: The World Atlas of Last Interglacial Shorelines}
+\achievement{\textbf{2017-2018.} Special Issue Editor - Quaternary Science Reviews: Geographic Variability of Holocene Relative Sea Level}
+\achievement{\textbf{2013 to 2017.} Editor - Alpine and Mediterranean Quaternary, Journal of the Italian Association for Quaternary Studies}
+\achievement{\textbf{2013-2014.} Editor - Quaternary Perspectives, INQUA, International Union for Quaternary Sciences}
+\achievement{\textbf{Since 2012.} Reviewer for more than 50 manuscripts and for research proposals to several international foundations}
+
+\subsection{Conferences, workshops and convened sessions}
+\achievement{\textbf{2023.} Convener and session chair of Session 89 at the INQUA conference in Rome (July 2023)} 
+\achievement{\textbf{2022.} Co-organizer of the 2022 PALSEA meeting, Singapore and Online} 
+\achievement{\textbf{2022.} Co-convener at the PAGES Open Science Meeting. Session: "Last Interglacial"} 
+\achievement{\textbf{2021-2022.} Co-organizer of a webinar series on paleo sea level organised jointly by PALSEA, WCRP (sea level), IAG, and SERCE} 
+\achievement{\textbf{2020.} Co-organizer of the "PALSEA Express" online workshop} 
+\achievement{\textbf{2019.} Co-organizer of the CoChE Summer school. Coastal Changes and Evolution. Oristano, IT} 
+\achievement{\textbf{2019.} Co-organizer of the PALSEA workshop, Dublin, IE} 
+\achievement{\textbf{2017.} Co-organizer of the PALSEA-QUIGS meeting, Galloway, New Jersey, USA}
+\achievement{\textbf{2017.} Co-convener at the GeoBremen conference. Session: Coastal depositional environments \& processes}
+\achievement{\textbf{2015.} Convener at the American Geophysical Union 2015, Session PP11E}
+\achievement{\textbf{2012 to 2016.} Co-organizer of the annual MEDFLOOD workshop (2012, Rome, IT - 2014, Haifa, IL - 2016, Bremen, DE)}
+\achievement{\textbf{2013.} Organizer of the weekly seminar at Lamont Doherty Earth Observatory, Biology and Paleo Environment Division}
+
+\clearpage
+\clearpage
+
+\pagestyle{empty}
+
+\section[\faAreaChart]{Selected publications}
+The names of postdocs, Ph.D. or master students authored while under my mentoring or supervision are \underline{underlined}. A full publication list is available 
+
+\nocite{*}
+\section{\faBook \ \ \ Books and Book chapters}
+\printbibliography[type=book,heading=none]
+\section{\faFileTextO \ \ \  Articles in international journals}
+\printbibliography[type=article,heading=none]
+\section{\faFileTextO \ \ \  Other peer-reviewed articles}
+\printbibliography[type=periodical,heading=none]
+\section{\faFileTextO \ \ \  Open-access datasets}
+\printbibliography[type=dataset,heading=none]
+\section{\faFileTextO \ \ \  Presentations}
+\printbibliography[type=misc,heading=none]
+
+%\nocite{*}
+%\printbibliography
+
+\end{document}

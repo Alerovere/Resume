@@ -224,6 +224,67 @@
       \endverb
       \warn{\item Entry 'Scardino:2024aa' (/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib): Invalid format '2024/04/05' of date field 'date' - ignoring}
     \endentry
+    \entry{CHAUVEAU2024108759}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c65bc36aca8c541b18bb5ca167930c4f}{%
+           family={{\underline{Chauveau}}},
+           familyi={C\bibinitperiod},
+           given={Denovan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d401b5b100e20c6d6e4f8522a319bb5f}{%
+           family={{\underline{Georgiou}}},
+           familyi={G\bibinitperiod},
+           given={Nikos},
+           giveni={N\bibinitperiod}}}%
+        {{hash=53ba16e579869ab2f50823275a15e368}{%
+           family={{\underline{Cerrone}}},
+           familyi={C\bibinitperiod},
+           given={Ciro},
+           giveni={C\bibinitperiod}}}%
+        {{hash=91c68311c1bb0c0676a37b4d90ec49d6}{%
+           family={{\underline{DEan}}},
+           familyi={D\bibinitperiod},
+           given={Silas},
+           giveni={S\bibinitperiod}}}%
+        {{hash=983d1c67347a333b664da0ac64046540}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3bad80db464876b77c243bf3777d2bba}
+      \strng{fullhash}{faf64d781e4c86dc3a13ee4b3262543b}
+      \strng{bibnamehash}{faf64d781e4c86dc3a13ee4b3262543b}
+      \strng{authorbibnamehash}{faf64d781e4c86dc3a13ee4b3262543b}
+      \strng{authornamehash}{3bad80db464876b77c243bf3777d2bba}
+      \strng{authorfullhash}{faf64d781e4c86dc3a13ee4b3262543b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Understanding past sea-level variations is essential to constrain future patterns of sea-level rise in response to warmer climate conditions. Due to good preservation and the possibility to use various geochemical methods to date fossil sea-level index points, the Last Interglacial (Marine Isotope Stage, MIS, 5e, 130–116 ka) is often regarded as one of the best climate analogs for a future warmer climate. MIS 5e coastal stratigraphic sequences, such as fossil coral reefs, are characterized by abrupt shifts in their geological facies, steps within the reef topography or backstepped morphologies, which have been often interpreted as proxies for abrupt sea-level fluctuations within the interglacial. However, the observational evidence and magnitude of such abrupt changes are controversial. Here, we run nearly 50 thousand simulations of a 2D kinematic reef model that can reproduce coral reef growth and demise through time. Our aim is to investigate the parameters of space, the sea-level scenarios, and the processes which multiple-stepped MIS 5e fossil reefs form. As inputs to the model, we use both published and synthetic sea-level histories (17 sea-level curves, with different sea-level oscillation patterns), and a wide range of reef growth and marine erosion rates, and bedrock foundation slopes. Our results show that the only sea-level history that could explain the generation of an emerged MIS 5e backstepped reef is a first sea-level peak followed by an abrupt rise in sea level and a second short-term peak. Any other multiple-stepped stratigraphy can be explained by the interplay between reef growth, marine erosion, and bedrock slope.}
+      \field{issn}{0277-3791}
+      \field{journaltitle}{Quaternary Science Reviews}
+      \field{title}{Sea-level oscillations within the last interglacial: Insights from coral reef stratigraphic forward modelling}
+      \field{volume}{336}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{108759}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.quascirev.2024.108759
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0277379124002609
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0277379124002609
+      \endverb
+      \keyw{Marine isotope stage 5e,Last interglacial,Sea level,Fossil coral reef,Stratigraphic forward modelling}
+    \endentry
     \entry{10.12688/openreseurope.16183.2}{article}{}
       \name{author}{2}{}{%
         {{hash=83b0f9e9844f0a172418fa547e3d816f}{%
