@@ -1,0 +1,761 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{essd-15-1-2023}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fcd2a8b0cc8875fe87d5b4df188d4ea2}{%
+           family={{\underline{Ryan}}},
+           familyi={R\bibinitperiod},
+           given={D.\bibnamedelimi D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=241df6cad885c4e7b3b2b5bb65a41bf2}{%
+           family={Vacchi},
+           familyi={V\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a4a7343b560ff5a50dedeb6cff206c06}{%
+           family={Dutton},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7388cad49c7651f6113226f09c50c212}{%
+           family={Simms},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4b8b9b210142651ed9b605e768115d01}{%
+           family={Murray-Wallace},
+           familyi={M\bibinithyphendelim W\bibinitperiod},
+           given={C.\bibnamedelimi V.},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{2763da208cbd7d8445b11cbb8b1f9b1f}
+      \strng{fullhash}{691ad42e3464a4405d580bb882e104ab}
+      \strng{bibnamehash}{691ad42e3464a4405d580bb882e104ab}
+      \strng{authorbibnamehash}{691ad42e3464a4405d580bb882e104ab}
+      \strng{authornamehash}{2763da208cbd7d8445b11cbb8b1f9b1f}
+      \strng{authorfullhash}{691ad42e3464a4405d580bb882e104ab}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth System Science Data}
+      \field{number}{1}
+      \field{title}{The World Atlas of Last Interglacial Shorelines (version 1.0)}
+      \field{volume}{15}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 23}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.5194/essd-15-1-2023
+      \endverb
+      \verb{urlraw}
+      \verb https://essd.copernicus.org/articles/15/1/2023/
+      \endverb
+      \verb{url}
+      \verb https://essd.copernicus.org/articles/15/1/2023/
+      \endverb
+    \endentry
+    \entry{rovere_influence_2023}{article}{}
+      \name{author}{8}{ul=2}{%
+        {{hash=983d1c67347a333b664da0ac64046540}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a10b3223d4424e05ed944b3285b83e02}{%
+           family={Pico},
+           familyi={P\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7ac2f94736b33731b51730043cd71857}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Fred},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2a340027f763401ecddc750aec520ae0}{%
+           family={O'Leary},
+           familyi={O\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=95e128813efbea73ccdd0aff0714fd1a}{%
+           family={Mitrovica},
+           familyi={M\bibinitperiod},
+           given={Jerry\bibnamedelima X.},
+           giveni={J\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=d96a12f786bca3f7d3a3f2851b8144d7}{%
+           family={Goodwin},
+           familyi={G\bibinitperiod},
+           given={Ian\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ef5529dd63148d5eebced08d3d64089f}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+        {{hash=999419e7a0cb40b4bd7d8e5f79fa9d36}{%
+           family={Latychev},
+           familyi={L\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{892608eb75832581cda20dc8b1ec3869}
+      \strng{fullhash}{3babca8398fcfefd52995d075950db99}
+      \strng{bibnamehash}{3babca8398fcfefd52995d075950db99}
+      \strng{authorbibnamehash}{3babca8398fcfefd52995d075950db99}
+      \strng{authornamehash}{892608eb75832581cda20dc8b1ec3869}
+      \strng{authorfullhash}{3babca8398fcfefd52995d075950db99}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Understanding sea level during the peak of the Last Interglacial (125,000 yrs ago) is important for assessing future ice-sheet dynamics in response to climate change. The coasts and continental shelves of northeastern Australia (Queensland) preserve an extensive Last Interglacial record in the facies of coastal strandplains onland and fossil reefs offshore. However, there is a discrepancy, amounting to tens of meters, in the elevation of sea-level indicators between offshore and onshore sites. Here, we assess the influence of geophysical processes that may have changed the elevation of these sea-level indicators. We modeled sea-level change due to dynamic topography, glacial isostatic adjustment, and isostatic adjustment due to coral reef loading. We find that these processes caused relative sea-level changes on the order of, respectively, 10 m, 5 m, and 0.3 m. Of these geophysical processes, the dynamic topography predictions most closely match the tilting observed between onshore and offshore sea-level markers.}
+      \field{issn}{2662-4435}
+      \field{journaltitle}{Communications Earth \& Environment}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{Influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on sea-level records in {Northeastern} {Australia}}
+      \field{urlday}{17}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{volume}{4}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{328}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s43247-023-00967-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s43247-023-00967-3
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s43247-023-00967-3
+      \endverb
+    \endentry
+    \entry{dyer_sea-level_2021}{article}{}
+      \name{author}{8}{}{%
+        {{hash=64ab11c328a951eab8f046aa3a2e5dd4}{%
+           family={Dyer},
+           familyi={D\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=79c35f59ef64734086cf94fa12786d36}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=88a63a8423a2851034de46c81e4ddd9f}{%
+           family={D'Andrea},
+           familyi={D\bibinitperiod},
+           given={W.\bibnamedelimi J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d20cde51a17881deb075be9f53335391}{%
+           family={Creel},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7e1dc2b998860c04730a5bfeb4a93d79}{%
+           family={Sandstrom},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=88f542317eec2a23c6b5571543c6cb2a}{%
+           family={Cashman},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c21cb9cd520af8a2ed3b7d29b4a7566}{%
+           family={Raymo},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ac18541992028d4fa9f702c91e841e7}
+      \strng{fullhash}{08a21ebc049c9ecd3122dcf0dd1dfe7e}
+      \strng{bibnamehash}{08a21ebc049c9ecd3122dcf0dd1dfe7e}
+      \strng{authorbibnamehash}{08a21ebc049c9ecd3122dcf0dd1dfe7e}
+      \strng{authornamehash}{7ac18541992028d4fa9f702c91e841e7}
+      \strng{authorfullhash}{08a21ebc049c9ecd3122dcf0dd1dfe7e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During the last interglacial (LIG) period, global mean sea level (GMSL) was higher than at present, likely driven by greater high-latitude insolation. Past sea-level estimates require elevation measurements and age determination of marine sediments that formed at or near sea level, and those elevations must be corrected for glacial isostatic adjustment (GIA). However, this GIA correction is subject to uncertainties in the GIA model inputs, namely, Earth's rheology and past ice history, which reduces precision and accuracy in estimates of past GMSL. To better constrain the GIA process, we compare our data and existing LIG sea-level data across the Bahamian archipelago with a suite of 576 GIA model predictions. We calculated weights for each GIA model based on how well the model fits spatial trends in the regional sea-level data and then used the weighted GIA corrections to revise estimates of GMSL during the LIG. During the LIG, we find a 95\% probability that global sea level peaked at least 1.2 m higher than today, and it is very unlikely (5\% probability) to have exceeded 5.3 m. Estimates increase by up to 30\% (decrease by up to 20\%) for portions of melt that originate from the Greenland ice sheet (West Antarctic ice sheet). Altogether, this work suggests that LIG GMSL may be lower than previously assumed.}
+      \field{issn}{10916490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{number}{33}
+      \field{title}{Sea-level trends across the {Bahamas} constrain peak last interglacial ice melt}
+      \field{volume}{118}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1073/pnas.2026839118
+      \endverb
+      \keyw{Glacial isostatic adjustment,Last interglacial sea level,The Bahamas}
+      \annotation{item}{author}{default}{7}{}{0}{highlight}
+    \endentry
+    \entry{Gowan_new_2021}{article}{}
+      \name{author}{10}{}{%
+        {{hash=fb9b669147c4c10dd11620301d94eb07}{%
+           family={{\underline{Gowan}}},
+           familyi={G\bibinitperiod},
+           given={E.\bibnamedelimi J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=30ff3ef4a89e0c6777f480da5386b053}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=b1a42ab0c339ea7a65ba99db1f741a3c}{%
+           family={Khosravi},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4eb7a0d3a557b750f68ab7990265dd56}{%
+           family={Stocchi},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b08137a4989c066d18eb5b8d254ad866}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi L.\bibnamedelimi C.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a0b972ff4e874b82eff276c9d4bad28e}{%
+           family={Gyllencreutz},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ff3796a9304c1b75116406052840a3ea}{%
+           family={Mangerud},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=84beceb86d231ea97daad5f85997242f}{%
+           family={Svendsen},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi I.},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=7b3b029b2363e62e86ea918165f54624}{%
+           family={Lohmann},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{928888d3acb8600b4025011cce4f4b28}
+      \strng{fullhash}{99eb4f6715474fd0a839698a3794fa78}
+      \strng{bibnamehash}{99eb4f6715474fd0a839698a3794fa78}
+      \strng{authorbibnamehash}{99eb4f6715474fd0a839698a3794fa78}
+      \strng{authornamehash}{928888d3acb8600b4025011cce4f4b28}
+      \strng{authorfullhash}{99eb4f6715474fd0a839698a3794fa78}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The evolution of past global ice sheets is highly uncertain. One example is the missing ice problem during the Last Glacial Maximum (LGM, 26 000-19 000 years before present) -- an apparent 8-28 m discrepancy between far-field sea level indicators and modelled sea level from ice sheet reconstructions. In the absence of ice sheet reconstructions, researchers often use marine δ18O proxy records to infer ice volume prior to the LGM. We present a global ice sheet reconstruction for the past 80 000 years, called PaleoMIST 1.0, constructed independently of far-field sea level and δ18O proxy records. Our reconstruction is compatible with LGM far-field sea-level records without requiring extra ice volume, thus solving the missing ice problem. However, for Marine Isotope Stage 3 (57 000-29 000 years before present) - a pre-LGM period - our reconstruction does not match proxy-based sea level reconstructions, indicating the relationship between marine δ18O and sea level may be more complex than assumed.}
+      \field{issn}{20411723}
+      \field{journaltitle}{Nature Communications}
+      \field{note}{Publisher: Springer US}
+      \field{number}{1}
+      \field{title}{A new global ice sheet reconstruction for the past 80 000 years}
+      \field{volume}{12}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/s41467-021-21469-w
+      \endverb
+    \endentry
+    \entry{vacchi_climate_2021}{article}{}
+      \name{author}{6}{}{%
+        {{hash=241df6cad885c4e7b3b2b5bb65a41bf2}{%
+           family={Vacchi},
+           familyi={V\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dffc57ea53c76eb454a60dcb05766fcc}{%
+           family={Joyse},
+           familyi={J\bibinitperiod},
+           given={K.\bibnamedelimi M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bda588bbe3f934757a4bed82741f8bc7}{%
+           family={Kopp},
+           familyi={K\bibinitperiod},
+           given={R.\bibnamedelimi E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=5c8e251b3b3a434e6f53330c7a2ea0c9}{%
+           family={Marriner},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ac759d71928162e1346168b77d959329}{%
+           family={Kaniewski},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbacfd66fe8245de976fdba98daf4f4b}
+      \strng{fullhash}{9c9e581e1d3211954fec68b5cfca2599}
+      \strng{bibnamehash}{9c9e581e1d3211954fec68b5cfca2599}
+      \strng{authorbibnamehash}{9c9e581e1d3211954fec68b5cfca2599}
+      \strng{authornamehash}{cbacfd66fe8245de976fdba98daf4f4b}
+      \strng{authorfullhash}{9c9e581e1d3211954fec68b5cfca2599}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Future warming in the Mediterranean is expected to significantly exceed global values with unpredictable implications on the sea-level rise rates in the coming decades. Here, we apply an empirical-Bayesian spatio-temporal statistical model to a dataset of 401 sea-level index points from the central and western Mediterranean and reconstruct rates of sea-level change for the past 10,000 years. We demonstrate that the mean rates of Mediterranean industrial-era sea-level rise have been significantly faster than any other period since ∼4000 years ago. We further highlight a previously unrecognized variability in Mediterranean sea-level change rates. In the Common Era, this variability correlates with the occurrence of major regional-scale cooling/warming episodes. Our data show a sea-level stabilization during the Late Antique Little Ice Age cold event, which interrupted a general rising trend of ∼0.45 mm a−1 that characterized the warming episodes of the Common Era. By contrast, the Little Ice Age cold event had only minor regional effects on Mediterranean sea-level change rates.}
+      \field{issn}{20411723}
+      \field{journaltitle}{Nature Communications}
+      \field{note}{Publisher: Springer US}
+      \field{number}{1}
+      \field{title}{Climate pacing of millennial sea-level change variability in the central and western {Mediterranean}}
+      \field{volume}{12}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/s41467-021-24250-1
+      \endverb
+      \annotation{item}{author}{default}{6}{}{0}{highlight}
+    \endentry
+    \entry{Rovere_higher_2020}{article}{}
+      \name{author}{9}{}{%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8a169f7df6ca7b68b9fcba2978e81b3b}{%
+           family={Pappalardo},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2e230f41297f543555357b93f0ef55fd}{%
+           family={Richiano},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2097fd53b5dae1ac36668892cdfd9de3}{%
+           family={Aguirre},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=7e1dc2b998860c04730a5bfeb4a93d79}{%
+           family={Sandstrom},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=53921fa61af4da0330455965d995d729}{%
+           family={Hearty},
+           familyi={H\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=79c35f59ef64734086cf94fa12786d36}{%
+           family={Austermann},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ba2cd8943d041b59e7a82127ee205cf7}{%
+           family={Castellanos},
+           familyi={C\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=1c21cb9cd520af8a2ed3b7d29b4a7566}{%
+           family={Raymo},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{fullhash}{00607f836cf4f48e0b18d68cc28518c2}
+      \strng{bibnamehash}{00607f836cf4f48e0b18d68cc28518c2}
+      \strng{authorbibnamehash}{00607f836cf4f48e0b18d68cc28518c2}
+      \strng{authornamehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{authorfullhash}{00607f836cf4f48e0b18d68cc28518c2}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Reconstructions of global mean sea level from earlier warm periods in Earth's history can help constrain future projections of sea level rise. Here we report on the sedimentology and age of a geological unit in central Patagonia, Argentina, that we dated to the Early Pliocene (4.69--5.23 Ma, 2 σ ) with strontium isotope stratigraphy. The unit was interpreted as representative of an intertidal environment, and its elevation was measured with differential GPS at ca. 36 m above present-day sea level. Considering modern tidal ranges, it was possible to constrain paleo relative sea level within \${\textbackslash}pm\$2.7 m (1 σ ). We use glacial isostatic adjustment models and estimates of vertical land movement to calculate that, when the Camarones intertidal sequence was deposited, global mean sea level was 28.4 \${\textbackslash}pm\$ 11.7 m (1 σ ) above present. This estimate matches those derived from analogous Early Pliocene sea level proxies in the Mediterranean Sea and South Africa. Evidence from these three locations indicates that Early Pliocene sea level may have exceeded 20m above its present level. Such high global mean sea level values imply an ice-free Greenland, a significant melting of West Antarctica, and a contribution of marine-based sectors of East Antarctica to global mean sea level.}
+      \field{issn}{2662-4435}
+      \field{journaltitle}{Communications Earth \& Environment}
+      \field{note}{Publisher: Springer US}
+      \field{number}{1}
+      \field{title}{Higher than present global mean sea level recorded by an {Early} {Pliocene} intertidal unit in {Patagonia} ({Argentina})}
+      \field{volume}{1}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1038/s43247-020-00067-6
+      \endverb
+    \endentry
+    \entry{Harris_coral_2018}{article}{}
+      \name{author}{9}{}{%
+        {{hash=5a8c7c19a30fd5b556ad866c02e8944d}{%
+           family={{\underline{Harris}}},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef656d491d447602da94d47db35304ca}{%
+           family={Casella},
+           familyi={C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9db45ddb521f2fc256a44490117d4fc4}{%
+           family={Power},
+           familyi={P\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5e32fb71972e35d8fc1be241fa96a1e3}{%
+           family={Canavesio},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c977d41987b88d885dc40044a4a26c55}{%
+           family={Collin},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=29e1ed690727bf24802cc6df4eb2f0fa}{%
+           family={Pomeroy},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=76711b0498384c7b223be87377b6058c}{%
+           family={Webster},
+           familyi={W\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=345465cfec595ea9500fb36770f64ad0}{%
+           family={Parravicini},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{d41d9ff86f26191b5022e0939014d3a8}
+      \strng{fullhash}{ed21844214257a445d9cf714e3ff26a7}
+      \strng{bibnamehash}{ed21844214257a445d9cf714e3ff26a7}
+      \strng{authorbibnamehash}{ed21844214257a445d9cf714e3ff26a7}
+      \strng{authornamehash}{d41d9ff86f26191b5022e0939014d3a8}
+      \strng{authorfullhash}{ed21844214257a445d9cf714e3ff26a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Coral reefs are diverse ecosystems that support millions of people worldwide by providing coastal protection from waves. Climate change and human impacts are leading to degraded coral reefs and to rising sea levels, posing concerns for the protection of tropical coastal regions in the near future. We use a wave dissipation model calibrated with empirical wave data to calculate the future increase of back-reef wave height. We show that, in the near future, the structural complexity of coral reefs is more important than sea-level rise in determining the coastal protection provided by coral reefs from average waves. We also show that a significant increase in average wave heights could occur at present sea level if there is sustained degradation of benthic structural complexity. Our results highlight that maintaining the structural complexity of coral reefs is key to ensure coastal protection on tropical coastlines in the future.}
+      \field{issn}{2375-2548}
+      \field{journaltitle}{Science Advances}
+      \field{number}{2}
+      \field{title}{Coral reef structural complexity provides important coastal protection from waves under rising sea levels}
+      \field{volume}{4}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{eaao4350}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/sciadv.aao4350
+      \endverb
+    \endentry
+    \entry{Rovere_giant_2017}{article}{}
+      \name{author}{10}{}{%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef656d491d447602da94d47db35304ca}{%
+           family={Casella},
+           familyi={C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5a8c7c19a30fd5b556ad866c02e8944d}{%
+           family={{\underline{Harris}}},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=2151addd9c88c78570ded5357114bfcf}{%
+           family={{\underline{Lorscheid}}},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=490747792d399d2e983e071eb0577232}{%
+           family={Nandasena},
+           familyi={N\bibinitperiod},
+           given={N.\bibnamedelimi A.\bibnamedelimi K.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=64ab11c328a951eab8f046aa3a2e5dd4}{%
+           family={Dyer},
+           familyi={D\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7e1dc2b998860c04730a5bfeb4a93d79}{%
+           family={Sandstrom},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4eb7a0d3a557b750f68ab7990265dd56}{%
+           family={Stocchi},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=88a63a8423a2851034de46c81e4ddd9f}{%
+           family={D'Andrea},
+           familyi={D\bibinitperiod},
+           given={W.\bibnamedelimi J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1c21cb9cd520af8a2ed3b7d29b4a7566}{%
+           family={Raymo},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{fullhash}{b04f2367d0836c6f2d79a7497dbd245b}
+      \strng{bibnamehash}{b04f2367d0836c6f2d79a7497dbd245b}
+      \strng{authorbibnamehash}{b04f2367d0836c6f2d79a7497dbd245b}
+      \strng{authornamehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{authorfullhash}{b04f2367d0836c6f2d79a7497dbd245b}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As global climate warms and sea level rises, coastal areas will be subject to more frequent extreme flooding and hurricanes. Geologic evidence for extreme coastal storms during past warm periods has the potential to provide fundamental insights into their future intensity. Recent studies argue that during the Last Interglacial (MIS 5e, ∼128-116 ka) tropical and extratropical North Atlantic cyclones may have been more intense than at present, and may have produced waves larger than those observed historically. Such strong swells are inferred to have created a number of geologic features that can be observed today along the coastlines of Bermuda and the Bahamas. In this paper, we investigate the most iconic among these features: massive boulders atop a cliff in North Eleuthera, Bahamas. We combine geologic field surveys, wave models, and boulder transport equations to test the hypothesis that such boulders must have been emplaced by storms of greater-than-historical intensity. By contrast, our results suggest that with the higher relative sea level (RSL) estimated for the Bahamas during MIS 5e, boulders of this size could have been transported by waves generated by storms of historical intensity. Thus, while the megaboulders of Eleuthera cannot be used as geologic proof for past "superstorms," they do show that with rising sea levels, cliffs and coastal barriers will be subject to significantly greater erosional energy, even without changes in storm intensity.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{note}{Publisher: National Academy of Sciences}
+      \field{number}{46}
+      \field{title}{Giant boulders and {Last} {Interglacial} storm intensity in the {North} {Atlantic}}
+      \field{volume}{114}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{201712433}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1073/pnas.1712433114
+      \endverb
+      \keyw{climate change,Eemian,extreme waves,Last Interglacial,superstorms}
+    \endentry
+    \entry{Rovere_analysis_2016}{article}{}
+      \name{author}{10}{}{%
+        {{hash=502296b06c73742b98488f897037d3a6}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c21cb9cd520af8a2ed3b7d29b4a7566}{%
+           family={Raymo},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=241df6cad885c4e7b3b2b5bb65a41bf2}{%
+           family={Vacchi},
+           familyi={V\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2151addd9c88c78570ded5357114bfcf}{%
+           family={{\underline{Lorscheid}}},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4eb7a0d3a557b750f68ab7990265dd56}{%
+           family={Stocchi},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=083a2d7504ce2c7a81be69243fcc772b}{%
+           family={Gómez-Pujol},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5a8c7c19a30fd5b556ad866c02e8944d}{%
+           family={{\underline{Harris}}},
+           familyi={H\bibinitperiod},
+           given={D.L.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ef656d491d447602da94d47db35304ca}{%
+           family={Casella},
+           familyi={C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9d650ebae32a97411a2c54305166865f}{%
+           family={O'Leary},
+           familyi={O\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=53921fa61af4da0330455965d995d729}{%
+           family={Hearty},
+           familyi={H\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{fullhash}{9f512f4812cd199229ff006da4806868}
+      \strng{bibnamehash}{9f512f4812cd199229ff006da4806868}
+      \strng{authorbibnamehash}{9f512f4812cd199229ff006da4806868}
+      \strng{authornamehash}{5f4fe288bda07344b9bdada8fe13512e}
+      \strng{authorfullhash}{9f512f4812cd199229ff006da4806868}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Last Interglacial (MIS 5e, 128--116 ka) is among the most studied past periods in Earth's history. The climate at that time was warmer than today, primarily due to different orbital conditions, with smaller ice sheets and higher sea-level. Field evidence for MIS 5e sea-level was reported from thousands of sites, but often paleo shorelines were measured with low-accuracy techniques and, in some cases, there are contrasting interpretations about paleo sea-level reconstructions. For this reason, large uncertainties still surround both the maximum sea-level attained as well as the pattern of sea-level change throughout MIS 5e. Such uncertainties are exacerbated by the lack of a uniform approach to measuring and interpreting the geological evidence of paleo sea-levels. In this review, we discuss the characteristics of MIS 5e field observations, and we set the basis for a standardized approach to MIS 5e paleo sea-level reconstructions, that is already successfully applied in Holocene sea-level research. Application of the standard definitions and methodologies described in this paper will enhance our ability to compare data from different research groups and different areas, in order to gain deeper insights into MIS 5e sea-level changes. Improving estimates of Last Interglacial sea-level is, in turn, a key to understanding the behavior of ice sheets in a warmer world.}
+      \field{issn}{00128252}
+      \field{journaltitle}{Earth-Science Reviews}
+      \field{note}{ISBN: 0012-8252 Publisher: Elsevier B.V.}
+      \field{title}{The analysis of {Last} {Interglacial} ({MIS} 5e) relative sea-level indicators: {Reconstructing} sea-level in a warmer world}
+      \field{volume}{159}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{404\bibrangedash 427}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1016/j.earscirev.2016.06.006
+      \endverb
+      \keyw{MIS 5e,Last Interglacial,Ice sheets,Paleo sea-level,Past sea-level changes,Sea-level marker,Sea-level reconstruction}
+    \endentry
+    \entry{Rovere_mid-pliocene_2014}{article}{}
+      \name{author}{6}{}{%
+        {{hash=983d1c67347a333b664da0ac64046540}{%
+           family={{\textbf{Rovere}}},
+           familyi={R\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0b33edd42100e53fa81e622fbda222eb}{%
+           family={Raymo},
+           familyi={R\bibinitperiod},
+           given={Maureen\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=95e128813efbea73ccdd0aff0714fd1a}{%
+           family={Mitrovica},
+           familyi={M\bibinitperiod},
+           given={Jerry\bibnamedelima X},
+           giveni={J\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=9d4919834a5d8a9f2f82f1b7496c36c2}{%
+           family={Hearty},
+           familyi={H\bibinitperiod},
+           given={Paul\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9d650ebae32a97411a2c54305166865f}{%
+           family={O'Leary},
+           familyi={O\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d80a2a290924d3cac02cfd9951bb35ef}{%
+           family={Inglis},
+           familyi={I\bibinitperiod},
+           given={J\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf149ac9b371eece91499a87f3dba424}
+      \strng{fullhash}{ef159bdca3ea7d33c47694ccecd3724f}
+      \strng{bibnamehash}{ef159bdca3ea7d33c47694ccecd3724f}
+      \strng{authorbibnamehash}{ef159bdca3ea7d33c47694ccecd3724f}
+      \strng{authornamehash}{cf149ac9b371eece91499a87f3dba424}
+      \strng{authorfullhash}{ef159bdca3ea7d33c47694ccecd3724f}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Determining eustatic sea level during the Mid-Pliocene warm period (∼3.3 to 2.9 Ma) has been a central but elusive goal in the study of past warm climates. Estimates of eustatic sea level based on geologic data span a broad range; variation that we now recognize is due in part to geographically varying post-depositional displacement caused by glacial isostatic adjustment and dynamic topography. In this study, we combine field observations and glacial isostatic adjustment modeling to estimate the dynamic topography signal in three areas that are important to paleo-sea level studies of the Mid-Pliocene warm period (South Africa, West Australia and southeastern United States). We show that dynamic topography played a significant role in the post-depositional displacement of Pliocene, and even younger Pleistocene, shorelines. In this regard, we provide a robust paleo-sea level elevation data set, corrected for glacial isostatic adjustment, that can be used to evaluate predictions from mantle flow models of dynamic topography. {©} 2013 Elsevier B.V.}
+      \field{issn}{0012821X}
+      \field{journaltitle}{Earth and Planetary Science Letters}
+      \field{note}{ISBN: 0012-821X Publisher: Elsevier B.V.}
+      \field{title}{The {Mid}-{Pliocene} sea-level conundrum: {Glacial} isostasy, eustasy and dynamic topography}
+      \field{volume}{387}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{27\bibrangedash 33}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.epsl.2013.10.030
+      \endverb
+      \keyw{Isostasy,Dynamic topography,MEDFLOOD,PLIOMAX,Australia,Mid-Pliocene sea level,Republic of South Africa,Southeast coast USA}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

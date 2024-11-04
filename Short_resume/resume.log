@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  3 NOV 2024 18:15
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.15)  4 NOV 2024 09:17
  restricted system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -1367,18 +1367,23 @@ Package biblatex Info: Automatic encoding selection.
 
 \openout4 = resume.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'resume.bbl' not found.
+Package biblatex Info: ... file 'resume.bbl' found.
 
-No file resume.bbl.
+(./resume.bbl)
 Package biblatex Info: Reference section=0 on input line 54.
 Package biblatex Info: Reference segment=0 on input line 54.
-<picture.jpg, id=7, 3166.83125pt x 2092.81876pt>
+
+
+LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 62.
+
+<picture.jpg, id=8, 3166.83125pt x 2092.81876pt>
 File: picture.jpg Graphic file (type jpg)
 <use picture.jpg>
-Package luatex.def Info: picture.jpg  used on input line 61.
+Package luatex.def Info: picture.jpg  used on input line 62.
 (luatex.def)             Requested size: 3166.82356pt x 2092.81367pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
 
  []
 
@@ -1387,174 +1392,180 @@ Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
 (scrartcl)              The command has been renamed because of a
 (scrartcl)              recommendation of The LaTeX Project Team.
 (scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
-input line 148.
+input line 144.
 
 LaTeX Font Info:    Trying to load font information for TU+academicons on input
- line 148.
+ line 144.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/academicons/tuacademicons.fd)
-Overfull \hbox (10.77153pt too wide) in paragraph at lines 148--148
+Overfull \hbox (10.77153pt too wide) in paragraph at lines 144--144
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-
- []
-
-
-Underfull \hbox (badness 5231) in paragraph at lines 148--148
+Underfull \hbox (badness 5231) in paragraph at lines 144--144
 \TU/Carlito(0)/m/n/10 Re-search Sci-en-tist, LDEO, Columbia
  []
 
 
-Overfull \hbox (60.46204pt too wide) in paragraph at lines 148--148
+Overfull \hbox (60.46204pt too wide) in paragraph at lines 144--144
 [][][] 
  []
 
 
-Overfull \hbox (60.46204pt too wide) in paragraph at lines 148--148
+Overfull \hbox (60.46204pt too wide) in paragraph at lines 144--144
 [][][] 
  []
 
 
-Overfull \hbox (60.46204pt too wide) in paragraph at lines 148--148
+Overfull \hbox (60.46204pt too wide) in paragraph at lines 144--144
 [][][] 
  []
 
 
-Overfull \hbox (60.46204pt too wide) in paragraph at lines 148--148
+Overfull \hbox (60.46204pt too wide) in paragraph at lines 144--144
 [][][] 
  []
 
 
-Overfull \hbox (60.46204pt too wide) in paragraph at lines 148--148
+Overfull \hbox (60.46204pt too wide) in paragraph at lines 144--144
 [][][] 
  []
 
 
-Overfull \hbox (60.46204pt too wide) in paragraph at lines 148--148
+Overfull \hbox (60.46204pt too wide) in paragraph at lines 144--144
 [][][] 
  []
 
 
-Overfull \hbox (60.46204pt too wide) in paragraph at lines 148--148
+Overfull \hbox (60.46204pt too wide) in paragraph at lines 144--144
 [][][] 
  []
 
 
-Overfull \hbox (60.46204pt too wide) in paragraph at lines 148--148
+Overfull \hbox (60.46204pt too wide) in paragraph at lines 144--144
 [][][] 
  []
 
 
-Overfull \hbox (60.46204pt too wide) in paragraph at lines 148--148
+Overfull \hbox (60.46204pt too wide) in paragraph at lines 144--144
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./picture
-.jpg>] [2
+.jpg>]
 
-]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 199.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 199.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 199.
+Class scrartcl Warning: Usage of deprecated command `\ifthispageodd'.
+(scrartcl)              The command has been renamed because of a
+(scrartcl)              recommendation of The LaTeX Project Team.
+(scrartcl)              Please replace `\ifthispageodd' by `\Ifthispageodd' on 
+input line 206.
 
-Overfull \hbox (11.9456pt too wide) in paragraph at lines 199--200
+<Research_map/research_areas.png, id=28, 528.2937pt x 314.3745pt>
+File: Research_map/research_areas.png Graphic file (type png)
+<use Research_map/research_areas.png>
+Package luatex.def Info: Research_map/research_areas.png  used on input line 20
+6.
+(luatex.def)             Requested size: 170.71655pt x 101.59006pt.
+
+Underfull \hbox (badness 3138) in paragraph at lines 206--206
+[]\TU/Carlito(0)/m/n/9 My re-search spans a broad range of ge-o-
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 206--206
+\TU/Carlito(0)/m/n/9 trop-i-cal ar-eas like Moorea, Tahiti, and Fiji,
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 206--206
+\TU/Carlito(0)/b/n/9 mod-ern coastal pro-cesses and coral reef
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 206--206
+\TU/Carlito(0)/m/n/9 method-olo-gies to tackle the com-plex-i-ties of
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 206--206
+\TU/Carlito(0)/m/n/9 ex-pe-di-tions to all the afore-men-tioned lo-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+[2
+
+<./Research_map/research_areas.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 214.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 214.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 214.
+
+Overfull \hbox (11.9456pt too wide) in paragraph at lines 214--215
 []\TU/Carlito(0)/m/n/12 The names of post-docs, Ph.D. or mas-ter stu-dents au-th
 ored while un-der my men-tor-ing or su-per-vi-sion are $[]$.
  []
 
-
-LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 202.
-
-
-Package biblatex Warning: Type 'book' not found on input line 203.
-
-
-LaTeX Warning: Empty bibliography on input line 203.
-
-
-Package biblatex Warning: Type 'article' not found on input line 205.
-
-
-LaTeX Warning: Empty bibliography on input line 205.
-
-
-Package biblatex Warning: Type 'periodical' not found on input line 207.
-
-
-LaTeX Warning: Empty bibliography on input line 207.
-
-
-Package biblatex Warning: Type 'dataset' not found on input line 209.
-
-
-LaTeX Warning: Empty bibliography on input line 209.
-
-
-Package biblatex Warning: Type 'misc' not found on input line 211.
-
-
-LaTeX Warning: Empty bibliography on input line 211.
-
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 216.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 216.
 [3
-
 
 ] (./resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                resume
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'resume.run.xml'.
 
 \openout1 = resume.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 40908 strings out of 477785
+ 41260 strings out of 477785
  125007,1977958 words of node,token memory allocated
- 553 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 76 glue_spec,
- 5 attribute_list, 2 write nodes
-   avail lists: 1:4,2:1756,3:782,4:243,5:1332,6:389,7:10911,8:40,9:1488,10:12,11
-:766
- 60412 multiletter control sequences out of 65536+600000
- 59 fonts using 12391615 bytes
+ 583 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 8 attribute, 76 glue_spec,
+ 8 attribute_list, 2 write, 3 pdf_action nodes
+   avail lists: 1:3,2:1699,3:740,4:231,5:1457,6:379,7:10938,8:66,9:1458,10:21,11
+:813
+ 60723 multiletter control sequences out of 65536+600000
+ 70 fonts using 14181519 bytes
  125i,15n,113p,10601b,5031s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/truetype/public/academicons/academicon
-s.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/typoland/carlito/Carlit
-o-Regular.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/fontawes
-ome/FontAwesome.otf></usr/local/texlive/2022/texmf-dist/fonts/truetype/typoland/
-carlito/Carlito-Bold.ttf>
-Output written on resume.pdf (3 pages, 1177771 bytes).
+</usr/local/texlive/2022/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Ital
+ic.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/public/academicons/aca
+demicons.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/typoland/carlito
+/Carlito-Regular.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/f
+ontawesome/FontAwesome.otf></usr/local/texlive/2022/texmf-dist/fonts/truetype/ty
+poland/carlito/Carlito-Bold.ttf>
+Output written on resume.pdf (3 pages, 1230686 bytes).
 
-PDF statistics: 65 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 131072)
+PDF statistics: 102 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
