@@ -1,20 +1,20 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ENG.blg'
-[51] biber-darwin:340> INFO - === Mon Nov  4, 2024, 07:32:25
-[62] Biber.pm:418> INFO - Reading '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ENG.bcf'
-[140] Biber.pm:969> INFO - Using all citekeys in bib section 0
-[153] Biber.pm:4383> INFO - Processing section 0
-[160] Biber.pm:4574> INFO - Looking for bibtex file '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib' for section 0
-[177] bibtex.pm:1713> INFO - LaTeX decoding ...
-[420] bibtex.pm:1518> INFO - Found BibTeX data source '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib'
+[55] biber-darwin:340> INFO - === Mon Nov  4, 2024, 07:38:42
+[67] Biber.pm:418> INFO - Reading '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ENG.bcf'
+[143] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[156] Biber.pm:4383> INFO - Processing section 0
+[164] Biber.pm:4574> INFO - Looking for bibtex file '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib' for section 0
+[181] bibtex.pm:1713> INFO - LaTeX decoding ...
+[418] bibtex.pm:1518> INFO - Found BibTeX data source '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib'
+[1802] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
 [1802] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1803] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1803] Biber.pm:4203> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[1803] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[2021] bbl.pm:654> INFO - Writing '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ENG.bbl' with encoding 'UTF-8'
-[2223] bbl.pm:757> INFO - Output to /Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ENG.bbl
-[2223] Biber.pm:130> WARN - Entry 'Gowan:2022vt' (/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib): Invalid format '2022/10/24' of date field 'date' - ignoring
-[2223] Biber.pm:130> WARN - ISBN '2041-1723' in entry 'Gowan:2022vt' is invalid - run biber with '--validate_datamodel' for details.
-[2223] Biber.pm:130> WARN - Entry 'Scardino:2024aa' (/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib): Invalid format '2024/04/05' of date field 'date' - ignoring
-[2223] Biber.pm:130> WARN - ISBN '2045-2322' in entry 'Scardino:2024aa' is invalid - run biber with '--validate_datamodel' for details.
-[2223] Biber.pm:132> INFO - WARNINGS: 4
+[1802] Biber.pm:4203> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1802] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[2027] bbl.pm:654> INFO - Writing '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ENG.bbl' with encoding 'UTF-8'
+[2228] bbl.pm:757> INFO - Output to /Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/.texpadtmp/Resume_full_ENG.bbl
+[2228] Biber.pm:130> WARN - Entry 'Scardino:2024aa' (/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib): Invalid format '2024/04/05' of date field 'date' - ignoring
+[2228] Biber.pm:130> WARN - ISBN '2045-2322' in entry 'Scardino:2024aa' is invalid - run biber with '--validate_datamodel' for details.
+[2228] Biber.pm:130> WARN - Entry 'Gowan:2022vt' (/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Resume/Resume_AR/sample.bib): Invalid format '2022/10/24' of date field 'date' - ignoring
+[2228] Biber.pm:130> WARN - ISBN '2041-1723' in entry 'Gowan:2022vt' is invalid - run biber with '--validate_datamodel' for details.
+[2228] Biber.pm:132> INFO - WARNINGS: 4
